@@ -760,19 +760,19 @@ escolheria contribui para o pessoas que
 
 191
 00:08:05,060 --> 00:08:09,410
-você que que você vai ganhar conheço
+você que você vai ganhar com isso
 
 192
 00:08:07,130 --> 00:08:12,620
-individualmente uma coisa mais egoísta é
+individualmente. Uma coisa mais egoísta.
 
 193
 00:08:09,410 --> 00:08:15,200
-além das questões de todas filosóficas e
+Além das questões de todas filosóficas.
 
 194
 00:08:12,620 --> 00:08:17,000
-é tem várias coisas né você vem
+Tem várias coisas. Você tem
 
 195
 00:08:15,200 --> 00:08:18,680
@@ -780,7 +780,7 @@ experiência no mundo real porque nem
 
 196
 00:08:17,000 --> 00:08:20,690
-sempre né dependendo de onde você tá
+sempre, dependendo de onde você tá
 
 197
 00:08:18,680 --> 00:08:22,850
@@ -792,7 +792,7 @@ um software que tá tendo muitos usuários
 
 199
 00:08:22,850 --> 00:08:27,590
-um software né se você tá sabendo vindo
+um software, se você tá sabendo vindo
 
 200
 00:08:25,610 --> 00:08:30,710
@@ -800,11 +800,11 @@ do mundo acadêmico você provavelmente só
 
 201
 00:08:27,590 --> 00:08:34,130
-fez alguns deveres de casa alguns
+fez alguns deveres de casa, alguns
 
 202
 00:08:30,710 --> 00:08:36,960
-projetos pequenos que depois de lhe
+projetos pequenos que depois deles
 
 203
 00:08:34,130 --> 00:08:41,610
@@ -812,15 +812,15 @@ serem desenvolvidos ninguém mais vai
 
 204
 00:08:36,960 --> 00:08:44,910
-e ninguém mais vai olhar aquele código
+ olhar aquele código
 
 205
 00:08:41,610 --> 00:08:46,110
-né então é interessante quando você
+Então é interessante quando você
 
 206
 00:08:44,910 --> 00:08:47,640
-começa a colaborar com uma pessoas que
+começa a colaborar com open source
 
 207
 00:08:46,110 --> 00:08:51,480
@@ -828,23 +828,23 @@ geralmente esse projeto um projeto que
 
 208
 00:08:47,640 --> 00:08:53,220
-tem milhares de usuários e que tem que
+tem milhares de usuários e que 
 
 209
 00:08:51,480 --> 00:08:55,260
-são que estão mundo real que vão tão
+estão mundo real que vão ter
 
 210
 00:08:53,220 --> 00:08:58,110
-release que vão ter pessoas usando ali
+release, que vão ter pessoas usando
 
 211
 00:08:55,260 --> 00:09:01,470
-super rapidamente tem questão de
+super rapidamente. Tem questão de
 
 212
 00:08:58,110 --> 00:09:02,670
-colaborar em equipes grandes né você
+colaborar em equipes grandes, você
 
 213
 00:09:01,470 --> 00:09:04,170
@@ -852,7 +852,7 @@ essencialmente quando você tá
 
 214
 00:09:02,670 --> 00:09:05,730
-colaborando em o pessoal se você não
+colaborando em open source, você não
 
 215
 00:09:04,170 --> 00:09:07,650
@@ -860,7 +860,7 @@ sabe quantas pessoas estão olhando
 
 216
 00:09:05,730 --> 00:09:10,680
-aquele código lá naquele código então
+aquele código lá naquele código. Então
 
 217
 00:09:07,650 --> 00:09:11,820
@@ -888,11 +888,11 @@ se expressar melhor você tem que
 
 223
 00:09:19,490 --> 00:09:24,570
-documentar melhor né você não sabe quem
+documentar melhor. Você não sabe 
 
 224
 00:09:22,110 --> 00:09:26,190
-é não não é só o seu tim e allie que
+que não s o seu time que
 
 225
 00:09:24,570 --> 00:09:27,570
@@ -900,11 +900,11 @@ você pode tirar uma dúvida rapidinho são
 
 226
 00:09:26,190 --> 00:09:29,870
-pessoas que estão do outro lado no mundo
+pessoas que estão do outro lado no mundo.
 
 227
 00:09:27,570 --> 00:09:33,090
-então é uma experiência interessante
+Então é uma experiência interessante
 
 228
 00:09:29,870 --> 00:09:35,820
@@ -912,15 +912,15 @@ você é se expõe as boas práticas da
 
 229
 00:09:33,090 --> 00:09:36,970
-indústria da indústria de software
+da indústria de software
 
 230
 00:09:35,820 --> 00:09:42,269
-porque geralmente assistir
+porque geralmente esses projetos
 
 231
 00:09:36,970 --> 00:09:46,230
-a string é muito está estes tem muitas
+tem muitos testes, tem muitos
 
 232
 00:09:42,269 --> 00:09:48,459
@@ -928,11 +928,11 @@ linters para tem um estilo de código tem
 
 233
 00:09:46,230 --> 00:09:49,810
-continuous integration né vou dar o
+continuous integration, rodar o
 
 234
 00:09:48,459 --> 00:09:52,750
-teste em casa por parece então
+teste em cada pull request
 
 235
 00:09:49,810 --> 00:09:55,120
@@ -940,23 +940,23 @@ geralmente você se expõe rapidamente há
 
 236
 00:09:52,750 --> 00:10:00,250
-muitas boas práticas da indústria você
+muitas boas práticas da indústria. Você
 
 237
 00:09:55,120 --> 00:10:01,569
-cria um portfólio pessoal também na se
+cria um portfólio pessoal também.
 
 238
 00:10:00,250 --> 00:10:03,459
-você quando você tá trabalhando numa
+Quando você está trabalhando numa
 
 239
 00:10:01,569 --> 00:10:06,310
-empresa que tá fazendo o código é
+empresa que tá fazendo o código
 
 240
 00:10:03,459 --> 00:10:07,990
-fechado né você geralmente aquele código
+fechado, geralmente aquele código
 
 241
 00:10:06,310 --> 00:10:09,610
@@ -980,7 +980,7 @@ pessoas e quando você vai procurar um
 
 246
 00:10:14,290 --> 00:10:18,639
-emprego você não pode você pode falar
+emprego,pode você pode falar
 
 247
 00:10:17,199 --> 00:10:20,889
@@ -988,19 +988,19 @@ olha eu já fiz isso mas você não tem
 
 248
 00:10:18,639 --> 00:10:22,480
-muita como provar né e quando você tá
+muita como provar e quando você tá
 
 249
 00:10:20,889 --> 00:10:25,420
-contribuindo como foi só se você manda o
+contribuindo com o open source, você manda o
 
 250
 00:10:22,480 --> 00:10:27,189
-link do seu hit rápido do seu perfil
+link do seu github,  do seu perfil
 
 251
 00:10:25,420 --> 00:10:29,410
-online e as pessoas podem ver ficar
+online e as pessoas podem verificar
 
 252
 00:10:27,189 --> 00:10:30,819
@@ -1008,15 +1008,15 @@ diretamente as contribuições para você
 
 253
 00:10:29,410 --> 00:10:32,800
-já fez eles podem ver como você
+já fez, eles podem ver como você
 
 254
 00:10:30,819 --> 00:10:35,230
-interagiu com as pessoas no tim tudo
+interagiu com as pessoas no time, tudo
 
 255
 00:10:32,800 --> 00:10:36,950
-fica gravado ali o que é bom que queria
+fica gravado ali o que é bom que cria
 
 256
 00:10:35,230 --> 00:10:40,400
@@ -1024,7 +1024,7 @@ um portfólio para você mostrar
 
 257
 00:10:36,950 --> 00:10:44,930
-16 anos e no final eu queria mencionar
+o que você já fez antes. No final eu queria mencionar
 
 258
 00:10:40,400 --> 00:10:46,430
@@ -1048,19 +1048,19 @@ estão ganhando nenhuma recompensa
 
 263
 00:10:54,830 --> 00:11:01,610
-financeira com isso aqui é não é não é
+financeira com isso aqui. Não
 
 264
 00:10:59,540 --> 00:11:03,380
-verdade né eu na verdade hoje em dia ou
+verdade. Hoje em dia 
 
 265
 00:11:01,610 --> 00:11:05,870
-pensar se os grandes projetos tem
+os grandes projetos open source tem
 
 266
 00:11:03,380 --> 00:11:08,090
-empresas por trás tem os engenheiros que
+empresas por trás, tem os engenheiros que
 
 267
 00:11:05,870 --> 00:11:09,590
@@ -1072,7 +1072,7 @@ para isso eu por exemplo nos sete anos
 
 269
 00:11:09,590 --> 00:11:12,860
-que eu tô trabalhando aí alcançasse a
+que eu tô trabalhando em open source
 
 270
 00:11:11,450 --> 00:11:14,660
@@ -1080,7 +1080,7 @@ grande maioria das colaborações que eu
 
 271
 00:11:12,860 --> 00:11:17,180
-fiz eu fui paga por isso eu faço
+fiz eu fui paga por isso. Eu faço
 
 272
 00:11:14,660 --> 00:11:18,830
@@ -1092,11 +1092,11 @@ tempo em tempo mas a grande quantidade
 
 274
 00:11:18,830 --> 00:11:22,970
-do que eu fiz foi recebendo dinheiro
+do que eu fiz foi recebendo dinheiro.
 
 275
 00:11:21,290 --> 00:11:24,680
-então eu só queria desmistificar um
+Então eu só queria desmistificar um
 
 276
 00:11:22,970 --> 00:11:27,170
@@ -1104,15 +1104,15 @@ pouco isso talvez quando você começa a
 
 277
 00:11:24,680 --> 00:11:29,330
-colaborar você vai colaborar de graça
+colaborar você vai colaborar de graça,
 
 278
 00:11:27,170 --> 00:11:31,880
-vai vai vai vai fazer uma contribuição
+vai fazer uma contribuição
 
 279
 00:11:29,330 --> 00:11:34,310
-ali no seu tempo livre mas é possível
+ali no seu tempo livre. Mas é possível
 
 280
 00:11:31,880 --> 00:11:36,440
@@ -1124,39 +1124,39 @@ maioria desses projetos estão indo para
 
 282
 00:11:36,440 --> 00:11:40,020
-frente né
+frente.
 
 283
 00:11:36,960 --> 00:11:41,400
-e empresas google amazon facebook todos
+Essas grandes empresas: google, amazon, facebook, etc. Todos
 
 284
 00:11:40,020 --> 00:11:43,070
-eles têm projetos o pessoal se eles
+eles têm projetos open source e eles
 
 285
 00:11:41,400 --> 00:11:46,790
-estão pagando sem dinheiro deles para
+estão pagando os engenheiros deles para
 
 286
 00:11:43,070 --> 00:11:49,710
-desenvolver-se código de forma aberta
+desenvolver esse código de forma aberta.
 
 287
 00:11:46,790 --> 00:11:52,110
-então só antes de entrar nos dois passos
+Então só antes de entrar nos doze passos,
 
 288
 00:11:49,710 --> 00:11:55,770
-só pega uma ideia de aqui do que que
+só pega uma ideia de aqui do que
 
 289
 00:11:52,110 --> 00:11:57,330
-você vai precisar para começar né eu tô
+você vai precisar para começar. Eu tô
 
 290
 00:11:55,770 --> 00:11:59,790
-tentando fazer a sua aparência de uma
+tentando fazer essa palestra de uma
 
 291
 00:11:57,330 --> 00:12:03,240
@@ -1164,7 +1164,7 @@ forma bem genérica para não ser só a
 
 292
 00:11:59,790 --> 00:12:05,550
-limitada ao irene chão e ao rose e
+limitada ao ignition ou ao ros e
 
 293
 00:12:03,240 --> 00:12:08,850
@@ -1172,19 +1172,19 @@ pensando em termos gerais no que eu já
 
 294
 00:12:05,550 --> 00:12:10,260
-vi ideal pessoas por aí algumas coisas
+vi de open source por aí. Algumas coisas
 
 295
 00:12:08,850 --> 00:12:14,100
-que são importantes a primeira é o
+que são importantes, a primeira é o
 
 296
 00:12:10,260 --> 00:12:17,340
-inglês né não que não existam projetos
+inglês. Não que não existam projetos
 
 297
 00:12:14,100 --> 00:12:18,870
-em português eu eu já vi projetos são
+em português. Eu já vi projetos sendo
 
 298
 00:12:17,340 --> 00:12:20,180
@@ -1200,15 +1200,15 @@ contribuidores é em português mas a
 
 301
 00:12:24,420 --> 00:12:29,550
-grande maioria dos projetos de grandes
+grande maioria dos projetos grandes
 
 302
 00:12:26,400 --> 00:12:32,880
-estão acontecendo em inglês o código é
+estão acontecendo em inglês. O código é
 
 303
 00:12:29,550 --> 00:12:34,650
-documentado em inglês ea interação entre
+documentado em inglês e a interação entre
 
 304
 00:12:32,880 --> 00:12:36,970
@@ -1216,15 +1216,15 @@ as pessoas que estão contribuindo em
 
 305
 00:12:34,650 --> 00:12:39,339
-inglês e isso
+inglês. Isso não se limita
 
 306
 00:12:36,970 --> 00:12:41,199
-é só pessoas que primeira língua inglês
+só pessoas que primeira língua inglês.
 
 307
 00:12:39,339 --> 00:12:43,990
-pelo contrário a pessoas no mundo
+Pelo contrário, as pessoas no mundo
 
 308
 00:12:41,199 --> 00:12:45,819
@@ -1232,7 +1232,7 @@ inteiro de vários países onde a língua
 
 309
 00:12:43,990 --> 00:12:47,290
-primária deles não é inglês estão
+primária deles não é inglês, estão
 
 310
 00:12:45,819 --> 00:12:50,500
@@ -1240,11 +1240,11 @@ desenvolvendo em inglês justamente para
 
 311
 00:12:47,290 --> 00:12:53,740
-atingir uma audiência maior então você
+atingir uma audiência maior. Então você
 
 312
 00:12:50,500 --> 00:12:55,600
-não vai precisar falar e ouvir mães em
+não vai precisar falar e ouvir muito
 
 313
 00:12:53,740 --> 00:12:58,420
@@ -1252,7 +1252,7 @@ inglês mas você vai precisar mais é ler
 
 314
 00:12:55,600 --> 00:12:59,889
-e escrever né e mas mesmo que você
+e escrever. Mas mesmo que você
 
 315
 00:12:58,420 --> 00:13:01,389
@@ -1264,7 +1264,7 @@ estar preocupado com a sua gramática
 
 317
 00:13:01,389 --> 00:13:06,790
-ninguém vai ter preocupado com se o seu
+ninguém vai ter preocupado se o seu
 
 318
 00:13:04,810 --> 00:13:08,500
@@ -1280,23 +1280,23 @@ querem se comunicar e se elas estão
 
 321
 00:13:09,699 --> 00:13:14,350
-entendendo o que você quer dizer eu qual
+entendendo o que você quer dizer.
 
 322
 00:13:12,250 --> 00:13:15,579
-é sabe qual foi a contribuição que você
+Saber qual foi a contribuição que você
 
 323
 00:13:14,350 --> 00:13:17,769
-fez qual é o banco que você tá tentando
+fez, qual é o bug que você tá tentando
 
 324
 00:13:15,579 --> 00:13:23,860
-resolver no final das contas é isso que
+resolver. No final das contas é isso que
 
 325
 00:13:17,769 --> 00:13:26,889
-importa né então se sabe no final das
+importa. No final das
 
 326
 00:13:23,860 --> 00:13:28,660
@@ -1320,15 +1320,15 @@ distante do inglês a nossa na pior das
 
 331
 00:13:35,800 --> 00:13:39,440
-hipóteses se você não fala em
+hipóteses se você não fala ingles
 
 332
 00:13:36,950 --> 00:13:41,360
-se você bota no tradutor e a tradução
+você bota no tradutor e a tradução
 
 333
 00:13:39,440 --> 00:13:43,370
-não fica uma coisa assim pra mim cabeça
+não fica uma coisa sem pé nem cabeça
 
 334
 00:13:41,360 --> 00:13:44,630
@@ -1340,7 +1340,7 @@ estrutura gramatical parecida com o
 
 336
 00:13:44,630 --> 00:13:48,740
-inglês então na pior das hipóteses usam
+inglês. Então na pior das hipóteses usam
 
 337
 00:13:46,910 --> 00:13:51,530
@@ -1348,7 +1348,7 @@ tradutor tanto para o que você tá lendo
 
 338
 00:13:48,740 --> 00:13:54,320
-quanto o que você tá o que você tá
+quanto o que você tá 
 
 339
 00:13:51,530 --> 00:13:56,570
@@ -1356,15 +1356,15 @@ dizendo e usa mas não deixa o inglês seu
 
 340
 00:13:54,320 --> 00:13:59,570
-empecilho para você não colaborar
+empecilho para você não colaborar.
 
 341
 00:13:56,570 --> 00:14:02,390
-e outra coisa que é importante é o
+Outra coisa que importante é o
 
 342
 00:13:59,570 --> 00:14:03,860
-controle de versão né a maioria desses
+controle de versão. A maioria desses
 
 343
 00:14:02,390 --> 00:14:05,720
@@ -1384,11 +1384,11 @@ controle de versão se você não tem
 
 347
 00:14:10,340 --> 00:14:15,140
-familiaridade convite ou com outras
+familiaridade com git ou com outras
 
 348
 00:14:12,740 --> 00:14:18,560
-ferramentas por exemplo mercúrio é uma
+ferramentas por exemplo mercurial é uma
 
 349
 00:14:15,140 --> 00:14:20,270
@@ -1400,11 +1400,11 @@ alimenta sua código também se você tá
 
 351
 00:14:20,270 --> 00:14:29,150
-colaborando com com gráficos algum
+colaborando com gráficos ou com
 
 352
 00:14:26,680 --> 00:14:30,950
-traduções ou com documentação vocês
+traduções ou com documentação. Vocês
 
 353
 00:14:29,150 --> 00:14:32,660
@@ -1412,15 +1412,15 @@ geralmente hoje em dia vai ter que usar
 
 354
 00:14:30,950 --> 00:14:38,210
-esse também né não é só para
+git também. Não é só para
 
 355
 00:14:32,660 --> 00:14:40,790
-programadores então é uma boa é aprender
+programadores. Então é uma boa é aprender
 
 356
 00:14:38,210 --> 00:14:43,550
-o vídeo especificamente porque viveram a
+o git especificamente porque viveram a
 
 357
 00:14:40,790 --> 00:14:45,020
@@ -1432,19 +1432,19 @@ utilizado por todos os projetos por
 
 359
 00:14:45,020 --> 00:14:51,290
-exemplo aqui no site de web onde eu tô
+exemplo aqui no site github, onde eu tô
 
 360
 00:14:46,760 --> 00:14:53,400
-com esse com esse repositório aqui o kit
+com esse repositório aqui, o git
 
 361
 00:14:51,290 --> 00:14:57,540
-é o controle de versão que é utilizado
+é o controle de versão que é utilizado.
 
 362
 00:14:53,400 --> 00:14:59,370
-ó e vai finalmente né cada projeto vai
+Finalmente, cada projeto vai
 
 363
 00:14:57,540 --> 00:15:00,630
@@ -1452,39 +1452,39 @@ ter uma habilidade específica que você
 
 364
 00:14:59,370 --> 00:15:02,670
-vai ter que saber para colocar aquele
+vai ter que saber para colaborar
 
 365
 00:15:00,630 --> 00:15:04,350
-com aquele projeto se você tá sem um
+com aquele projeto. Se você é um
 
 366
 00:15:02,670 --> 00:15:05,730
-projeto de web front-end você
+projeto de web front-end, você
 
 367
 00:15:04,350 --> 00:15:08,070
-provavelmente vai ter que saber já fez
+provavelmente vai ter que saber javascript,
 
 368
 00:15:05,730 --> 00:15:13,260
-cliente vai ter que sabemos é se você é
+vai ter que saber um CSS,
 
 369
 00:15:08,070 --> 00:15:15,270
-um projeto de celular para vender aí o s
+Se um projeto de IOS,
 
 370
 00:15:13,260 --> 00:15:16,830
-você vai ter que saber a isso bíblia até
+você vai ter que saber as bibliotecas
 
 371
 00:15:15,270 --> 00:15:19,470
-te esqueci usa para desenvolver em
+que usa para desenvolver em
 
 372
 00:15:16,830 --> 00:15:20,670
-iphone e tal hoje para já disputou que
+iphone. Os projetos que
 
 373
 00:15:19,470 --> 00:15:22,500
@@ -1492,15 +1492,15 @@ eu vou falar que hoje tem muito
 
 374
 00:15:20,670 --> 00:15:25,740
-conhecimento de ser mais demais o rosto
+conhecimento de c++ o ros
 
 375
 00:15:22,500 --> 00:15:29,850
-tem bastante pai então também e ser
+tem bastante python e C.
 
 376
 00:15:25,740 --> 00:15:31,140
-também então cada projeto vai ter alguma
+Então cada projeto vai ter alguma
 
 377
 00:15:29,850 --> 00:15:33,270
@@ -1508,15 +1508,15 @@ habilidade específica que você vai ter
 
 378
 00:15:31,140 --> 00:15:35,880
-que saber para aquele projeto né não dá
+que saber para aquele projeto. Não dá
 
 379
 00:15:33,270 --> 00:15:40,790
-para generalizar muito aí
+para generalizar muito.
 
 380
 00:15:35,880 --> 00:15:44,510
-bom então vamos ver which 12 passos aqui
+Bom então vamos ver os 12 passos aqui.
 
 381
 00:15:40,790 --> 00:15:47,460
