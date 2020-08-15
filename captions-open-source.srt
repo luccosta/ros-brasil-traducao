@@ -1,74 +1,74 @@
 1
 00:00:00,000 --> 00:00:04,830
-e também vendo os todo mundo é bom dia
+Sejam bem-vindos todo mundo. Bom dia,
 
 2
 00:00:03,449 --> 00:00:06,600
-boa tarde boa noite dependendo de onde
+boa tarde ou boa noite dependendo de onde
 
 3
 00:00:04,830 --> 00:00:10,139
-você esteja agora para mim aqui são 10
+você esteja. Agora para mim aqui são 10
 
 4
 00:00:06,600 --> 00:00:13,650
-horas da manhã meu nome é luiza poubel
+horas da manhã. Meu nome é Louise Poubel
 
 5
 00:00:10,139 --> 00:00:14,849
-para quem me conhece eu sou eu trabalho
+para quem não me conhece. Eu tenho trabalhado
 
 6
 00:00:13,650 --> 00:00:17,220
-com pessoas que têm trabalhado com
+com open source
 
 7
 00:00:14,849 --> 00:00:19,380
-pensou assim nos últimos sete anos eu
+nos últimos sete anos. Eu
 
 8
 00:00:17,220 --> 00:00:22,529
-trabalho na outra uma borax é que é uma
+trabalho na Open Robotics que é uma
 
 9
 00:00:19,380 --> 00:00:23,550
-empresa que desenvolve o ross e outros
+empresa que desenvolve o ros e outros
 
 10
 00:00:22,529 --> 00:00:25,529
-projetos que eu penso assim também
+projetos open source também
 
 11
 00:00:23,550 --> 00:00:28,039
-ligados a robótica como simulador
+ligados a robótica como o simulador
 
 12
 00:00:25,529 --> 00:00:32,969
-brasileiro é e agora simulador ignition
+gazebo e agora simulador ignition.
 
 13
 00:00:28,039 --> 00:00:34,680
-e eu a gente eu sou até cliente do
+Atualmente eu sou a Tech Lead do
 
 14
 00:00:32,969 --> 00:00:38,070
-ignition tem o novo simulador que a
+ignition que é o novo simulador que
 
 15
 00:00:34,680 --> 00:00:39,960
-gente está desenvolvendo e para quem se
+estamos desenvolvendo e para quem
 
 16
 00:00:38,070 --> 00:00:42,570
-importa com com twitter tal tá no
+usa o twitter
 
 17
 00:00:39,960 --> 00:00:44,520
-twitter o meu nome é chapolin na br e eu
+o meu usuário é @chapulinaBR e eu
 
 18
 00:00:42,570 --> 00:00:45,840
-tô sempre lá mostrando coisas de coisas
+tô sempre lá mostrando coisas
 
 19
 00:00:44,520 --> 00:00:48,180
@@ -80,11 +80,11 @@ mais ligados ao ignição mesmo de vez em
 
 21
 00:00:48,180 --> 00:00:53,969
-quando aparece uma coisa do bronze ou
+quando aparece uma coisa do ros ou
 
 22
 00:00:49,860 --> 00:00:55,469
-outra então hoje o pedro pediu para mim
+outra. Então hoje o pedro pediu para mim
 
 23
 00:00:53,969 --> 00:00:57,770
@@ -96,11 +96,11 @@ como colaborar em projetos open source
 
 25
 00:00:57,770 --> 00:01:01,690
-de né de código aberto
+(código aberto)
 
 26
 00:01:00,010 --> 00:01:04,449
-isso é uma coisa que eu tenho
+É uma coisa que eu tenho
 
 27
 00:01:01,690 --> 00:01:07,750
@@ -112,7 +112,7 @@ uma expert em é todas as formas de se
 
 29
 00:01:07,750 --> 00:01:11,140
-colaborarem alpes ócio tudo que eu tenho
+colaborarem em open source. Tudo que eu tenho
 
 30
 00:01:09,369 --> 00:01:13,000
@@ -128,11 +128,11 @@ então eu vou trazer um pouquinho dessa
 
 33
 00:01:15,070 --> 00:01:21,909
-experiência que eu tenho aqui para vocês
+experiência que eu tenho aqui para vocês.
 
 34
 00:01:17,610 --> 00:01:23,830
-mas se alguém discordar de alguma coisa
+Mas se alguém discordar de alguma coisa
 
 35
 00:01:21,909 --> 00:01:25,299
@@ -144,23 +144,23 @@ ideias acha que eu não cobrei coisas que
 
 37
 00:01:25,299 --> 00:01:32,679
-são importantes fala depois no na parte
+são importantes fala depois na parte
 
 38
 00:01:30,880 --> 00:01:37,840
-das perguntas pergunta bastante porque
+das perguntas. Pergunte porque
 
 39
 00:01:32,679 --> 00:01:43,210
-eu realmente juntei esse esse guia que
+eu realmente juntei esse guia
 
 40
 00:01:37,840 --> 00:01:47,170
-mais pensando no nas experiências que eu
+mais pensando nas experiências que eu
 
 41
 00:01:43,210 --> 00:01:49,240
-tive no passado é eu ia fazer um
+tive no passado. Eu ia fazer um
 
 42
 00:01:47,170 --> 00:01:51,130
@@ -168,11 +168,11 @@ powerpoint mas aí eu decidi como era
 
 43
 00:01:49,240 --> 00:01:53,470
-falar sobre o pessoal se criar um guia
+falar sobre open source, criar um guia
 
 44
 00:01:51,130 --> 00:01:55,569
-no dia de rubi então eu vou ficar usando
+no github então eu vou ficar usando
 
 45
 00:01:53,470 --> 00:01:57,940
@@ -180,15 +180,15 @@ ele aqui eu vou colar o link aqui no
 
 46
 00:01:55,569 --> 00:02:00,020
-geral lá do discord' vou colar aqui
+geral lá do discord vou colar aqui
 
 47
 00:01:57,940 --> 00:02:03,950
-também na no chat
+também no chat
 
 48
 00:02:00,020 --> 00:02:06,229
-o que tão chata poderia dar uma olhada
+para as pesoas que estiverem no chat darem uma olhada
 
 49
 00:02:03,950 --> 00:02:08,629
@@ -196,7 +196,7 @@ que quem quiser acompanhar pode ir
 
 50
 00:02:06,229 --> 00:02:12,230
-clicando no juntos que estão lá vai eu
+clicando no juntos que estão lá. Eu
 
 51
 00:02:08,629 --> 00:02:15,470
@@ -212,11 +212,11 @@ referência para começar a colaborar em
 
 54
 00:02:17,660 --> 00:02:26,360
-alcançar então vamos lá deixa eu
+open source. Então vamos lá. Deixa eu
 
 55
 00:02:24,230 --> 00:02:29,209
-compartilhar minha tela que começar com
+compartilhar minha tela e começar com
 
 56
 00:02:26,360 --> 00:02:31,430
@@ -224,47 +224,47 @@ esse guia de 12 passos que eu criei que
 
 57
 00:02:29,209 --> 00:02:33,079
-é só esse link do gueto rap quê que
+é só esse link do github que
 
 58
 00:02:31,430 --> 00:02:37,880
-vocês tão vendo então espero que vocês
+vocês tão vendo. Então espero que vocês
 
 59
 00:02:33,079 --> 00:02:40,130
-estejam vendo ele é é um repositório que
+estejam vendo ele. É um repositório que
 
 60
 00:02:37,880 --> 00:02:41,510
-eu queria só com um arquivo de mark dão
+eu criei só com um arquivo de markdown
 
 61
 00:02:40,130 --> 00:02:43,220
-para gente seguir passo a passo quem
+para gente seguir passo a passo. Quem
 
 62
 00:02:41,510 --> 00:02:46,819
-quiser clicando nos links que eu vou tá
+quiser clicando nos links que eu vou estar
 
 63
 00:02:43,220 --> 00:02:50,180
-mostrando é só acompanhar junto lá então
+mostrando é só acompanhar junto lá. Então
 
 64
 00:02:46,819 --> 00:02:53,420
-é para quem é esse guia né difícil
+é para quem é esse guia? Difícil
 
 65
 00:02:50,180 --> 00:02:55,160
-tentar saber qual é a sua audiência
+tentar saber qual é a sua audiência.
 
 66
 00:02:53,420 --> 00:02:56,959
-imagina que tem um pessoas aqui com
+Eu imageino que tenham pessoas aqui com
 
 67
 00:02:55,160 --> 00:02:58,700
-nenhuma experiência de o pessoal você
+nenhuma experiência de open source,
 
 68
 00:02:56,959 --> 00:03:00,030
@@ -272,27 +272,27 @@ pode ter pessoas aqui que já tem
 
 69
 00:02:58,700 --> 00:03:02,100
-bastante experiência tem gente
+bastante experiência, tem gente
 
 70
 00:03:00,030 --> 00:03:04,680
-em vários níveis diferença programando
+em vários níveis de experiência de programação
 
 71
 00:03:02,100 --> 00:03:08,640
-diferentes então eu tentei fazer um guia
+diferentes. Então eu tentei fazer um guia
 
 72
 00:03:04,680 --> 00:03:12,150
-que é geral que eu acho que vai ter um
+que é geral, eu acho que vai ter um
 
 73
 00:03:08,640 --> 00:03:15,000
-pouquinho para cada pessoa é o foco vai
+pouquinho para cada pessoa. O foco vai
 
 74
 00:03:12,150 --> 00:03:16,940
-ser quanto contribuir com código né
+ser contribuir com código
 
 75
 00:03:15,000 --> 00:03:19,080
@@ -300,7 +300,7 @@ apesar de que existem outras formas de
 
 76
 00:03:16,940 --> 00:03:23,580
-colaborar e eu pensasse que eu vou falar
+colaborar em open source que eu vou falar
 
 77
 00:03:19,080 --> 00:03:25,080
@@ -312,15 +312,15 @@ que eu tô trabalhando hoje em dia é o
 
 79
 00:03:25,080 --> 00:03:29,670
-ignition eu vou eu vou ficar fofocando
+ignition eu vou ficar focando
 
 80
 00:03:28,020 --> 00:03:31,170
-mais um pouquinho mini-choque comissão
+mais um pouquinho no ignotion e como é
 
 81
 00:03:29,670 --> 00:03:33,390
-amamentar pediu lá eu também vou falar
+uma MeetUp de ros, eu também vou falar
 
 82
 00:03:31,170 --> 00:03:35,310
@@ -328,7 +328,7 @@ um pouquinho sobre qual seria o processo
 
 83
 00:03:33,390 --> 00:03:37,760
-de voz dois mas basicamente nessa
+de ros2 mas basicamente nessa
 
 84
 00:03:35,310 --> 00:03:40,050
@@ -336,19 +336,19 @@ apresentação eu vou do início ao fim
 
 85
 00:03:37,760 --> 00:03:42,330
-encontrar um banho na ignição para
+encontrar um bug na ignição para
 
 86
 00:03:40,050 --> 00:03:45,060
-resolver resolver conjunto de vocês
+resolver resolver junto com vocês
 
 87
 00:03:42,330 --> 00:03:47,670
-rapidinho e abrir um pouco e quest para
+rapidinho e abrir um pull request para
 
 88
 00:03:45,060 --> 00:03:50,160
-que os mantenedores possam realizar o
+que os mantenedores possam revisar o
 
 89
 00:03:47,670 --> 00:03:52,040
@@ -356,35 +356,35 @@ código e botar esse código como parte do
 
 90
 00:03:50,160 --> 00:03:55,519
-código oficial
+código oficial.
 
 91
 00:03:52,040 --> 00:03:57,799
-bom então vamos começar eh algumas
+Então vamos começar. Algumas
 
 92
 00:03:55,519 --> 00:03:59,840
-formas de colaborar né as pessoas
+formas de colaborar. As pessoas
 
 93
 00:03:57,799 --> 00:04:01,730
-geralmente pensam um código quando elas
+geralmente pensam em código quando elas
 
 94
 00:03:59,840 --> 00:04:04,700
-pensam em colaborar com código aberto né
+pensam em colaborar com código aberto.
 
 95
 00:04:01,730 --> 00:04:07,700
-com o pensou acho que é realmente a
+É realmente a
 
 96
 00:04:04,700 --> 00:04:10,879
-maior parte do que se faz em outras
+maior parte do que se faz em open
 
 97
 00:04:07,700 --> 00:04:12,530
-office é quando você tá fazendo o código
+source. Quando você tá fazendo o código
 
 98
 00:04:10,879 --> 00:04:14,689
@@ -396,7 +396,7 @@ completamente nova que não existia antes
 
 100
 00:04:14,689 --> 00:04:19,280
-ou você também pode consertar bugs né
+ou você também pode consertar bugs
 
 101
 00:04:17,060 --> 00:04:21,199
@@ -404,19 +404,19 @@ que são funcionalidades que já estão lá
 
 102
 00:04:19,280 --> 00:04:24,139
-mas não estão funcionando pronto certo
+mas não estão funcionando para um certo
 
 103
 00:04:21,199 --> 00:04:26,900
-caso é que não não cobrem todos os casos
+caso, que não não cobrem todos os casos
 
 104
 00:04:24,139 --> 00:04:31,039
-que fale aqui que dá um crush né como
+que falha ou que dá um crash. Consertar
 
 105
 00:04:26,900 --> 00:04:33,229
-você está esse tipo de bug mas as
+esse tipo de bug. Mas as
 
 106
 00:04:31,039 --> 00:04:34,820
@@ -428,11 +428,11 @@ muitas outras formas de colaborar como
 
 108
 00:04:34,820 --> 00:04:39,470
-por exemplo é conteúdo né todo o projeto
+por exemplo conteúdo todo o projeto
 
 109
 00:04:37,970 --> 00:04:41,360
-aqui um sócio não é só o código eu tenho
+open source não é só o código tem
 
 110
 00:04:39,470 --> 00:04:43,550
@@ -440,7 +440,7 @@ muito conteúdo que vai ao redor do
 
 111
 00:04:41,360 --> 00:04:45,830
-código tem toda a parte de design
+código. Tem toda a parte de design
 
 112
 00:04:43,550 --> 00:04:49,160
@@ -448,11 +448,11 @@ gráfico e isso pode ser design gráfico
 
 113
 00:04:45,830 --> 00:04:52,050
-do site do projeto ou pode ser dudu o
+do site do projeto ou pode ser do
 
 114
 00:04:49,160 --> 00:04:55,020
-software em si né tem ícone einstein
+software em si, tem ícone
 
 115
 00:04:52,050 --> 00:04:57,240
@@ -472,11 +472,11 @@ designer gráfico tem não necessariamente
 
 119
 00:05:01,590 --> 00:05:09,690
-um programador tem toda a questão de
+um programador. Tem toda a questão de
 
 120
 00:05:03,780 --> 00:05:11,849
-tradução né é só vários softwares na tem
+tradução. Vários softwares tem
 
 121
 00:05:09,690 --> 00:05:13,500
@@ -500,7 +500,7 @@ específico possam traduzir geralmente do
 
 126
 00:05:19,500 --> 00:05:23,849
-inglês para outro idioma tem a própria
+inglês para outro idioma. Tem a própria
 
 127
 00:05:21,780 --> 00:05:26,759
@@ -508,15 +508,15 @@ documentação que é importante para todo
 
 128
 00:05:23,849 --> 00:05:31,800
-o projeto né que exista a própria
+o projeto. Exista a própria
 
 129
 00:05:26,759 --> 00:05:34,560
-documentação que é importante que é a
+documentação que é importante que é 
 
 130
 00:05:31,800 --> 00:05:36,360
-que o projeto esteja bem documentado
+o projeto esteja bem documentado
 
 131
 00:05:34,560 --> 00:05:39,090
@@ -524,15 +524,15 @@ para que as pessoas possam usar ele e
 
 132
 00:05:36,360 --> 00:05:41,580
-também ligado a usar tem aqui própria
+também ligado a usar tem  própria
 
 133
 00:05:39,090 --> 00:05:43,469
-questão da usabilidade né isso não se
+questão da usabilidade. Isso não se
 
 134
 00:05:41,580 --> 00:05:46,009
-alimenta só software que tem interface
+limita só software que tem interface
 
 135
 00:05:43,469 --> 00:05:50,669
@@ -540,7 +540,7 @@ gráfica que vai ter botões que vai ter
 
 136
 00:05:46,009 --> 00:05:52,060
-interações né aquele que tem que ser
+interações. Aquele que tem que ser
 
 137
 00:05:50,669 --> 00:05:56,139
@@ -548,7 +548,7 @@ interações né aquele que tem que ser
 
 138
 00:05:52,060 --> 00:05:58,300
-e usáveis não utilizáveis para todos os
+usáveis e utilizáveis para todos os
 
 139
 00:05:56,139 --> 00:05:59,980
@@ -556,7 +556,7 @@ usuários mas também é o próprio código
 
 140
 00:05:58,300 --> 00:06:01,780
-tem que ser utilizado se você tá
+tem que ser utilizável se você tá
 
 141
 00:05:59,980 --> 00:06:03,430
@@ -568,15 +568,15 @@ pessoas vão usar será que aquelas
 
 143
 00:06:03,430 --> 00:06:09,990
-funções aquelas reais são são
+funções aquelas apis são
 
 144
 00:06:07,120 --> 00:06:12,660
-utilizáveis né tem tem toda essa questão
+utilizáveis. Tem toda essa questão.
 
 145
 00:06:09,990 --> 00:06:14,940
-e ir que horas você vem aqui uma coisa
+Eu adicionei aqui uma coisa
 
 146
 00:06:12,660 --> 00:06:16,680
@@ -588,15 +588,15 @@ eu acho que é super importante que é a
 
 148
 00:06:16,680 --> 00:06:22,590
-questão de colaborar com a comunidade né
+questão de colaborar com a comunidade.
 
 149
 00:06:19,670 --> 00:06:24,330
-muitas desses projetos tem fóruns onde
+Muitas desses projetos tem fóruns onde
 
 150
 00:06:22,590 --> 00:06:26,190
-você pode tirar dúvida eu por exemplo
+você pode tirar dúvida por exemplo
 
 151
 00:06:24,330 --> 00:06:29,610
@@ -612,15 +612,15 @@ seu fórum onde você pode tirar dúvida
 
 154
 00:06:32,160 --> 00:06:37,680
-por exemplo gostem rosane ser o exigiam
+por exemplo o ros tem  ros anwsers, o ignition
 
 155
 00:06:35,220 --> 00:06:39,360
-gazebo tem o brasil buenos aires e tirar
+gazebo tem o gazebo answers e tirar
 
 156
 00:06:37,680 --> 00:06:41,850
-a dúvida eles é uma coisa é uma forma
+a dúvida é uma forma
 
 157
 00:06:39,360 --> 00:06:45,600
@@ -632,7 +632,7 @@ geral porque você tá a adicionando mais
 
 159
 00:06:45,600 --> 00:06:48,300
-os olhos para aquele projeto né você tá
+usuários para aquele projeto, você está
 
 160
 00:06:47,160 --> 00:06:50,070
@@ -640,27 +640,27 @@ fazendo com que mais pessoas possam
 
 161
 00:06:48,300 --> 00:06:53,450
-tirar proveito daquele projeto você
+tirar proveito daquele projeto, você
 
 162
 00:06:50,070 --> 00:06:58,110
-também aprendi bastante no projeto de no
+também aprendi bastante no projeto no
 
 163
 00:06:53,450 --> 00:06:59,430
-processo de tirar dúvidas é e ela encher
+processo de tirar dúvidas e alem de tirar
 
 164
 00:06:58,110 --> 00:07:03,390
-a dúvida estamos também a questão de
+dúvida, a questão de
 
 165
 00:06:59,430 --> 00:07:05,340
-triagem né esses projetos ficam online
+triagem. Esses projetos ficam online
 
 166
 00:07:03,390 --> 00:07:08,430
-tem várias pessoas querendo ixi os
+tem várias pessoas criando issues,
 
 167
 00:07:05,340 --> 00:07:10,000
@@ -668,7 +668,7 @@ reportando bugs e tem muita coisa que às
 
 168
 00:07:08,430 --> 00:07:12,310
-vezes é muito que as próprias mãos
+vezes é muito que as próprios mantenedores
 
 169
 00:07:10,000 --> 00:07:14,260
@@ -676,7 +676,7 @@ não conseguem dar conta de ver todos
 
 170
 00:07:12,310 --> 00:07:16,540
-esses lixos então se tentações da
+esses issues. Então se tem pessaos da
 
 171
 00:07:14,260 --> 00:07:18,010
@@ -692,7 +692,7 @@ reproduzir e até comentar e falar poxa
 
 174
 00:07:20,560 --> 00:07:24,580
-esse bug não não não dá mais para
+esse bug não dá mais para
 
 175
 00:07:23,080 --> 00:07:27,670
@@ -700,11 +700,11 @@ reproduzir a nova versão será que a
 
 176
 00:07:24,580 --> 00:07:30,910
-gente pode fechar esse problema já ajuda
+gente pode fechar esse problema. Já ajuda
 
 177
 00:07:27,670 --> 00:07:32,050
-muito né então só são várias formas que
+muito. Então só são várias formas que
 
 178
 00:07:30,910 --> 00:07:35,430
@@ -712,7 +712,7 @@ dá para colaborar que você não
 
 179
 00:07:32,050 --> 00:07:36,950
-necessariamente necessita tá rodando né
+necessariamente necessita tá rodando,
 
 180
 00:07:35,430 --> 00:07:39,970
@@ -720,23 +720,23 @@ programando
 
 181
 00:07:36,950 --> 00:07:43,310
-oi e o quê que você quer colaborando né
+O que você ganha colaborando?
 
 182
 00:07:39,970 --> 00:07:47,540
-tem o pessoal tem toda a questão mais
+O open source tem toda a questão mais
 
 183
 00:07:43,310 --> 00:07:50,570
-filosófica né que as pessoas é que o
+filosófica, o
 
 184
 00:07:47,540 --> 00:07:53,330
-fato de ser aberto o fato de ser um
+fato de ser aberto, o fato de ser um
 
 185
 00:07:50,570 --> 00:07:55,070
-esforço colaborativo o fato de ser
+esforço colaborativo, o fato de ser
 
 186
 00:07:53,330 --> 00:07:57,410
@@ -744,7 +744,7 @@ grátis tem toda essa questão mais
 
 187
 00:07:55,070 --> 00:07:59,780
-filosófica por trás mas eu queria aqui
+filosófica por trás. Mas eu queria aqui
 
 188
 00:07:57,410 --> 00:08:03,230
@@ -752,11 +752,11 @@ falar um pouquinho mais do das questões
 
 189
 00:07:59,780 --> 00:08:05,060
-mas egoístas né porque que você
+mas egoístas. Porque que você
 
 190
 00:08:03,230 --> 00:08:07,130
-escolheria contribui para o pessoas que
+escolheria contribui para open source e o
 
 191
 00:08:05,060 --> 00:08:09,410
