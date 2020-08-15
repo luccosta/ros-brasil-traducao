@@ -1,0 +1,7580 @@
+1
+00:00:00,000 --> 00:00:04,830
+e também vendo os todo mundo é bom dia
+
+2
+00:00:03,449 --> 00:00:06,600
+boa tarde boa noite dependendo de onde
+
+3
+00:00:04,830 --> 00:00:10,139
+você esteja agora para mim aqui são 10
+
+4
+00:00:06,600 --> 00:00:13,650
+horas da manhã meu nome é luiza poubel
+
+5
+00:00:10,139 --> 00:00:14,849
+para quem me conhece eu sou eu trabalho
+
+6
+00:00:13,650 --> 00:00:17,220
+com pessoas que têm trabalhado com
+
+7
+00:00:14,849 --> 00:00:19,380
+pensou assim nos últimos sete anos eu
+
+8
+00:00:17,220 --> 00:00:22,529
+trabalho na outra uma borax é que é uma
+
+9
+00:00:19,380 --> 00:00:23,550
+empresa que desenvolve o ross e outros
+
+10
+00:00:22,529 --> 00:00:25,529
+projetos que eu penso assim também
+
+11
+00:00:23,550 --> 00:00:28,039
+ligados a robótica como simulador
+
+12
+00:00:25,529 --> 00:00:32,969
+brasileiro é e agora simulador ignition
+
+13
+00:00:28,039 --> 00:00:34,680
+e eu a gente eu sou até cliente do
+
+14
+00:00:32,969 --> 00:00:38,070
+ignition tem o novo simulador que a
+
+15
+00:00:34,680 --> 00:00:39,960
+gente está desenvolvendo e para quem se
+
+16
+00:00:38,070 --> 00:00:42,570
+importa com com twitter tal tá no
+
+17
+00:00:39,960 --> 00:00:44,520
+twitter o meu nome é chapolin na br e eu
+
+18
+00:00:42,570 --> 00:00:45,840
+tô sempre lá mostrando coisas de coisas
+
+19
+00:00:44,520 --> 00:00:48,180
+novas que a gente está desenvolvendo
+
+20
+00:00:45,840 --> 00:00:49,860
+mais ligados ao ignição mesmo de vez em
+
+21
+00:00:48,180 --> 00:00:53,969
+quando aparece uma coisa do bronze ou
+
+22
+00:00:49,860 --> 00:00:55,469
+outra então hoje o pedro pediu para mim
+
+23
+00:00:53,969 --> 00:00:57,770
+falar aqui com vocês um pouquinho sobre
+
+24
+00:00:55,469 --> 00:01:00,010
+como colaborar em projetos open source
+
+25
+00:00:57,770 --> 00:01:01,690
+de né de código aberto
+
+26
+00:01:00,010 --> 00:01:04,449
+isso é uma coisa que eu tenho
+
+27
+00:01:01,690 --> 00:01:07,750
+experiência de sete anos mas eu não sou
+
+28
+00:01:04,449 --> 00:01:09,369
+uma expert em é todas as formas de se
+
+29
+00:01:07,750 --> 00:01:11,140
+colaborarem alpes ócio tudo que eu tenho
+
+30
+00:01:09,369 --> 00:01:13,000
+a minha experiência pessoal que eu já
+
+31
+00:01:11,140 --> 00:01:15,070
+fiz o que eu já vi o que eu já interagir
+
+32
+00:01:13,000 --> 00:01:17,610
+então eu vou trazer um pouquinho dessa
+
+33
+00:01:15,070 --> 00:01:21,909
+experiência que eu tenho aqui para vocês
+
+34
+00:01:17,610 --> 00:01:23,830
+mas se alguém discordar de alguma coisa
+
+35
+00:01:21,909 --> 00:01:25,299
+que eu falar ou se alguém tiver outras
+
+36
+00:01:23,830 --> 00:01:30,880
+ideias acha que eu não cobrei coisas que
+
+37
+00:01:25,299 --> 00:01:32,679
+são importantes fala depois no na parte
+
+38
+00:01:30,880 --> 00:01:37,840
+das perguntas pergunta bastante porque
+
+39
+00:01:32,679 --> 00:01:43,210
+eu realmente juntei esse esse guia que
+
+40
+00:01:37,840 --> 00:01:47,170
+mais pensando no nas experiências que eu
+
+41
+00:01:43,210 --> 00:01:49,240
+tive no passado é eu ia fazer um
+
+42
+00:01:47,170 --> 00:01:51,130
+powerpoint mas aí eu decidi como era
+
+43
+00:01:49,240 --> 00:01:53,470
+falar sobre o pessoal se criar um guia
+
+44
+00:01:51,130 --> 00:01:55,569
+no dia de rubi então eu vou ficar usando
+
+45
+00:01:53,470 --> 00:01:57,940
+ele aqui eu vou colar o link aqui no
+
+46
+00:01:55,569 --> 00:02:00,020
+geral lá do discord' vou colar aqui
+
+47
+00:01:57,940 --> 00:02:03,950
+também na no chat
+
+48
+00:02:00,020 --> 00:02:06,229
+o que tão chata poderia dar uma olhada
+
+49
+00:02:03,950 --> 00:02:08,629
+que quem quiser acompanhar pode ir
+
+50
+00:02:06,229 --> 00:02:12,230
+clicando no juntos que estão lá vai eu
+
+51
+00:02:08,629 --> 00:02:15,470
+juntei bastante link de material online
+
+52
+00:02:12,230 --> 00:02:17,660
+que vocês podem olhar e usar como
+
+53
+00:02:15,470 --> 00:02:24,230
+referência para começar a colaborar em
+
+54
+00:02:17,660 --> 00:02:26,360
+alcançar então vamos lá deixa eu
+
+55
+00:02:24,230 --> 00:02:29,209
+compartilhar minha tela que começar com
+
+56
+00:02:26,360 --> 00:02:31,430
+esse guia de 12 passos que eu criei que
+
+57
+00:02:29,209 --> 00:02:33,079
+é só esse link do gueto rap quê que
+
+58
+00:02:31,430 --> 00:02:37,880
+vocês tão vendo então espero que vocês
+
+59
+00:02:33,079 --> 00:02:40,130
+estejam vendo ele é é um repositório que
+
+60
+00:02:37,880 --> 00:02:41,510
+eu queria só com um arquivo de mark dão
+
+61
+00:02:40,130 --> 00:02:43,220
+para gente seguir passo a passo quem
+
+62
+00:02:41,510 --> 00:02:46,819
+quiser clicando nos links que eu vou tá
+
+63
+00:02:43,220 --> 00:02:50,180
+mostrando é só acompanhar junto lá então
+
+64
+00:02:46,819 --> 00:02:53,420
+é para quem é esse guia né difícil
+
+65
+00:02:50,180 --> 00:02:55,160
+tentar saber qual é a sua audiência
+
+66
+00:02:53,420 --> 00:02:56,959
+imagina que tem um pessoas aqui com
+
+67
+00:02:55,160 --> 00:02:58,700
+nenhuma experiência de o pessoal você
+
+68
+00:02:56,959 --> 00:03:00,030
+pode ter pessoas aqui que já tem
+
+69
+00:02:58,700 --> 00:03:02,100
+bastante experiência tem gente
+
+70
+00:03:00,030 --> 00:03:04,680
+em vários níveis diferença programando
+
+71
+00:03:02,100 --> 00:03:08,640
+diferentes então eu tentei fazer um guia
+
+72
+00:03:04,680 --> 00:03:12,150
+que é geral que eu acho que vai ter um
+
+73
+00:03:08,640 --> 00:03:15,000
+pouquinho para cada pessoa é o foco vai
+
+74
+00:03:12,150 --> 00:03:16,940
+ser quanto contribuir com código né
+
+75
+00:03:15,000 --> 00:03:19,080
+apesar de que existem outras formas de
+
+76
+00:03:16,940 --> 00:03:23,580
+colaborar e eu pensasse que eu vou falar
+
+77
+00:03:19,080 --> 00:03:25,080
+também é um pouquinho e como o projeto
+
+78
+00:03:23,580 --> 00:03:28,020
+que eu tô trabalhando hoje em dia é o
+
+79
+00:03:25,080 --> 00:03:29,670
+ignition eu vou eu vou ficar fofocando
+
+80
+00:03:28,020 --> 00:03:31,170
+mais um pouquinho mini-choque comissão
+
+81
+00:03:29,670 --> 00:03:33,390
+amamentar pediu lá eu também vou falar
+
+82
+00:03:31,170 --> 00:03:35,310
+um pouquinho sobre qual seria o processo
+
+83
+00:03:33,390 --> 00:03:37,760
+de voz dois mas basicamente nessa
+
+84
+00:03:35,310 --> 00:03:40,050
+apresentação eu vou do início ao fim
+
+85
+00:03:37,760 --> 00:03:42,330
+encontrar um banho na ignição para
+
+86
+00:03:40,050 --> 00:03:45,060
+resolver resolver conjunto de vocês
+
+87
+00:03:42,330 --> 00:03:47,670
+rapidinho e abrir um pouco e quest para
+
+88
+00:03:45,060 --> 00:03:50,160
+que os mantenedores possam realizar o
+
+89
+00:03:47,670 --> 00:03:52,040
+código e botar esse código como parte do
+
+90
+00:03:50,160 --> 00:03:55,519
+código oficial
+
+91
+00:03:52,040 --> 00:03:57,799
+bom então vamos começar eh algumas
+
+92
+00:03:55,519 --> 00:03:59,840
+formas de colaborar né as pessoas
+
+93
+00:03:57,799 --> 00:04:01,730
+geralmente pensam um código quando elas
+
+94
+00:03:59,840 --> 00:04:04,700
+pensam em colaborar com código aberto né
+
+95
+00:04:01,730 --> 00:04:07,700
+com o pensou acho que é realmente a
+
+96
+00:04:04,700 --> 00:04:10,879
+maior parte do que se faz em outras
+
+97
+00:04:07,700 --> 00:04:12,530
+office é quando você tá fazendo o código
+
+98
+00:04:10,879 --> 00:04:14,689
+você pode adicionar uma funcionalidade
+
+99
+00:04:12,530 --> 00:04:17,060
+completamente nova que não existia antes
+
+100
+00:04:14,689 --> 00:04:19,280
+ou você também pode consertar bugs né
+
+101
+00:04:17,060 --> 00:04:21,199
+que são funcionalidades que já estão lá
+
+102
+00:04:19,280 --> 00:04:24,139
+mas não estão funcionando pronto certo
+
+103
+00:04:21,199 --> 00:04:26,900
+caso é que não não cobrem todos os casos
+
+104
+00:04:24,139 --> 00:04:31,039
+que fale aqui que dá um crush né como
+
+105
+00:04:26,900 --> 00:04:33,229
+você está esse tipo de bug mas as
+
+106
+00:04:31,039 --> 00:04:34,820
+pessoas esquecem as vezes que existem
+
+107
+00:04:33,229 --> 00:04:37,970
+muitas outras formas de colaborar como
+
+108
+00:04:34,820 --> 00:04:39,470
+por exemplo é conteúdo né todo o projeto
+
+109
+00:04:37,970 --> 00:04:41,360
+aqui um sócio não é só o código eu tenho
+
+110
+00:04:39,470 --> 00:04:43,550
+muito conteúdo que vai ao redor do
+
+111
+00:04:41,360 --> 00:04:45,830
+código tem toda a parte de design
+
+112
+00:04:43,550 --> 00:04:49,160
+gráfico e isso pode ser design gráfico
+
+113
+00:04:45,830 --> 00:04:52,050
+do site do projeto ou pode ser dudu o
+
+114
+00:04:49,160 --> 00:04:55,020
+software em si né tem ícone einstein
+
+115
+00:04:52,050 --> 00:04:57,240
+as imagens têm toda a aparência visual
+
+116
+00:04:55,020 --> 00:04:59,400
+esquema de cores todo esse é muito
+
+117
+00:04:57,240 --> 00:05:01,590
+importante isso é uma habilidade que um
+
+118
+00:04:59,400 --> 00:05:03,780
+designer gráfico tem não necessariamente
+
+119
+00:05:01,590 --> 00:05:09,690
+um programador tem toda a questão de
+
+120
+00:05:03,780 --> 00:05:11,849
+tradução né é só vários softwares na tem
+
+121
+00:05:09,690 --> 00:05:13,500
+a sua documentação em vários idiomas o
+
+122
+00:05:11,849 --> 00:05:15,900
+próprio software você pode escolher o
+
+123
+00:05:13,500 --> 00:05:17,550
+idioma então é necessário que pessoas
+
+124
+00:05:15,900 --> 00:05:19,500
+com conhecimento daquele idioma
+
+125
+00:05:17,550 --> 00:05:21,780
+específico possam traduzir geralmente do
+
+126
+00:05:19,500 --> 00:05:23,849
+inglês para outro idioma tem a própria
+
+127
+00:05:21,780 --> 00:05:26,759
+documentação que é importante para todo
+
+128
+00:05:23,849 --> 00:05:31,800
+o projeto né que exista a própria
+
+129
+00:05:26,759 --> 00:05:34,560
+documentação que é importante que é a
+
+130
+00:05:31,800 --> 00:05:36,360
+que o projeto esteja bem documentado
+
+131
+00:05:34,560 --> 00:05:39,090
+para que as pessoas possam usar ele e
+
+132
+00:05:36,360 --> 00:05:41,580
+também ligado a usar tem aqui própria
+
+133
+00:05:39,090 --> 00:05:43,469
+questão da usabilidade né isso não se
+
+134
+00:05:41,580 --> 00:05:46,009
+alimenta só software que tem interface
+
+135
+00:05:43,469 --> 00:05:50,669
+gráfica que vai ter botões que vai ter
+
+136
+00:05:46,009 --> 00:05:52,060
+interações né aquele que tem que ser
+
+137
+00:05:50,669 --> 00:05:56,139
+úteis que tem que ser
+
+138
+00:05:52,060 --> 00:05:58,300
+e usáveis não utilizáveis para todos os
+
+139
+00:05:56,139 --> 00:05:59,980
+usuários mas também é o próprio código
+
+140
+00:05:58,300 --> 00:06:01,780
+tem que ser utilizado se você tá
+
+141
+00:05:59,980 --> 00:06:03,430
+escrevendo uma biblioteca que outras
+
+142
+00:06:01,780 --> 00:06:07,120
+pessoas vão usar será que aquelas
+
+143
+00:06:03,430 --> 00:06:09,990
+funções aquelas reais são são
+
+144
+00:06:07,120 --> 00:06:12,660
+utilizáveis né tem tem toda essa questão
+
+145
+00:06:09,990 --> 00:06:14,940
+e ir que horas você vem aqui uma coisa
+
+146
+00:06:12,660 --> 00:06:16,680
+que eu não ouço muita gente falando mas
+
+147
+00:06:14,940 --> 00:06:19,670
+eu acho que é super importante que é a
+
+148
+00:06:16,680 --> 00:06:22,590
+questão de colaborar com a comunidade né
+
+149
+00:06:19,670 --> 00:06:24,330
+muitas desses projetos tem fóruns onde
+
+150
+00:06:22,590 --> 00:06:26,190
+você pode tirar dúvida eu por exemplo
+
+151
+00:06:24,330 --> 00:06:29,610
+tem muita gente perguntando no stack
+
+152
+00:06:26,190 --> 00:06:32,160
+overflow cada projeto específico tem tem
+
+153
+00:06:29,610 --> 00:06:35,220
+seu fórum onde você pode tirar dúvida
+
+154
+00:06:32,160 --> 00:06:37,680
+por exemplo gostem rosane ser o exigiam
+
+155
+00:06:35,220 --> 00:06:39,360
+gazebo tem o brasil buenos aires e tirar
+
+156
+00:06:37,680 --> 00:06:41,850
+a dúvida eles é uma coisa é uma forma
+
+157
+00:06:39,360 --> 00:06:45,600
+muito útil de colaborar com o projeto em
+
+158
+00:06:41,850 --> 00:06:47,160
+geral porque você tá a adicionando mais
+
+159
+00:06:45,600 --> 00:06:48,300
+os olhos para aquele projeto né você tá
+
+160
+00:06:47,160 --> 00:06:50,070
+fazendo com que mais pessoas possam
+
+161
+00:06:48,300 --> 00:06:53,450
+tirar proveito daquele projeto você
+
+162
+00:06:50,070 --> 00:06:58,110
+também aprendi bastante no projeto de no
+
+163
+00:06:53,450 --> 00:06:59,430
+processo de tirar dúvidas é e ela encher
+
+164
+00:06:58,110 --> 00:07:03,390
+a dúvida estamos também a questão de
+
+165
+00:06:59,430 --> 00:07:05,340
+triagem né esses projetos ficam online
+
+166
+00:07:03,390 --> 00:07:08,430
+tem várias pessoas querendo ixi os
+
+167
+00:07:05,340 --> 00:07:10,000
+reportando bugs e tem muita coisa que às
+
+168
+00:07:08,430 --> 00:07:12,310
+vezes é muito que as próprias mãos
+
+169
+00:07:10,000 --> 00:07:14,260
+não conseguem dar conta de ver todos
+
+170
+00:07:12,310 --> 00:07:16,540
+esses lixos então se tentações da
+
+171
+00:07:14,260 --> 00:07:18,010
+comunidade que podem olhar um bug
+
+172
+00:07:16,540 --> 00:07:20,560
+reports e ver se eles conseguem
+
+173
+00:07:18,010 --> 00:07:23,080
+reproduzir e até comentar e falar poxa
+
+174
+00:07:20,560 --> 00:07:24,580
+esse bug não não não dá mais para
+
+175
+00:07:23,080 --> 00:07:27,670
+reproduzir a nova versão será que a
+
+176
+00:07:24,580 --> 00:07:30,910
+gente pode fechar esse problema já ajuda
+
+177
+00:07:27,670 --> 00:07:32,050
+muito né então só são várias formas que
+
+178
+00:07:30,910 --> 00:07:35,430
+dá para colaborar que você não
+
+179
+00:07:32,050 --> 00:07:36,950
+necessariamente necessita tá rodando né
+
+180
+00:07:35,430 --> 00:07:39,970
+programando
+
+181
+00:07:36,950 --> 00:07:43,310
+oi e o quê que você quer colaborando né
+
+182
+00:07:39,970 --> 00:07:47,540
+tem o pessoal tem toda a questão mais
+
+183
+00:07:43,310 --> 00:07:50,570
+filosófica né que as pessoas é que o
+
+184
+00:07:47,540 --> 00:07:53,330
+fato de ser aberto o fato de ser um
+
+185
+00:07:50,570 --> 00:07:55,070
+esforço colaborativo o fato de ser
+
+186
+00:07:53,330 --> 00:07:57,410
+grátis tem toda essa questão mais
+
+187
+00:07:55,070 --> 00:07:59,780
+filosófica por trás mas eu queria aqui
+
+188
+00:07:57,410 --> 00:08:03,230
+falar um pouquinho mais do das questões
+
+189
+00:07:59,780 --> 00:08:05,060
+mas egoístas né porque que você
+
+190
+00:08:03,230 --> 00:08:07,130
+escolheria contribui para o pessoas que
+
+191
+00:08:05,060 --> 00:08:09,410
+você que que você vai ganhar conheço
+
+192
+00:08:07,130 --> 00:08:12,620
+individualmente uma coisa mais egoísta é
+
+193
+00:08:09,410 --> 00:08:15,200
+além das questões de todas filosóficas e
+
+194
+00:08:12,620 --> 00:08:17,000
+é tem várias coisas né você vem
+
+195
+00:08:15,200 --> 00:08:18,680
+experiência no mundo real porque nem
+
+196
+00:08:17,000 --> 00:08:20,690
+sempre né dependendo de onde você tá
+
+197
+00:08:18,680 --> 00:08:22,850
+trabalhando você talvez não trabalha em
+
+198
+00:08:20,690 --> 00:08:25,610
+um software que tá tendo muitos usuários
+
+199
+00:08:22,850 --> 00:08:27,590
+um software né se você tá sabendo vindo
+
+200
+00:08:25,610 --> 00:08:30,710
+do mundo acadêmico você provavelmente só
+
+201
+00:08:27,590 --> 00:08:34,130
+fez alguns deveres de casa alguns
+
+202
+00:08:30,710 --> 00:08:36,960
+projetos pequenos que depois de lhe
+
+203
+00:08:34,130 --> 00:08:41,610
+serem desenvolvidos ninguém mais vai
+
+204
+00:08:36,960 --> 00:08:44,910
+e ninguém mais vai olhar aquele código
+
+205
+00:08:41,610 --> 00:08:46,110
+né então é interessante quando você
+
+206
+00:08:44,910 --> 00:08:47,640
+começa a colaborar com uma pessoas que
+
+207
+00:08:46,110 --> 00:08:51,480
+geralmente esse projeto um projeto que
+
+208
+00:08:47,640 --> 00:08:53,220
+tem milhares de usuários e que tem que
+
+209
+00:08:51,480 --> 00:08:55,260
+são que estão mundo real que vão tão
+
+210
+00:08:53,220 --> 00:08:58,110
+release que vão ter pessoas usando ali
+
+211
+00:08:55,260 --> 00:09:01,470
+super rapidamente tem questão de
+
+212
+00:08:58,110 --> 00:09:02,670
+colaborar em equipes grandes né você
+
+213
+00:09:01,470 --> 00:09:04,170
+essencialmente quando você tá
+
+214
+00:09:02,670 --> 00:09:05,730
+colaborando em o pessoal se você não
+
+215
+00:09:04,170 --> 00:09:07,650
+sabe quantas pessoas estão olhando
+
+216
+00:09:05,730 --> 00:09:10,680
+aquele código lá naquele código então
+
+217
+00:09:07,650 --> 00:09:11,820
+tudo isso te leva a pensar no código que
+
+218
+00:09:10,680 --> 00:09:13,800
+você tá escrevendo de uma forma um
+
+219
+00:09:11,820 --> 00:09:15,750
+pouquinho diferente porque quando você
+
+220
+00:09:13,800 --> 00:09:17,850
+não sabe quem vai estar olhando com quem
+
+221
+00:09:15,750 --> 00:09:19,490
+você vai estar interagindo você tem que
+
+222
+00:09:17,850 --> 00:09:22,110
+se expressar melhor você tem que
+
+223
+00:09:19,490 --> 00:09:24,570
+documentar melhor né você não sabe quem
+
+224
+00:09:22,110 --> 00:09:26,190
+é não não é só o seu tim e allie que
+
+225
+00:09:24,570 --> 00:09:27,570
+você pode tirar uma dúvida rapidinho são
+
+226
+00:09:26,190 --> 00:09:29,870
+pessoas que estão do outro lado no mundo
+
+227
+00:09:27,570 --> 00:09:33,090
+então é uma experiência interessante
+
+228
+00:09:29,870 --> 00:09:35,820
+você é se expõe as boas práticas da
+
+229
+00:09:33,090 --> 00:09:36,970
+indústria da indústria de software
+
+230
+00:09:35,820 --> 00:09:42,269
+porque geralmente assistir
+
+231
+00:09:36,970 --> 00:09:46,230
+a string é muito está estes tem muitas
+
+232
+00:09:42,269 --> 00:09:48,459
+linters para tem um estilo de código tem
+
+233
+00:09:46,230 --> 00:09:49,810
+continuous integration né vou dar o
+
+234
+00:09:48,459 --> 00:09:52,750
+teste em casa por parece então
+
+235
+00:09:49,810 --> 00:09:55,120
+geralmente você se expõe rapidamente há
+
+236
+00:09:52,750 --> 00:10:00,250
+muitas boas práticas da indústria você
+
+237
+00:09:55,120 --> 00:10:01,569
+cria um portfólio pessoal também na se
+
+238
+00:10:00,250 --> 00:10:03,459
+você quando você tá trabalhando numa
+
+239
+00:10:01,569 --> 00:10:06,310
+empresa que tá fazendo o código é
+
+240
+00:10:03,459 --> 00:10:07,990
+fechado né você geralmente aquele código
+
+241
+00:10:06,310 --> 00:10:09,610
+pertence à empresa e quando você sai de
+
+242
+00:10:07,990 --> 00:10:11,620
+empresa você não tem mais acesso aquele
+
+243
+00:10:09,610 --> 00:10:12,879
+código mesmo que você tem escrito ele e
+
+244
+00:10:11,620 --> 00:10:14,290
+você não pode mostrar para outras
+
+245
+00:10:12,879 --> 00:10:17,199
+pessoas e quando você vai procurar um
+
+246
+00:10:14,290 --> 00:10:18,639
+emprego você não pode você pode falar
+
+247
+00:10:17,199 --> 00:10:20,889
+olha eu já fiz isso mas você não tem
+
+248
+00:10:18,639 --> 00:10:22,480
+muita como provar né e quando você tá
+
+249
+00:10:20,889 --> 00:10:25,420
+contribuindo como foi só se você manda o
+
+250
+00:10:22,480 --> 00:10:27,189
+link do seu hit rápido do seu perfil
+
+251
+00:10:25,420 --> 00:10:29,410
+online e as pessoas podem ver ficar
+
+252
+00:10:27,189 --> 00:10:30,819
+diretamente as contribuições para você
+
+253
+00:10:29,410 --> 00:10:32,800
+já fez eles podem ver como você
+
+254
+00:10:30,819 --> 00:10:35,230
+interagiu com as pessoas no tim tudo
+
+255
+00:10:32,800 --> 00:10:36,950
+fica gravado ali o que é bom que queria
+
+256
+00:10:35,230 --> 00:10:40,400
+um portfólio para você mostrar
+
+257
+00:10:36,950 --> 00:10:44,930
+16 anos e no final eu queria mencionar
+
+258
+00:10:40,400 --> 00:10:46,430
+aqui que para desmistificar um pouco a
+
+259
+00:10:44,930 --> 00:10:49,190
+ideia que muitas pessoas têm de que
+
+260
+00:10:46,430 --> 00:10:53,240
+código aberto só é feito por voluntários
+
+261
+00:10:49,190 --> 00:10:54,830
+trabalhando no tempo livre deles e não
+
+262
+00:10:53,240 --> 00:10:59,540
+estão ganhando nenhuma recompensa
+
+263
+00:10:54,830 --> 00:11:01,610
+financeira com isso aqui é não é não é
+
+264
+00:10:59,540 --> 00:11:03,380
+verdade né eu na verdade hoje em dia ou
+
+265
+00:11:01,610 --> 00:11:05,870
+pensar se os grandes projetos tem
+
+266
+00:11:03,380 --> 00:11:08,090
+empresas por trás tem os engenheiros que
+
+267
+00:11:05,870 --> 00:11:09,590
+estão trabalhando tão ganhando dinheiro
+
+268
+00:11:08,090 --> 00:11:11,450
+para isso eu por exemplo nos sete anos
+
+269
+00:11:09,590 --> 00:11:12,860
+que eu tô trabalhando aí alcançasse a
+
+270
+00:11:11,450 --> 00:11:14,660
+grande maioria das colaborações que eu
+
+271
+00:11:12,860 --> 00:11:17,180
+fiz eu fui paga por isso eu faço
+
+272
+00:11:14,660 --> 00:11:18,830
+contribuições voluntárias também de
+
+273
+00:11:17,180 --> 00:11:21,290
+tempo em tempo mas a grande quantidade
+
+274
+00:11:18,830 --> 00:11:22,970
+do que eu fiz foi recebendo dinheiro
+
+275
+00:11:21,290 --> 00:11:24,680
+então eu só queria desmistificar um
+
+276
+00:11:22,970 --> 00:11:27,170
+pouco isso talvez quando você começa a
+
+277
+00:11:24,680 --> 00:11:29,330
+colaborar você vai colaborar de graça
+
+278
+00:11:27,170 --> 00:11:31,880
+vai vai vai vai fazer uma contribuição
+
+279
+00:11:29,330 --> 00:11:34,310
+ali no seu tempo livre mas é possível
+
+280
+00:11:31,880 --> 00:11:36,440
+ganhar dinheiro e eu a forma que a
+
+281
+00:11:34,310 --> 00:11:36,960
+maioria desses projetos estão indo para
+
+282
+00:11:36,440 --> 00:11:40,020
+frente né
+
+283
+00:11:36,960 --> 00:11:41,400
+e empresas google amazon facebook todos
+
+284
+00:11:40,020 --> 00:11:43,070
+eles têm projetos o pessoal se eles
+
+285
+00:11:41,400 --> 00:11:46,790
+estão pagando sem dinheiro deles para
+
+286
+00:11:43,070 --> 00:11:49,710
+desenvolver-se código de forma aberta
+
+287
+00:11:46,790 --> 00:11:52,110
+então só antes de entrar nos dois passos
+
+288
+00:11:49,710 --> 00:11:55,770
+só pega uma ideia de aqui do que que
+
+289
+00:11:52,110 --> 00:11:57,330
+você vai precisar para começar né eu tô
+
+290
+00:11:55,770 --> 00:11:59,790
+tentando fazer a sua aparência de uma
+
+291
+00:11:57,330 --> 00:12:03,240
+forma bem genérica para não ser só a
+
+292
+00:11:59,790 --> 00:12:05,550
+limitada ao irene chão e ao rose e
+
+293
+00:12:03,240 --> 00:12:08,850
+pensando em termos gerais no que eu já
+
+294
+00:12:05,550 --> 00:12:10,260
+vi ideal pessoas por aí algumas coisas
+
+295
+00:12:08,850 --> 00:12:14,100
+que são importantes a primeira é o
+
+296
+00:12:10,260 --> 00:12:17,340
+inglês né não que não existam projetos
+
+297
+00:12:14,100 --> 00:12:18,870
+em português eu eu já vi projetos são
+
+298
+00:12:17,340 --> 00:12:20,180
+desenvolvidos em português onde a
+
+299
+00:12:18,870 --> 00:12:24,420
+comunicação entre os vários
+
+300
+00:12:20,180 --> 00:12:26,400
+contribuidores é em português mas a
+
+301
+00:12:24,420 --> 00:12:29,550
+grande maioria dos projetos de grandes
+
+302
+00:12:26,400 --> 00:12:32,880
+estão acontecendo em inglês o código é
+
+303
+00:12:29,550 --> 00:12:34,650
+documentado em inglês ea interação entre
+
+304
+00:12:32,880 --> 00:12:36,970
+as pessoas que estão contribuindo em
+
+305
+00:12:34,650 --> 00:12:39,339
+inglês e isso
+
+306
+00:12:36,970 --> 00:12:41,199
+é só pessoas que primeira língua inglês
+
+307
+00:12:39,339 --> 00:12:43,990
+pelo contrário a pessoas no mundo
+
+308
+00:12:41,199 --> 00:12:45,819
+inteiro de vários países onde a língua
+
+309
+00:12:43,990 --> 00:12:47,290
+primária deles não é inglês estão
+
+310
+00:12:45,819 --> 00:12:50,500
+desenvolvendo em inglês justamente para
+
+311
+00:12:47,290 --> 00:12:53,740
+atingir uma audiência maior então você
+
+312
+00:12:50,500 --> 00:12:55,600
+não vai precisar falar e ouvir mães em
+
+313
+00:12:53,740 --> 00:12:58,420
+inglês mas você vai precisar mais é ler
+
+314
+00:12:55,600 --> 00:12:59,889
+e escrever né e mas mesmo que você
+
+315
+00:12:58,420 --> 00:13:01,389
+esteja lendo escrevendo ninguém vai
+
+316
+00:12:59,889 --> 00:13:04,810
+estar preocupado com a sua gramática
+
+317
+00:13:01,389 --> 00:13:06,790
+ninguém vai ter preocupado com se o seu
+
+318
+00:13:04,810 --> 00:13:08,500
+inglês é formal seu inglês é direitinho
+
+319
+00:13:06,790 --> 00:13:09,699
+e no final das contas as pessoas só
+
+320
+00:13:08,500 --> 00:13:12,250
+querem se comunicar e se elas estão
+
+321
+00:13:09,699 --> 00:13:14,350
+entendendo o que você quer dizer eu qual
+
+322
+00:13:12,250 --> 00:13:15,579
+é sabe qual foi a contribuição que você
+
+323
+00:13:14,350 --> 00:13:17,769
+fez qual é o banco que você tá tentando
+
+324
+00:13:15,579 --> 00:13:23,860
+resolver no final das contas é isso que
+
+325
+00:13:17,769 --> 00:13:26,889
+importa né então se sabe no final das
+
+326
+00:13:23,860 --> 00:13:28,660
+contas a gente falando português até tem
+
+327
+00:13:26,889 --> 00:13:31,029
+sorte que o porquê comparado por exemplo
+
+328
+00:13:28,660 --> 00:13:32,920
+a um chinês ou japonês que tá tentando
+
+329
+00:13:31,029 --> 00:13:35,800
+falar inglês a língua deles é muito
+
+330
+00:13:32,920 --> 00:13:36,950
+distante do inglês a nossa na pior das
+
+331
+00:13:35,800 --> 00:13:39,440
+hipóteses se você não fala em
+
+332
+00:13:36,950 --> 00:13:41,360
+se você bota no tradutor e a tradução
+
+333
+00:13:39,440 --> 00:13:43,370
+não fica uma coisa assim pra mim cabeça
+
+334
+00:13:41,360 --> 00:13:44,630
+porque o próprio português tem uma
+
+335
+00:13:43,370 --> 00:13:46,910
+estrutura gramatical parecida com o
+
+336
+00:13:44,630 --> 00:13:48,740
+inglês então na pior das hipóteses usam
+
+337
+00:13:46,910 --> 00:13:51,530
+tradutor tanto para o que você tá lendo
+
+338
+00:13:48,740 --> 00:13:54,320
+quanto o que você tá o que você tá
+
+339
+00:13:51,530 --> 00:13:56,570
+dizendo e usa mas não deixa o inglês seu
+
+340
+00:13:54,320 --> 00:13:59,570
+empecilho para você não colaborar
+
+341
+00:13:56,570 --> 00:14:02,390
+e outra coisa que é importante é o
+
+342
+00:13:59,570 --> 00:14:03,860
+controle de versão né a maioria desses
+
+343
+00:14:02,390 --> 00:14:05,720
+projetos eu acho que é muito raro um
+
+344
+00:14:03,860 --> 00:14:07,730
+projeto hoje em dia que não tá sendo
+
+345
+00:14:05,720 --> 00:14:10,340
+desenvolvido usando alguma forma de
+
+346
+00:14:07,730 --> 00:14:12,740
+controle de versão se você não tem
+
+347
+00:14:10,340 --> 00:14:15,140
+familiaridade convite ou com outras
+
+348
+00:14:12,740 --> 00:14:18,560
+ferramentas por exemplo mercúrio é uma
+
+349
+00:14:15,140 --> 00:14:20,270
+boa aprender porque início assim não se
+
+350
+00:14:18,560 --> 00:14:26,680
+alimenta sua código também se você tá
+
+351
+00:14:20,270 --> 00:14:29,150
+colaborando com com gráficos algum
+
+352
+00:14:26,680 --> 00:14:30,950
+traduções ou com documentação vocês
+
+353
+00:14:29,150 --> 00:14:32,660
+geralmente hoje em dia vai ter que usar
+
+354
+00:14:30,950 --> 00:14:38,210
+esse também né não é só para
+
+355
+00:14:32,660 --> 00:14:40,790
+programadores então é uma boa é aprender
+
+356
+00:14:38,210 --> 00:14:43,550
+o vídeo especificamente porque viveram a
+
+357
+00:14:40,790 --> 00:14:45,020
+basicamente o padrão que está sendo
+
+358
+00:14:43,550 --> 00:14:46,760
+utilizado por todos os projetos por
+
+359
+00:14:45,020 --> 00:14:51,290
+exemplo aqui no site de web onde eu tô
+
+360
+00:14:46,760 --> 00:14:53,400
+com esse com esse repositório aqui o kit
+
+361
+00:14:51,290 --> 00:14:57,540
+é o controle de versão que é utilizado
+
+362
+00:14:53,400 --> 00:14:59,370
+ó e vai finalmente né cada projeto vai
+
+363
+00:14:57,540 --> 00:15:00,630
+ter uma habilidade específica que você
+
+364
+00:14:59,370 --> 00:15:02,670
+vai ter que saber para colocar aquele
+
+365
+00:15:00,630 --> 00:15:04,350
+com aquele projeto se você tá sem um
+
+366
+00:15:02,670 --> 00:15:05,730
+projeto de web front-end você
+
+367
+00:15:04,350 --> 00:15:08,070
+provavelmente vai ter que saber já fez
+
+368
+00:15:05,730 --> 00:15:13,260
+cliente vai ter que sabemos é se você é
+
+369
+00:15:08,070 --> 00:15:15,270
+um projeto de celular para vender aí o s
+
+370
+00:15:13,260 --> 00:15:16,830
+você vai ter que saber a isso bíblia até
+
+371
+00:15:15,270 --> 00:15:19,470
+te esqueci usa para desenvolver em
+
+372
+00:15:16,830 --> 00:15:20,670
+iphone e tal hoje para já disputou que
+
+373
+00:15:19,470 --> 00:15:22,500
+eu vou falar que hoje tem muito
+
+374
+00:15:20,670 --> 00:15:25,740
+conhecimento de ser mais demais o rosto
+
+375
+00:15:22,500 --> 00:15:29,850
+tem bastante pai então também e ser
+
+376
+00:15:25,740 --> 00:15:31,140
+também então cada projeto vai ter alguma
+
+377
+00:15:29,850 --> 00:15:33,270
+habilidade específica que você vai ter
+
+378
+00:15:31,140 --> 00:15:35,880
+que saber para aquele projeto né não dá
+
+379
+00:15:33,270 --> 00:15:40,790
+para generalizar muito aí
+
+380
+00:15:35,880 --> 00:15:44,510
+bom então vamos ver which 12 passos aqui
+
+381
+00:15:40,790 --> 00:15:47,460
+que é o cliente talvez eu esteja
+
+382
+00:15:44,510 --> 00:15:49,770
+faltando algumas fácil vamos ver se dá
+
+383
+00:15:47,460 --> 00:15:52,279
+certo deixa uma festa tela para tomada
+
+384
+00:15:49,770 --> 00:15:54,579
+aqui ó
+
+385
+00:15:52,279 --> 00:15:56,649
+e aí
+
+386
+00:15:54,579 --> 00:16:01,559
+e aí
+
+387
+00:15:56,649 --> 00:16:03,970
+bom então vamos lá o primeiro passo é
+
+388
+00:16:01,559 --> 00:16:05,319
+escolher qual é o soft né você quer
+
+389
+00:16:03,970 --> 00:16:07,149
+colaborar você sabe o que você quer se
+
+390
+00:16:05,319 --> 00:16:09,100
+envolver mais com pessoas mas você não
+
+391
+00:16:07,149 --> 00:16:10,629
+sabe por onde começar você não sabe qual
+
+392
+00:16:09,100 --> 00:16:12,279
+o projeto a única coisa que você sabe o
+
+393
+00:16:10,629 --> 00:16:15,449
+que é só você já ouviu do linux e não
+
+394
+00:16:12,279 --> 00:16:17,800
+sabe de mais nada hoje o firefox então
+
+395
+00:16:15,449 --> 00:16:19,809
+você quer começar a colaborar aí que a
+
+396
+00:16:17,800 --> 00:16:22,029
+ver quais são as opções que você tem eu
+
+397
+00:16:19,809 --> 00:16:24,309
+tenho duas recomendações aqui uma é para
+
+398
+00:16:22,029 --> 00:16:26,709
+você dar uma olhada na organização estão
+
+399
+00:16:24,309 --> 00:16:32,379
+participando do google summer of code é
+
+400
+00:16:26,709 --> 00:16:34,230
+um projeto de estágio que é que dá
+
+401
+00:16:32,379 --> 00:16:37,389
+estágio para pessoas do mundo todo
+
+402
+00:16:34,230 --> 00:16:39,939
+colaborarem com uma pessoa se e tem
+
+403
+00:16:37,389 --> 00:16:43,389
+várias empresas né acho que são centenas
+
+404
+00:16:39,939 --> 00:16:45,579
+de organizações que aceitam estagiários
+
+405
+00:16:43,389 --> 00:16:46,839
+por esse programa e o que eu tô falando
+
+406
+00:16:45,579 --> 00:16:49,389
+aqui não é necessariamente você precisa
+
+407
+00:16:46,839 --> 00:16:51,459
+participar do google summer of code mas
+
+408
+00:16:49,389 --> 00:16:53,709
+o fato de uma empresa tá nessa lista
+
+409
+00:16:51,459 --> 00:16:55,119
+aqui e ela tá participando do google
+
+410
+00:16:53,709 --> 00:16:56,660
+summer of code quer dizer que essas
+
+411
+00:16:55,119 --> 00:17:01,759
+empresas elas
+
+412
+00:16:56,660 --> 00:17:03,050
+que aceitam é usuários novos eles têm
+
+413
+00:17:01,759 --> 00:17:05,539
+uma boa documentação que eles estão
+
+414
+00:17:03,050 --> 00:17:08,539
+acostumados até colaboradores novos
+
+415
+00:17:05,539 --> 00:17:10,819
+aparecendo então é uma boa dá uma olhada
+
+416
+00:17:08,539 --> 00:17:15,709
+sua empresa estar por aqui porque eles
+
+417
+00:17:10,819 --> 00:17:17,990
+estão acostumados a onboard né a aceitar
+
+418
+00:17:15,709 --> 00:17:19,970
+novos colaboradores está uma boa vista
+
+419
+00:17:17,990 --> 00:17:22,819
+para para dar uma olhada outra lista que
+
+420
+00:17:19,970 --> 00:17:27,470
+eu coloquei aqui é o estoques nudes
+
+421
+00:17:22,819 --> 00:17:30,860
+ranger que se você vai investir meu
+
+422
+00:17:27,470 --> 00:17:33,559
+ponto com barra toques eles meio que
+
+423
+00:17:30,860 --> 00:17:36,140
+organizam é projeto ideal pessoas que
+
+424
+00:17:33,559 --> 00:17:39,650
+estão no kit rubi e ele já botão vários
+
+425
+00:17:36,140 --> 00:17:41,690
+nichos para você poder escolher um para
+
+426
+00:17:39,650 --> 00:17:44,480
+resolver por exemplo se você gosta de
+
+427
+00:17:41,690 --> 00:17:48,590
+modelagem 3d você clica aqui e aí você
+
+428
+00:17:44,480 --> 00:17:50,690
+vai ver alguns problemas alguns bugs né
+
+429
+00:17:48,590 --> 00:17:53,330
+tem olha 3120
+
+430
+00:17:50,690 --> 00:17:54,980
+os repositórios que que você pode
+
+431
+00:17:53,330 --> 00:17:56,659
+escolher ele ele vai aqui rankear não
+
+432
+00:17:54,980 --> 00:18:00,350
+sei qual é baseado em que ele está
+
+433
+00:17:56,659 --> 00:18:02,419
+arrancando mas por exemplo você pode ver
+
+434
+00:18:00,350 --> 00:18:05,149
+aqui a tem esse bug na sua biblioteca de
+
+435
+00:18:02,419 --> 00:18:06,799
+três de javascript eles tão pedindo para
+
+436
+00:18:05,149 --> 00:18:08,539
+documentar você pode clicar aqui já
+
+437
+00:18:06,799 --> 00:18:10,159
+começa a colaborar direto né se você tem
+
+438
+00:18:08,539 --> 00:18:12,080
+uma noção de como documentar e é só que
+
+439
+00:18:10,159 --> 00:18:13,669
+aprender mais sobre o projeto então é
+
+440
+00:18:12,080 --> 00:18:15,040
+outra forma de descobrir projetos
+
+441
+00:18:13,669 --> 00:18:17,350
+opensoft
+
+442
+00:18:15,040 --> 00:18:20,440
+bom então vamos fazer aqui o primeiro
+
+443
+00:18:17,350 --> 00:18:22,120
+passo juntos né eu falei que a gente vai
+
+444
+00:18:20,440 --> 00:18:24,040
+estar trabalhando com ignition como é
+
+445
+00:18:22,120 --> 00:18:25,510
+que você chegaria nisso né você poderia
+
+446
+00:18:24,040 --> 00:18:27,190
+ter procurado no google samuel ficou
+
+447
+00:18:25,510 --> 00:18:29,140
+hoje eu poderia ter achado algo está
+
+448
+00:18:27,190 --> 00:18:32,140
+puxando derrame você provavelmente ia
+
+449
+00:18:29,140 --> 00:18:36,280
+chegar aqui no link do ignition e eu
+
+450
+00:18:32,140 --> 00:18:42,820
+descobri que são bibliotecas para para
+
+451
+00:18:36,280 --> 00:18:44,950
+simulação de robôs um é não simulação de
+
+452
+00:18:42,820 --> 00:18:46,810
+cowboys que tem várias bibliotecas que
+
+453
+00:18:44,950 --> 00:18:48,910
+todo escrito em cima ser mais mais você
+
+454
+00:18:46,810 --> 00:18:51,610
+acha puxa isso me interessa vou querer
+
+455
+00:18:48,910 --> 00:18:54,370
+colaborar ou então por exemplo você ia
+
+456
+00:18:51,610 --> 00:18:55,120
+chegar nas informações sobre o gloss 2
+
+457
+00:18:54,370 --> 00:18:58,900
+em
+
+458
+00:18:55,120 --> 00:19:01,870
+e aqui que você ia ver puxa o bros 2 é
+
+459
+00:18:58,900 --> 00:19:04,870
+uma biblioteca de controlar roubou ele
+
+460
+00:19:01,870 --> 00:19:06,820
+tem várias ferramentas interessantes
+
+461
+00:19:04,870 --> 00:19:09,070
+para esse fácil então eu quero colaborar
+
+462
+00:19:06,820 --> 00:19:10,780
+com isso então é um exemplo de como você
+
+463
+00:19:09,070 --> 00:19:13,510
+ia chegar as informações desses projetos
+
+464
+00:19:10,780 --> 00:19:15,490
+no caso aqui vamos dizer que a gente viu
+
+465
+00:19:13,510 --> 00:19:17,500
+vários projetos ea gente escolheu quero
+
+466
+00:19:15,490 --> 00:19:21,100
+colaborar com igreja beleza fizemos o
+
+467
+00:19:17,500 --> 00:19:23,520
+passo 1 agora vamos ver o segundo passo
+
+468
+00:19:21,100 --> 00:19:26,020
+forma se familiarizar com um software né
+
+469
+00:19:23,520 --> 00:19:27,730
+tem muita gente que aparece às vezes
+
+470
+00:19:26,020 --> 00:19:29,320
+querendo colaborar e nem sabe o que que
+
+471
+00:19:27,730 --> 00:19:31,990
+o projeto faz e nem sabe o que que
+
+472
+00:19:29,320 --> 00:19:35,230
+aquela biblioteca faz direito nunca usou
+
+473
+00:19:31,990 --> 00:19:36,850
+não tem noção de quais são as funções de
+
+474
+00:19:35,230 --> 00:19:39,610
+por quê que alguém usaria aquilo então
+
+475
+00:19:36,850 --> 00:19:42,760
+antes de mais nada se você não sabe
+
+476
+00:19:39,610 --> 00:19:44,950
+nunca usou aquele software usa né usa
+
+477
+00:19:42,760 --> 00:19:47,710
+faz uns tutoriais rode alguns exemplos
+
+478
+00:19:44,950 --> 00:19:49,690
+instalar no seu sistema é primeiro
+
+479
+00:19:47,710 --> 00:19:51,120
+entenda o que que é o sofrer que você tá
+
+480
+00:19:49,690 --> 00:19:54,030
+querendo colaborar
+
+481
+00:19:51,120 --> 00:19:55,320
+me faça perguntas geralmente têm fóruns
+
+482
+00:19:54,030 --> 00:19:59,700
+então se você precisa de mais
+
+483
+00:19:55,320 --> 00:20:01,710
+informações é entra e se informa mais
+
+484
+00:19:59,700 --> 00:20:05,490
+sobre aquele projeto antes de qualquer
+
+485
+00:20:01,710 --> 00:20:08,040
+coisa né então por exemplo ignition você
+
+486
+00:20:05,490 --> 00:20:10,530
+se você buscasse no google e tá você e
+
+487
+00:20:08,040 --> 00:20:12,420
+achar uns tutoriais de várias versões
+
+488
+00:20:10,530 --> 00:20:15,000
+diferentes várias bibliotecas diferentes
+
+489
+00:20:12,420 --> 00:20:18,000
+você ia achar o site gazebo enhancers
+
+490
+00:20:15,000 --> 00:20:20,640
+que onde você acha faz pode fazer
+
+491
+00:20:18,000 --> 00:20:22,680
+perguntas e respostas em inglês né aí
+
+492
+00:20:20,640 --> 00:20:25,200
+por nós dois por exemplo você irá achar
+
+493
+00:20:22,680 --> 00:20:28,620
+também o historiador os dois tutoriais
+
+494
+00:20:25,200 --> 00:20:30,780
+bros se achar o zíper se podia fazer
+
+495
+00:20:28,620 --> 00:20:32,070
+perguntas então você esse passo aqui
+
+496
+00:20:30,780 --> 00:20:34,170
+seria o passo que você vai se
+
+497
+00:20:32,070 --> 00:20:36,480
+familiarizar e isso aí assim depende
+
+498
+00:20:34,170 --> 00:20:41,610
+muito do que que você de como você quer
+
+499
+00:20:36,480 --> 00:20:44,190
+contribuir e de da complexidade do
+
+500
+00:20:41,610 --> 00:20:45,690
+software de quanto você já se conhecia o
+
+501
+00:20:44,190 --> 00:20:48,179
+software antes então isso aqui pode
+
+502
+00:20:45,690 --> 00:20:50,160
+demorar alguns dias pode demorar algumas
+
+503
+00:20:48,179 --> 00:20:51,100
+semanas até você sentir confortável com
+
+504
+00:20:50,160 --> 00:20:53,470
+esse algumas horas
+
+505
+00:20:51,100 --> 00:20:55,780
+e com projeto pequenininho que dava para
+
+506
+00:20:53,470 --> 00:20:58,360
+você entender bastante em pouco tempo
+
+507
+00:20:55,780 --> 00:21:01,240
+então vai variar muito o tempo que você
+
+508
+00:20:58,360 --> 00:21:03,580
+vai passar nesse passo 2 aqui né mas
+
+509
+00:21:01,240 --> 00:21:07,419
+agora a gente vai fingir que todo mundo
+
+510
+00:21:03,580 --> 00:21:10,320
+aqui fez esses tutoriais tem uma noção
+
+511
+00:21:07,419 --> 00:21:12,940
+boa do que quer o ignition e do que que
+
+512
+00:21:10,320 --> 00:21:15,880
+ele quais são as funções que já estão lá
+
+513
+00:21:12,940 --> 00:21:17,919
+já fez algumas perguntas para conseguir
+
+514
+00:21:15,880 --> 00:21:19,120
+instalar tudo no sistema agora vamos
+
+515
+00:21:17,919 --> 00:21:21,010
+fingir todo mundo aqui é o usuário the
+
+516
+00:21:19,120 --> 00:21:24,090
+ignition então a gente passou no passa
+
+517
+00:21:21,010 --> 00:21:26,460
+dois vamos para o passo trecho
+
+518
+00:21:24,090 --> 00:21:29,669
+o que é descobrir como é que você
+
+519
+00:21:26,460 --> 00:21:31,799
+contribuí na o e seguir aqui eu tô
+
+520
+00:21:29,669 --> 00:21:35,279
+falando dos passos gerais de como
+
+521
+00:21:31,799 --> 00:21:38,490
+contribuir mas cada projeto vai ter um
+
+522
+00:21:35,279 --> 00:21:40,110
+passo a passo específico daquele projeto
+
+523
+00:21:38,490 --> 00:21:42,150
+alguns detalhes específicos daquele
+
+524
+00:21:40,110 --> 00:21:45,179
+projeto de como você pode colaborar com
+
+525
+00:21:42,150 --> 00:21:47,309
+ele então é e e era que eu tava falando
+
+526
+00:21:45,179 --> 00:21:49,110
+os projetos de estradas por exemplo do
+
+527
+00:21:47,309 --> 00:21:53,700
+google samuel ficou eles vão ter esse
+
+528
+00:21:49,110 --> 00:21:56,789
+esse processo bem bem detalhado bem
+
+529
+00:21:53,700 --> 00:21:58,799
+documentário geralmente é porque tem
+
+530
+00:21:56,789 --> 00:22:00,510
+projetos que existem na internet que
+
+531
+00:21:58,799 --> 00:22:01,980
+estão mal documentados e que é difícil
+
+532
+00:22:00,510 --> 00:22:04,620
+de você até entender como é que funciona
+
+533
+00:22:01,980 --> 00:22:07,260
+né de difícil de você entender qual é o
+
+534
+00:22:04,620 --> 00:22:09,659
+processo de qual o que é necessário para
+
+535
+00:22:07,260 --> 00:22:11,399
+colaborar mas os projetos que são bem
+
+536
+00:22:09,659 --> 00:22:13,980
+documentados você geralmente vai achar
+
+537
+00:22:11,399 --> 00:22:18,299
+tem um arquivo contributing.md no
+
+538
+00:22:13,980 --> 00:22:21,029
+repositório deles ou você pode busca no
+
+539
+00:22:18,299 --> 00:22:23,730
+google mesmo como contribuir com o
+
+540
+00:22:21,029 --> 00:22:24,070
+projeto e tal e você vai achar alguns
+
+541
+00:22:23,730 --> 00:22:26,860
+guias
+
+542
+00:22:24,070 --> 00:22:29,290
+e se não achou mais nada pergunta
+
+543
+00:22:26,860 --> 00:22:32,710
+pergunta nos fóruns geralmente tem os
+
+544
+00:22:29,290 --> 00:22:37,050
+projetos têm chat tem rc tem de leque
+
+545
+00:22:32,710 --> 00:22:39,580
+hoje em dia tem meio em list né então é
+
+546
+00:22:37,050 --> 00:22:42,670
+pergunta antes antes de começar a
+
+547
+00:22:39,580 --> 00:22:45,460
+programar porque vai que você descobre
+
+548
+00:22:42,670 --> 00:22:48,610
+que o processo é muito complicado ou vai
+
+549
+00:22:45,460 --> 00:22:49,780
+que você descobre que o processo é que
+
+550
+00:22:48,610 --> 00:22:52,000
+eles não estão aceitando contribuições
+
+551
+00:22:49,780 --> 00:22:56,380
+no momento pode pode ser tanta coisa
+
+552
+00:22:52,000 --> 00:22:58,600
+então ao invés de você começar logo o
+
+553
+00:22:56,380 --> 00:23:01,150
+problema aí depois descobrir que não
+
+554
+00:22:58,600 --> 00:23:03,130
+operações contribuições mais complicado
+
+555
+00:23:01,150 --> 00:23:06,550
+então que não vai funcionar é melhor
+
+556
+00:23:03,130 --> 00:23:09,250
+você já se informar antes então na
+
+557
+00:23:06,550 --> 00:23:11,170
+ignition por exemplo você é se você
+
+558
+00:23:09,250 --> 00:23:13,090
+buscar você tá você ia achar aqui o dia
+
+559
+00:23:11,170 --> 00:23:15,160
+de contribuição eu vou abrir aqui o dia
+
+560
+00:23:13,090 --> 00:23:16,750
+de contribuição do ignição engrosse para
+
+561
+00:23:15,160 --> 00:23:19,720
+vocês terem uma noção do tipo de
+
+562
+00:23:16,750 --> 00:23:22,630
+informação que tem então por exemplo os
+
+563
+00:23:19,720 --> 00:23:24,080
+projetos têm código de conduta na ellis
+
+564
+00:23:22,630 --> 00:23:26,149
+dizem olha as pessoas
+
+565
+00:23:24,080 --> 00:23:28,519
+e vamos colaborar aqui a gente quer que
+
+566
+00:23:26,149 --> 00:23:31,340
+eu não seja educado aqui que todo mundo
+
+567
+00:23:28,519 --> 00:23:37,039
+né esse tipo de coisa que não xingando
+
+568
+00:23:31,340 --> 00:23:39,289
+ninguém não aí tem uma ideia do design
+
+569
+00:23:37,039 --> 00:23:42,890
+do projeto que é composto de várias
+
+570
+00:23:39,289 --> 00:23:45,830
+bibliotecas alguns dias por exemplo esse
+
+571
+00:23:42,890 --> 00:23:50,870
+aqui tem guia de como reportar bugs tem
+
+572
+00:23:45,830 --> 00:23:54,799
+guia de como é sugerir melhorias que
+
+573
+00:23:50,870 --> 00:23:55,940
+você gostaria de ver tem o finalmente o
+
+574
+00:23:54,799 --> 00:23:57,620
+dia que a gente tá interessado aqui é
+
+575
+00:23:55,940 --> 00:24:01,429
+como contribuir código né como a gente
+
+576
+00:23:57,620 --> 00:24:05,120
+vai contribuir mudar o código do ine
+
+577
+00:24:01,429 --> 00:24:08,570
+chão e fazer modificações e telas feitas
+
+578
+00:24:05,120 --> 00:24:13,330
+um release delas então tenho que o passo
+
+579
+00:24:08,570 --> 00:24:16,279
+a passo faça um fork abra um brand né
+
+580
+00:24:13,330 --> 00:24:17,720
+escreva seu código tal resolvi o teste
+
+581
+00:24:16,279 --> 00:24:20,899
+que é basicamente que eu vou fazer aqui
+
+582
+00:24:17,720 --> 00:24:23,360
+com vocês eu vou fazer esse esses passos
+
+583
+00:24:20,899 --> 00:24:24,090
+aqui não necessariamente olhando aqui
+
+584
+00:24:23,360 --> 00:24:27,299
+nesse
+
+585
+00:24:24,090 --> 00:24:31,020
+é o que a gente vai fazer até aqui ó que
+
+586
+00:24:27,299 --> 00:24:32,460
+tem 17 passos o meu dia só tem 12 e só
+
+587
+00:24:31,020 --> 00:24:34,230
+para quem tiver interessado em nós dois
+
+588
+00:24:32,460 --> 00:24:38,840
+tem esse dia que também de contribuição
+
+589
+00:24:34,230 --> 00:24:42,450
+do nós dois que tem também informações
+
+590
+00:24:38,840 --> 00:24:46,350
+respeite o que veio né tem tem um guia
+
+591
+00:24:42,450 --> 00:24:50,460
+geral de como você vai escolher o que
+
+592
+00:24:46,350 --> 00:24:53,400
+você vai vai trabalhar de como você tem
+
+593
+00:24:50,460 --> 00:24:55,950
+que organizar o seu sistema o que que é
+
+594
+00:24:53,400 --> 00:24:57,809
+esperado enterro de teste e tal então tá
+
+595
+00:24:55,950 --> 00:25:03,059
+tudo documentado aqui no dia de
+
+596
+00:24:57,809 --> 00:25:04,500
+colaboração do ross dois então é espaço
+
+597
+00:25:03,059 --> 00:25:08,010
+três aqui vamos fingir que a gente já
+
+598
+00:25:04,500 --> 00:25:10,020
+fez que a gente leu todo todo não
+
+599
+00:25:08,010 --> 00:25:12,419
+precisa der ganho em detalhes é só que é
+
+600
+00:25:10,020 --> 00:25:13,649
+uma noção dá uma olhada ali para ter uma
+
+601
+00:25:12,419 --> 00:25:15,980
+noção do que você vai ter que fazer se
+
+602
+00:25:13,649 --> 00:25:19,110
+você vai ter que fazer um forte e tal e
+
+603
+00:25:15,980 --> 00:25:21,210
+vamos fingir que a gente fez espaço todo
+
+604
+00:25:19,110 --> 00:25:23,580
+mundo aqui já sabe para o início né todo
+
+605
+00:25:21,210 --> 00:25:24,070
+mundo aqui já sabe como qual é o
+
+606
+00:25:23,580 --> 00:25:29,140
+processo
+
+607
+00:25:24,070 --> 00:25:30,850
+é de você quando você vai colaborar aí
+
+608
+00:25:29,140 --> 00:25:32,980
+venho com as quatro que escolher
+
+609
+00:25:30,850 --> 00:25:35,230
+realmente qual vai ser a colaboração que
+
+610
+00:25:32,980 --> 00:25:37,540
+você vai querer fazer para esse projeto
+
+611
+00:25:35,230 --> 00:25:39,790
+né tem gente que começa com esse passo
+
+612
+00:25:37,540 --> 00:25:41,770
+se você clica naquele estoques do
+
+613
+00:25:39,790 --> 00:25:43,660
+derrame você vai talvez você acha um
+
+614
+00:25:41,770 --> 00:25:45,850
+lixo para resolver antes mesmo você
+
+615
+00:25:43,660 --> 00:25:47,770
+conhecer aquele projeto e aí você meio
+
+616
+00:25:45,850 --> 00:25:53,340
+que faz as coisas de trás para frente eu
+
+617
+00:25:47,770 --> 00:25:56,200
+acho que vale a pena você conhecer o
+
+618
+00:25:53,340 --> 00:25:58,180
+vale a pena você conhecer o projeto
+
+619
+00:25:56,200 --> 00:26:00,130
+antes de você decidir que você vai
+
+620
+00:25:58,180 --> 00:26:05,350
+colaborar e tentar achar uma forma de
+
+621
+00:26:00,130 --> 00:26:07,210
+contribuir então é vamos ver a gente
+
+622
+00:26:05,350 --> 00:26:08,470
+quer colaborar com ignition que o como é
+
+623
+00:26:07,210 --> 00:26:10,870
+que a gente vai achar o que a gente pode
+
+624
+00:26:08,470 --> 00:26:15,460
+resolver tem um schwarna que é uma lista
+
+625
+00:26:10,870 --> 00:26:18,120
+de problemas do software de base de
+
+626
+00:26:15,460 --> 00:26:20,800
+coisas que de novas funcionalidades que
+
+627
+00:26:18,120 --> 00:26:22,660
+vão ser adicionar legenda aqui que tem
+
+628
+00:26:20,800 --> 00:26:24,080
+que ser adicionada de que talvez alguém
+
+629
+00:26:22,660 --> 00:26:27,769
+já esteja trabalhando nelas ou
+
+630
+00:26:24,080 --> 00:26:29,870
+é uma boa ideia você sempre perguntar se
+
+631
+00:26:27,769 --> 00:26:32,240
+alguém já começou a fazer aquilo não é
+
+632
+00:26:29,870 --> 00:26:34,490
+mesmo que você acha um lixo hooper falar
+
+633
+00:26:32,240 --> 00:26:36,860
+e comenta nele e fala olha eu tô
+
+634
+00:26:34,490 --> 00:26:38,690
+interessado em resolver isso aqui será
+
+635
+00:26:36,860 --> 00:26:40,730
+que alguém já começou isso aí importante
+
+636
+00:26:38,690 --> 00:26:42,470
+especialmente para o projeto com centena
+
+637
+00:26:40,730 --> 00:26:45,529
+de colaboradores com milhares de
+
+638
+00:26:42,470 --> 00:26:47,600
+usuários porque pode ser que tenha tanta
+
+639
+00:26:45,529 --> 00:26:50,330
+gente querendo começar a colaborar e
+
+640
+00:26:47,600 --> 00:26:52,789
+igual a você e tá todo mundo achando o
+
+641
+00:26:50,330 --> 00:26:54,830
+mesmo nicho e vai começar sozinho e aí
+
+642
+00:26:52,789 --> 00:26:57,019
+depois ficam várias cores parte tentando
+
+643
+00:26:54,830 --> 00:26:58,820
+resolver o mesmo problema então antes de
+
+644
+00:26:57,019 --> 00:27:02,330
+começar para você não duplicar o esforço
+
+645
+00:26:58,820 --> 00:27:04,010
+que outra pessoa já tá fazendo é escreve
+
+646
+00:27:02,330 --> 00:27:07,580
+um comentário lá de que você vai começar
+
+647
+00:27:04,010 --> 00:27:10,159
+a a resolver esse você precisar de
+
+648
+00:27:07,580 --> 00:27:12,590
+algumas dicas de mais informações
+
+649
+00:27:10,159 --> 00:27:14,809
+pergunta não interage com os
+
+650
+00:27:12,590 --> 00:27:15,830
+mantenedores fala óleo eu tô pensando em
+
+651
+00:27:14,809 --> 00:27:17,360
+fazer isso aqui mas eu tô pensando em
+
+652
+00:27:15,830 --> 00:27:19,340
+fazer dessa forma você acha que isso
+
+653
+00:27:17,360 --> 00:27:23,510
+seria correto vocês vão aceitar para
+
+654
+00:27:19,340 --> 00:27:24,090
+você saber exatamente o que que são as
+
+655
+00:27:23,510 --> 00:27:27,029
+melhores
+
+656
+00:27:24,090 --> 00:27:30,779
+é você ter a sua colaboração medida
+
+657
+00:27:27,029 --> 00:27:34,049
+dentro do projeto né então vamos ver
+
+658
+00:27:30,779 --> 00:27:35,429
+aqui na igreja no box o tanto todos os
+
+659
+00:27:34,049 --> 00:27:39,120
+projetos que estão no kit rabo ele
+
+660
+00:27:35,429 --> 00:27:42,179
+geralmente têm uma legal zinho que algo
+
+661
+00:27:39,120 --> 00:27:43,650
+se for se shows né que são bons e fios
+
+662
+00:27:42,179 --> 00:27:46,679
+para pessoas que estão colaborando pela
+
+663
+00:27:43,650 --> 00:27:49,640
+primeira vez então meio difícil a gente
+
+664
+00:27:46,679 --> 00:27:53,820
+começou a marcar alguns a gente moveu o
+
+665
+00:27:49,640 --> 00:27:55,590
+ignition projeto rubi faz um mês então a
+
+666
+00:27:53,820 --> 00:27:57,990
+gente ainda está começando a documentar
+
+667
+00:27:55,590 --> 00:28:00,179
+mais a parte do botar os lei para os
+
+668
+00:27:57,990 --> 00:28:02,010
+meus riscos e tal então não tem tantos
+
+669
+00:28:00,179 --> 00:28:04,320
+mas hoje nós dois está no mediterrâneo e
+
+670
+00:28:02,010 --> 00:28:06,539
+anos então eles têm muito se você clicar
+
+671
+00:28:04,320 --> 00:28:08,490
+aqui nessa lista de verificar se seus eu
+
+672
+00:28:06,539 --> 00:28:11,970
+acho que tem lá tem 60 eixos marcados
+
+673
+00:28:08,490 --> 00:28:15,240
+como como grande force-x que você pode
+
+674
+00:28:11,970 --> 00:28:18,270
+dar uma olhada e resolver
+
+675
+00:28:15,240 --> 00:28:20,670
+e tem também aqueles tá de todos os
+
+676
+00:28:18,270 --> 00:28:22,350
+lixos se você depois que você já
+
+677
+00:28:20,670 --> 00:28:24,120
+colaborou um pouquinho que você já está
+
+678
+00:28:22,350 --> 00:28:25,620
+um pouquinho mais familiarizada que
+
+679
+00:28:24,120 --> 00:28:29,130
+continuar contribuindo você pode uma
+
+680
+00:28:25,620 --> 00:28:30,540
+olhada em todos os lixos né então vamos
+
+681
+00:28:29,130 --> 00:28:33,660
+dar uma olhada aqui na lista de esgoto
+
+682
+00:28:30,540 --> 00:28:38,400
+faixas do ignition ela já teve um aqui
+
+683
+00:28:33,660 --> 00:28:40,250
+que foi fechado hoje de manhã então você
+
+684
+00:28:38,400 --> 00:28:42,570
+vê que aqui nesse link que eu coloquei
+
+685
+00:28:40,250 --> 00:28:44,309
+aparecem os estilos das várias
+
+686
+00:28:42,570 --> 00:28:46,850
+bibliotecas essa aqui é a biblioteca de
+
+687
+00:28:44,309 --> 00:28:49,260
+transporte essa aqui é a biblioteca de
+
+688
+00:28:46,850 --> 00:28:51,300
+interface gráfica vou e essa que a
+
+689
+00:28:49,260 --> 00:28:55,110
+bíblia até que matemática é seu
+
+690
+00:28:51,300 --> 00:28:57,660
+simulador em si e assim vai então é
+
+691
+00:28:55,110 --> 00:29:00,420
+dessa lista aqui você escolheria um
+
+692
+00:28:57,660 --> 00:29:02,190
+nicho que você acha que você se sentiria
+
+693
+00:29:00,420 --> 00:29:03,900
+confortável acho interessante para você
+
+694
+00:29:02,190 --> 00:29:06,960
+acha que seria uma boa oportunidade de
+
+695
+00:29:03,900 --> 00:29:09,179
+aprendizado para você então eu já dei
+
+696
+00:29:06,960 --> 00:29:10,950
+uma olhada nessa lista que antes e eu
+
+697
+00:29:09,179 --> 00:29:13,710
+pensei em hoje a gente resolver junto
+
+698
+00:29:10,950 --> 00:29:15,220
+esse e chego aqui que olhando assim de
+
+699
+00:29:13,710 --> 00:29:18,070
+primeira vez que parece meio
+
+700
+00:29:15,220 --> 00:29:20,470
+bom então vamos dar uma clicada nele dar
+
+701
+00:29:18,070 --> 00:29:22,630
+uma olhada no que queria ele tá numa
+
+702
+00:29:20,470 --> 00:29:24,940
+biblioteca que se chama aqui me chamar e
+
+703
+00:29:22,630 --> 00:29:28,510
+que é uma biblioteca de matemática então
+
+704
+00:29:24,940 --> 00:29:31,179
+tem funções para fazer a geometria
+
+705
+00:29:28,510 --> 00:29:33,250
+álgebra né tem tem você pode trabalha
+
+706
+00:29:31,179 --> 00:29:37,750
+com vetores com matrizes esse tipo de
+
+707
+00:29:33,250 --> 00:29:41,679
+coisa é e que a gente usa no simulador
+
+708
+00:29:37,750 --> 00:29:43,690
+né e esse bug kalil de que foi um bug
+
+709
+00:29:41,679 --> 00:29:46,120
+que eu que escrevi mas não foi eu que
+
+710
+00:29:43,690 --> 00:29:47,799
+descobriu esse bang foi um outro
+
+711
+00:29:46,120 --> 00:29:51,370
+engenheiro estava trabalhando com a
+
+712
+00:29:47,799 --> 00:29:53,650
+gente que notou que isso é que era um
+
+713
+00:29:51,370 --> 00:29:55,870
+problema né que a gente tem essa classe
+
+714
+00:29:53,650 --> 00:29:57,940
+que é uma exalar de pote aí você pensa
+
+715
+00:29:55,870 --> 00:30:00,880
+poxa eu eu não sei o que que eu marque
+
+716
+00:29:57,940 --> 00:30:02,500
+seja lá em box então se você tá vendo
+
+717
+00:30:00,880 --> 00:30:06,190
+coisa assim vai procura o que que será
+
+718
+00:30:02,500 --> 00:30:08,470
+uma é cuzona em busca no google e dá uma
+
+719
+00:30:06,190 --> 00:30:09,940
+olhada o que que será eu posso mostrar
+
+720
+00:30:08,470 --> 00:30:15,230
+pra vocês aqui rapidinho não sei se tem
+
+721
+00:30:09,940 --> 00:30:19,820
+algum link não tem muita não quero
+
+722
+00:30:15,230 --> 00:30:23,080
+é boa para explicar para quem não não
+
+723
+00:30:19,820 --> 00:30:28,460
+tem muita noção do que quer por exemplo
+
+724
+00:30:23,080 --> 00:30:32,450
+esses online box é uma caixa que em 3d
+
+725
+00:30:28,460 --> 00:30:34,250
+que está alinhada com os eixos x y e z e
+
+726
+00:30:32,450 --> 00:30:36,260
+por ela está alinhada com os anjos você
+
+727
+00:30:34,250 --> 00:30:38,120
+só precisa do ponto minha ou e do ponto
+
+728
+00:30:36,260 --> 00:30:40,370
+máximo dela para definir a caixa você
+
+729
+00:30:38,120 --> 00:30:42,140
+não precisa definir todos os oito cantos
+
+730
+00:30:40,370 --> 00:30:43,820
+você só precisa definir seus dois porque
+
+731
+00:30:42,140 --> 00:30:46,460
+já te dar a caixa interna é basicamente
+
+732
+00:30:43,820 --> 00:30:48,710
+isso que quer eu ou a minha ideia aqui
+
+733
+00:30:46,460 --> 00:30:51,410
+não é ensinar para vocês sobre me chamar
+
+734
+00:30:48,710 --> 00:30:52,850
+essa só para mostrar aqui quando você tá
+
+735
+00:30:51,410 --> 00:30:55,250
+começando a colaborar você vai ter que
+
+736
+00:30:52,850 --> 00:30:57,770
+procurar e vai ter que ir se informar um
+
+737
+00:30:55,250 --> 00:31:00,559
+pouquinho mais sobre o que que você tá
+
+738
+00:30:57,770 --> 00:31:02,000
+querendo resolver ali então vamos ver
+
+739
+00:31:00,559 --> 00:31:05,120
+que que o tio tá falando tá falando aqui
+
+740
+00:31:02,000 --> 00:31:06,559
+aí vocês online box né tem um operador
+
+741
+00:31:05,120 --> 00:31:08,660
+mais essa é uma coisa de ser mais mais
+
+742
+00:31:06,559 --> 00:31:10,730
+para quem não intencionais mais tudo bem
+
+743
+00:31:08,660 --> 00:31:15,240
+não vai ser muito importante aqui porque
+
+744
+00:31:10,730 --> 00:31:21,450
+a gente tá fazendo e para para somar
+
+745
+00:31:15,240 --> 00:31:25,260
+e três então vamos dar uma olhada aqui
+
+746
+00:31:21,450 --> 00:31:28,470
+então o não é a pessoa que escreveu o
+
+747
+00:31:25,260 --> 00:31:30,300
+bug que fui eu deu uma descrição do que
+
+748
+00:31:28,470 --> 00:31:34,110
+que era o problema e botou aqui uma
+
+749
+00:31:30,300 --> 00:31:37,050
+linha onde do código onde tinha o
+
+750
+00:31:34,110 --> 00:31:38,850
+operador então já existe operador - só
+
+751
+00:31:37,050 --> 00:31:40,410
+não existe operador mais então mas
+
+752
+00:31:38,850 --> 00:31:42,840
+somente até pegar uma caixa e somar com
+
+753
+00:31:40,410 --> 00:31:46,050
+o vetor enfim eu não quero escrever
+
+754
+00:31:42,840 --> 00:31:47,580
+muito em detalhes vamos só ter uma noção
+
+755
+00:31:46,050 --> 00:31:51,630
+de que é esse o problema que a gente
+
+756
+00:31:47,580 --> 00:31:53,910
+resolveu que a gente vai consertar então
+
+757
+00:31:51,630 --> 00:31:56,010
+fizemos o passo quatro né gente escolheu
+
+758
+00:31:53,910 --> 00:31:57,809
+esse é o banco que eu vou o bug na
+
+759
+00:31:56,010 --> 00:31:59,580
+verdade são a fit é uma coisa que tá não
+
+760
+00:31:57,809 --> 00:32:01,800
+tinha que você vai adicionar a
+
+761
+00:31:59,580 --> 00:32:05,130
+bom então vamos se familiarizar com o
+
+762
+00:32:01,800 --> 00:32:08,310
+código né a gente viu que vai ser na
+
+763
+00:32:05,130 --> 00:32:09,930
+biblioteca ignition mar então vamos dar
+
+764
+00:32:08,310 --> 00:32:11,490
+uma olhada de como é que a gente começa
+
+765
+00:32:09,930 --> 00:32:14,850
+a colaborar na ilha chamada a gente
+
+766
+00:32:11,490 --> 00:32:17,280
+entra no repositório a gente pode ver
+
+767
+00:32:14,850 --> 00:32:21,180
+várias informações aqui no rede mina do
+
+768
+00:32:17,280 --> 00:32:25,020
+igreja mas que tem teste ó tá vendo tem
+
+769
+00:32:21,180 --> 00:32:27,630
+no linux no mac no windows tem tá ficou
+
+770
+00:32:25,020 --> 00:32:29,100
+verde então tá bem testado né 98 por
+
+771
+00:32:27,630 --> 00:32:30,750
+cento das linhas estão sendo testadas
+
+772
+00:32:29,100 --> 00:32:32,040
+então você já pensa roupa quando eu
+
+773
+00:32:30,750 --> 00:32:33,300
+contribuí alguma coisa também vou ter
+
+774
+00:32:32,040 --> 00:32:35,130
+que testar meu código porque essa
+
+775
+00:32:33,300 --> 00:32:36,840
+biblioteca que é bem testada os
+
+776
+00:32:35,130 --> 00:32:39,420
+mantenedores não vão aceitar uma
+
+777
+00:32:36,840 --> 00:32:42,090
+contribuição se não for como bastante
+
+778
+00:32:39,420 --> 00:32:43,860
+teste e aí tem as informações geralmente
+
+779
+00:32:42,090 --> 00:32:47,250
+quando você quer colaborar você quer
+
+780
+00:32:43,860 --> 00:32:49,020
+saber como instalar do distorce né você
+
+781
+00:32:47,250 --> 00:32:50,970
+não quer instalar de vinagre você quer
+
+782
+00:32:49,020 --> 00:32:53,010
+instalar as compilar sua própria cópia
+
+783
+00:32:50,970 --> 00:32:55,140
+daquele software que você vai conseguir
+
+784
+00:32:53,010 --> 00:32:57,150
+modificar depois então vem aqui no
+
+785
+00:32:55,140 --> 00:32:59,559
+sócio-histórico e vamos seguir as
+
+786
+00:32:57,150 --> 00:33:02,559
+instruções então o primeiro ele fala que
+
+787
+00:32:59,559 --> 00:33:05,710
+e pode isso para instalar aí
+
+788
+00:33:02,559 --> 00:33:07,960
+dependências a gente vem aqui no
+
+789
+00:33:05,710 --> 00:33:10,149
+terminal espero que não esteja mais
+
+790
+00:33:07,960 --> 00:33:14,080
+pequeno para vocês verem o terminal e
+
+791
+00:33:10,149 --> 00:33:15,639
+falei para instalar aqui o as
+
+792
+00:33:14,080 --> 00:33:18,249
+dependências já tá instalada no seu
+
+793
+00:33:15,639 --> 00:33:20,470
+sistema beleza então vamos ficar o
+
+794
+00:33:18,249 --> 00:33:25,690
+próximo passo próximo passo é clonar
+
+795
+00:33:20,470 --> 00:33:27,129
+esse repositório então eu vou clonar ele
+
+796
+00:33:25,690 --> 00:33:29,559
+aqui eu entrei na minha partida
+
+797
+00:33:27,129 --> 00:33:33,639
+temporária só para saber onde é que eu
+
+798
+00:33:29,559 --> 00:33:36,100
+tô e equipe mais que ele diz a que entra
+
+799
+00:33:33,639 --> 00:33:39,200
+naquela pasta e faz isso aqui então te
+
+800
+00:33:36,100 --> 00:33:43,140
+dou todos os comandos de como compilar
+
+801
+00:33:39,200 --> 00:33:44,880
+se você é roda aí compila
+
+802
+00:33:43,140 --> 00:33:47,550
+bom então vou deixar aqui comprando
+
+803
+00:33:44,880 --> 00:33:51,930
+enquanto está compilando vai demorar
+
+804
+00:33:47,550 --> 00:33:54,720
+alguns minutos só talvez nem um minuto
+
+805
+00:33:51,930 --> 00:33:57,300
+então você para a gente dar uma olhada
+
+806
+00:33:54,720 --> 00:33:59,520
+mais aqui né mais informações sobre a
+
+807
+00:33:57,300 --> 00:34:02,130
+biblioteca aqui que mais tem aqui tem
+
+808
+00:33:59,520 --> 00:34:04,440
+informação sobre como testar tem
+
+809
+00:34:02,130 --> 00:34:06,300
+informação sobre como contribuir tem
+
+810
+00:34:04,440 --> 00:34:08,399
+informação sobre como funcionam as
+
+811
+00:34:06,300 --> 00:34:11,040
+versões dessa biblioteca com a licença
+
+812
+00:34:08,399 --> 00:34:13,770
+né licença importante na frase se você
+
+813
+00:34:11,040 --> 00:34:15,540
+quiser usar esse projeto em outras
+
+814
+00:34:13,770 --> 00:34:19,560
+coisas vamos ver como é que tá a
+
+815
+00:34:15,540 --> 00:34:23,609
+compilação ah tá demorando é porque eu
+
+816
+00:34:19,560 --> 00:34:26,789
+botei no no corte só que mais rápido
+
+817
+00:34:23,609 --> 00:34:28,289
+bom então enquanto está compilando a
+
+818
+00:34:26,789 --> 00:34:30,899
+gente pode dar uma olhada aqui nas
+
+819
+00:34:28,289 --> 00:34:33,690
+pastas ou a gente vê que tem a parte de
+
+820
+00:34:30,899 --> 00:34:35,159
+suor se tem a parte de incluindo eu acho
+
+821
+00:34:33,690 --> 00:34:37,980
+que tinha até aqui em algum lugar
+
+822
+00:34:35,159 --> 00:34:40,259
+explicando a folha structure para gente
+
+823
+00:34:37,980 --> 00:34:42,720
+se familiarizar com como o código está
+
+824
+00:34:40,259 --> 00:34:46,079
+organizado né então a gente vê que tem a
+
+825
+00:34:42,720 --> 00:34:48,210
+parte de exemplos tem a pasta includ
+
+826
+00:34:46,079 --> 00:34:50,489
+aqui que tem os renders né uma coisa
+
+827
+00:34:48,210 --> 00:34:54,059
+específica de ser mais mais tem a faixa
+
+828
+00:34:50,489 --> 00:34:56,909
+de source que tem realmente arquivos
+
+829
+00:34:54,059 --> 00:34:59,009
+onde está sendo implementada o código
+
+830
+00:34:56,909 --> 00:35:01,650
+tem a parte de testes tem uma parte de
+
+831
+00:34:59,009 --> 00:35:03,450
+tutoriais né então já que a gente vai
+
+832
+00:35:01,650 --> 00:35:05,609
+que a gente decidiu que a gente vai
+
+833
+00:35:03,450 --> 00:35:07,470
+fazer a gente vai adicionar uma coisa a
+
+834
+00:35:05,609 --> 00:35:09,359
+uma classe né que é o access online
+
+835
+00:35:07,470 --> 00:35:12,210
+boxes então a gente provavelmente vai
+
+836
+00:35:09,359 --> 00:35:14,009
+ter que estar editando alguma coisa
+
+837
+00:35:12,210 --> 00:35:15,660
+dentro do source e a gente vai ter que
+
+838
+00:35:14,009 --> 00:35:18,480
+tá editando algun header porque a gente
+
+839
+00:35:15,660 --> 00:35:20,500
+vai adicionar uma coisa que aquela
+
+840
+00:35:18,480 --> 00:35:22,720
+classe que vai ter que tá no redor dela
+
+841
+00:35:20,500 --> 00:35:25,200
+e aí onde entra a parte do conhecimento
+
+842
+00:35:22,720 --> 00:35:27,610
+específico que eu falei para vocês que
+
+843
+00:35:25,200 --> 00:35:30,010
+você tem que ter conhecimento daquela
+
+844
+00:35:27,610 --> 00:35:31,180
+língua e tal tá demorando aconter aqui
+
+845
+00:35:30,010 --> 00:35:33,880
+porque eu tô rodando um milhão de coisas
+
+846
+00:35:31,180 --> 00:35:37,450
+no meu computador agora para gravar o
+
+847
+00:35:33,880 --> 00:35:41,440
+vídeo tá mas vamos ver ó tá vendo que tá
+
+848
+00:35:37,450 --> 00:35:43,360
+encontrando esses aqui você pode ver que
+
+849
+00:35:41,440 --> 00:35:48,100
+tá controlando o teste não está
+
+850
+00:35:43,360 --> 00:35:51,089
+compilando só o o código em si não vou
+
+851
+00:35:48,100 --> 00:35:57,479
+esperar aqui ó
+
+852
+00:35:51,089 --> 00:36:00,290
+nós estamos com muito 35 pessoas agora
+
+853
+00:35:57,479 --> 00:36:07,730
+no chat bem legal
+
+854
+00:36:00,290 --> 00:36:10,210
+bom então 95% 96 vamos dar uma olhada na
+
+855
+00:36:07,730 --> 00:36:14,109
+verdade aqui tá congelando ali ó
+
+856
+00:36:10,210 --> 00:36:16,330
+nós vamos deixar vamos dar uma olhada no
+
+857
+00:36:14,109 --> 00:36:18,130
+nas festas né que a gente tava vendo
+
+858
+00:36:16,330 --> 00:36:20,530
+umas tem a parte de sorte tem a parte de
+
+859
+00:36:18,130 --> 00:36:25,300
+incluso então a primeira coisa que eu
+
+860
+00:36:20,530 --> 00:36:26,710
+digo lá no
+
+861
+00:36:25,300 --> 00:36:28,150
+o cabelo
+
+862
+00:36:26,710 --> 00:36:30,740
+e aí
+
+863
+00:36:28,150 --> 00:36:35,720
+é a primeira coisa que eu digo
+
+864
+00:36:30,740 --> 00:36:37,820
+e é aqui no guia é veja como é que eu
+
+865
+00:36:35,720 --> 00:36:40,250
+pode botar organizado entendo orquiflor
+
+866
+00:36:37,820 --> 00:36:42,050
+não então ver a organização do código a
+
+867
+00:36:40,250 --> 00:36:44,180
+ver que nem eu tô mostrando a parte de
+
+868
+00:36:42,050 --> 00:36:46,550
+inclui a parte de sua essa parte de
+
+869
+00:36:44,180 --> 00:36:48,470
+teste né ver como é que aquele pode
+
+870
+00:36:46,550 --> 00:36:49,820
+ficar organizado o ar pessoal é mais o
+
+871
+00:36:48,470 --> 00:36:51,200
+que eu tô fazendo agora de como é que
+
+872
+00:36:49,820 --> 00:36:52,820
+você compila como é que você faz uma
+
+873
+00:36:51,200 --> 00:36:55,040
+modificação e depois você combina de
+
+874
+00:36:52,820 --> 00:36:57,230
+novo como é que você roda e testa que o
+
+875
+00:36:55,040 --> 00:36:59,060
+código que você rodou tá funcionando né
+
+876
+00:36:57,230 --> 00:37:02,119
+né o que que significa mudar aquele
+
+877
+00:36:59,060 --> 00:37:03,619
+código o que que aquilo vai afetar né e
+
+878
+00:37:02,119 --> 00:37:06,110
+o que eu gosto sempre de fazer a tenta
+
+879
+00:37:03,619 --> 00:37:08,930
+mudar alguma coisinha para ver se você
+
+880
+00:37:06,110 --> 00:37:15,470
+tá conseguindo modificar o código da e
+
+881
+00:37:08,930 --> 00:37:18,950
+está realmente acontecendo então termina
+
+882
+00:37:15,470 --> 00:37:20,869
+de compilar então essa biblioteca que é
+
+883
+00:37:18,950 --> 00:37:22,880
+uma biblioteca de matemática não vai ter
+
+884
+00:37:20,869 --> 00:37:25,130
+muita coisa visual para a gente ver mas
+
+885
+00:37:22,880 --> 00:37:28,310
+a gente viu que tem bastante teste né e
+
+886
+00:37:25,130 --> 00:37:30,750
+se a gente tentar encontrar na partida
+
+887
+00:37:28,310 --> 00:37:33,420
+de testes na parte 15
+
+888
+00:37:30,750 --> 00:37:35,040
+o que tem um monte de coisa a gente vai
+
+889
+00:37:33,420 --> 00:37:38,310
+ver aqui debaixo do binho isto está
+
+890
+00:37:35,040 --> 00:37:40,170
+documentado eu tô falando vários passos
+
+891
+00:37:38,310 --> 00:37:42,450
+aqui mas se você tivesse pesquisado
+
+892
+00:37:40,170 --> 00:37:44,560
+então você e acabar descobrindo que os
+
+893
+00:37:42,450 --> 00:37:48,000
+testes ficam todos aqui no pim
+
+894
+00:37:44,560 --> 00:37:54,310
+eu e você ia ver que tem um teste que é
+
+895
+00:37:48,000 --> 00:37:55,570
+da exalar impostos né que é o que é o
+
+896
+00:37:54,310 --> 00:37:58,000
+que a gente quer usar então você pode
+
+897
+00:37:55,570 --> 00:37:59,170
+rodar o teste e ver olha todos os países
+
+898
+00:37:58,000 --> 00:38:02,050
+estão passando é simplesmente um
+
+899
+00:37:59,170 --> 00:38:05,410
+executável né que termina com teste e
+
+900
+00:38:02,050 --> 00:38:07,480
+você roda ele e você vê poxa tá todos os
+
+901
+00:38:05,410 --> 00:38:09,130
+testes estão passando legal então uma
+
+902
+00:38:07,480 --> 00:38:11,110
+coisa que a gente pode tentar fazer para
+
+903
+00:38:09,130 --> 00:38:14,350
+ver se a gente tá conseguindo modificar
+
+904
+00:38:11,110 --> 00:38:17,380
+esse código recompilar ele é mudar
+
+905
+00:38:14,350 --> 00:38:19,090
+alguma coisa dentro dessa artesanais box
+
+906
+00:38:17,380 --> 00:38:21,790
+e depois rodar os testes e ver se ele
+
+907
+00:38:19,090 --> 00:38:23,290
+chega passa por que deveria falhar né a
+
+908
+00:38:21,790 --> 00:38:26,290
+gente tá vendo aqui por exemplo que tem
+
+909
+00:38:23,290 --> 00:38:28,720
+teste sobre o tamanho da caixa tentar
+
+910
+00:38:26,290 --> 00:38:30,580
+sobre onde fica o centro da caixa eu vou
+
+911
+00:38:28,720 --> 00:38:32,950
+ver se a gente consegue quebrar um
+
+912
+00:38:30,580 --> 00:38:36,850
+desses testes aqui porque isso
+
+913
+00:38:32,950 --> 00:38:39,550
+significaria que a gente é conseguiu
+
+914
+00:38:36,850 --> 00:38:42,040
+modificar aquele código e ele tá
+
+915
+00:38:39,550 --> 00:38:44,570
+funcionando dá que a gente tá entendendo
+
+916
+00:38:42,040 --> 00:38:47,570
+realmente que a gente está mudando
+
+917
+00:38:44,570 --> 00:38:49,610
+a tomar um procurar aqui eu acho que
+
+918
+00:38:47,570 --> 00:38:53,180
+você precisar o comando farense tem os
+
+919
+00:38:49,610 --> 00:38:55,640
+comandos mais eficiente congresso para
+
+920
+00:38:53,180 --> 00:38:58,220
+achar o ativo então a gente vai precisar
+
+921
+00:38:55,640 --> 00:39:00,050
+lá em forks procura assim ó tem um monte
+
+922
+00:38:58,220 --> 00:39:02,060
+de coisa dentro do ine chamar essa aqui
+
+923
+00:39:00,050 --> 00:39:04,460
+a gente vê que tem um arquivo aqui nos
+
+924
+00:39:02,060 --> 00:39:06,470
+força né provavelmente ela arquivo que a
+
+925
+00:39:04,460 --> 00:39:09,980
+gente vai ter que estar editando então
+
+926
+00:39:06,470 --> 00:39:13,970
+vamos dar uma olhada nele então eu vou
+
+927
+00:39:09,980 --> 00:39:18,700
+poder então é o arquivo aqui a gente
+
+928
+00:39:13,970 --> 00:39:22,610
+pode ver que tem várias coisas sobre o
+
+929
+00:39:18,700 --> 00:39:25,100
+como começou como iniciar uma caixa e
+
+930
+00:39:22,610 --> 00:39:27,140
+tal vamos tentar quebrar o teste daqui
+
+931
+00:39:25,100 --> 00:39:29,510
+do centro para ver que que acontece
+
+932
+00:39:27,140 --> 00:39:31,460
+então vamos procurar a palavra sempre
+
+933
+00:39:29,510 --> 00:39:34,430
+dentro desse aqui onde a gente acha que
+
+934
+00:39:31,460 --> 00:39:38,030
+olha o centro da caixa no momento é
+
+935
+00:39:34,430 --> 00:39:40,970
+calculada como metade do vetor mínimo e
+
+936
+00:39:38,030 --> 00:39:42,920
+mais metade do vetor máximo se a gente
+
+937
+00:39:40,970 --> 00:39:44,549
+mudar isso aqui o teste deveria falhar
+
+938
+00:39:42,920 --> 00:39:48,679
+vamos ver se ele realmente funciona
+
+939
+00:39:44,549 --> 00:39:51,539
+eu vou botar zero vezes aqui o máximo
+
+940
+00:39:48,679 --> 00:39:53,840
+salvei o arquivo e que a gente faz 20
+
+941
+00:39:51,539 --> 00:39:56,210
+vai compilar de novo
+
+942
+00:39:53,840 --> 00:40:00,590
+e dessa vez vai ser mais rápido porque
+
+943
+00:39:56,210 --> 00:40:03,440
+ele só vai recompilar o que depende do
+
+944
+00:40:00,590 --> 00:40:08,270
+desse center aí compilou como rodar o
+
+945
+00:40:03,440 --> 00:40:11,630
+teste de novo e passou eu digo testados
+
+946
+00:40:08,270 --> 00:40:15,590
+antes porque que tá a gente passou eu
+
+947
+00:40:11,630 --> 00:40:17,690
+não sei como tentar mudar outra coisa
+
+948
+00:40:15,590 --> 00:40:20,180
+vamos tentar mudar aqui o tamanho em vez
+
+949
+00:40:17,690 --> 00:40:24,680
+de ser é outro banho e depois desse
+
+950
+00:40:20,180 --> 00:40:28,160
+vídeo aqui eu vou eu vou editar o eu vou
+
+951
+00:40:24,680 --> 00:40:29,480
+lá escrever um blog hipótese disso mas
+
+952
+00:40:28,160 --> 00:40:31,730
+vamos ver se agora a gente consegue
+
+953
+00:40:29,480 --> 00:40:35,270
+quebrar o site então tava x y z agora
+
+954
+00:40:31,730 --> 00:40:38,720
+vou ter xx vamos dar x vamos ver o que
+
+955
+00:40:35,270 --> 00:40:41,330
+que aconteceu e se vai quebrar esse
+
+956
+00:40:38,720 --> 00:40:44,500
+teste aqui de size né então vamos
+
+957
+00:40:41,330 --> 00:40:44,500
+compilar de novo
+
+958
+00:40:45,710 --> 00:40:50,530
+a e é compe lá
+
+959
+00:40:48,990 --> 00:40:55,900
+e aí
+
+960
+00:40:50,530 --> 00:40:57,400
+e não tá quebrando está esses vamos dar
+
+961
+00:40:55,900 --> 00:41:01,420
+uma olhada nesse instante suspeitos
+
+962
+00:40:57,400 --> 00:41:04,000
+estavam na mesma pasta aqui não vamos
+
+963
+00:41:01,420 --> 00:41:07,990
+ver o teste center e que ele tá fazendo
+
+964
+00:41:04,000 --> 00:41:13,230
+ele tá vendo que é caixa o centro dela
+
+965
+00:41:07,990 --> 00:41:18,040
+deveria estar aqui que caixa é essa né
+
+966
+00:41:13,230 --> 00:41:21,550
+deixa eu mudar a expectativa do teste
+
+967
+00:41:18,040 --> 00:41:24,610
+então ele vai ser 0.5 que eu mudei aqui
+
+968
+00:41:21,550 --> 00:41:31,510
+para 0.6
+
+969
+00:41:24,610 --> 00:41:35,110
+oi roberta eu tentei isso ontem ó agora
+
+970
+00:41:31,510 --> 00:41:36,850
+taís fala falhou então isso é uma é até
+
+971
+00:41:35,110 --> 00:41:38,020
+bom que não tenha dado tudo certo para a
+
+972
+00:41:36,850 --> 00:41:40,420
+gente ver como é que a gente resolveria
+
+973
+00:41:38,020 --> 00:41:42,700
+isso não numa situação né se isso
+
+974
+00:41:40,420 --> 00:41:44,650
+acontece com você você tá tentando mudar
+
+975
+00:41:42,700 --> 00:41:46,540
+o código e o teste ainda tá passando
+
+976
+00:41:44,650 --> 00:41:49,630
+então eu acho que deve ter alguma coisa
+
+977
+00:41:46,540 --> 00:41:53,020
+errada acontecendo aqui porque o teste
+
+978
+00:41:49,630 --> 00:41:56,620
+não era para tar passando com a mudança
+
+979
+00:41:53,020 --> 00:41:58,090
+que a gente fez então o quê que pode ser
+
+980
+00:41:56,620 --> 00:42:01,990
+que esteja acontecendo deixa eu voltar o
+
+981
+00:41:58,090 --> 00:42:06,340
+teste aqui estava antes e acreditar na é
+
+982
+00:42:01,990 --> 00:42:12,130
+que seja lá epoxycenter multiplicou por
+
+983
+00:42:06,340 --> 00:42:17,970
+10 realmente não não sei como botar aqui
+
+984
+00:42:12,130 --> 00:42:24,070
+o veterano vector 3d e vamos voltar
+
+985
+00:42:17,970 --> 00:42:24,620
+sozinha era dela whatsapp né porque me
+
+986
+00:42:24,070 --> 00:42:29,660
+00
+
+987
+00:42:24,620 --> 00:42:32,780
+é diferente de isso aqui então será que
+
+988
+00:42:29,660 --> 00:42:37,040
+é o operador igual que tá errado e aqui
+
+989
+00:42:32,780 --> 00:42:39,140
+não tá certa palavra ela tava planejando
+
+990
+00:42:37,040 --> 00:42:40,539
+tem que ter lugar se aqui na frente todo
+
+991
+00:42:39,140 --> 00:42:43,390
+mundo é
+
+992
+00:42:40,539 --> 00:42:49,169
+e eu não gostava comparando com a coisa
+
+993
+00:42:43,390 --> 00:42:51,789
+errada eu devo ter alguma igreja mais
+
+994
+00:42:49,169 --> 00:42:54,219
+instalado aqui no meu sistema e ele tá
+
+995
+00:42:51,789 --> 00:42:56,679
+pegando ele é uma coisa que eu botei nas
+
+996
+00:42:54,219 --> 00:42:59,199
+minhas dicas aqui eu não seguir né eu
+
+997
+00:42:56,679 --> 00:43:01,690
+voltei uma das dicas aqui eu falei não
+
+998
+00:42:59,199 --> 00:43:03,700
+não misture é
+
+999
+00:43:01,690 --> 00:43:05,230
+eu não estou instalação de verdade que a
+
+1000
+00:43:03,700 --> 00:43:11,590
+instalação da fonte que pode criar
+
+1001
+00:43:05,230 --> 00:43:13,980
+alguns erros na nossa programa então que
+
+1002
+00:43:11,590 --> 00:43:16,060
+eu vou fazer eu vou mudar de branco aqui
+
+1003
+00:43:13,980 --> 00:43:18,930
+eu vou para ele me chamar de ser que
+
+1004
+00:43:16,060 --> 00:43:22,570
+isso que a gente ia ter que e eu vou
+
+1005
+00:43:18,930 --> 00:43:28,030
+remover tudo daqui como pela de novo
+
+1006
+00:43:22,570 --> 00:43:31,980
+eu acho que eu poderia ter feito poderia
+
+1007
+00:43:28,030 --> 00:43:38,820
+ter poderia ter instalado vamos lá
+
+1008
+00:43:31,980 --> 00:43:40,740
+e eu não estaria dessa vez então vem
+
+1009
+00:43:38,820 --> 00:43:42,480
+morar de novo para cumpri-la desculpa eu
+
+1010
+00:43:40,740 --> 00:43:44,280
+acho que vai demorar um pouquinho mais
+
+1011
+00:43:42,480 --> 00:43:46,619
+mas espero que seja interessante vocês
+
+1012
+00:43:44,280 --> 00:43:48,540
+verem que acontecem problemas de uma
+
+1013
+00:43:46,619 --> 00:43:49,890
+conta na as coisas às vezes não vão
+
+1014
+00:43:48,540 --> 00:43:51,270
+funcionar exatamente da forma que está
+
+1015
+00:43:49,890 --> 00:43:54,390
+escrito no site você vai ter que dar uma
+
+1016
+00:43:51,270 --> 00:43:56,700
+pesquisada e é assim eu sei que a gente
+
+1017
+00:43:54,390 --> 00:44:02,609
+às vezes dá uma desesperada a gente fica
+
+1018
+00:43:56,700 --> 00:44:05,010
+é não não sabe sabe acontece uma coisa
+
+1019
+00:44:02,609 --> 00:44:06,810
+inesperada que que você faz né se eu não
+
+1020
+00:44:05,010 --> 00:44:10,080
+souber como resolver isso aqui que eu
+
+1021
+00:44:06,810 --> 00:44:12,119
+faria eu ia para o fórum pergunta agora
+
+1022
+00:44:10,080 --> 00:44:14,250
+eu tô conversando eu tô começando hoje
+
+1023
+00:44:12,119 --> 00:44:16,680
+eu tentei fazer isso não funciona de
+
+1024
+00:44:14,250 --> 00:44:23,340
+forma que tava que tava explicado que
+
+1025
+00:44:16,680 --> 00:44:24,990
+que eu faço né então é é uma coisa que é
+
+1026
+00:44:23,340 --> 00:44:27,570
+bom você saber como você vai sair dessa
+
+1027
+00:44:24,990 --> 00:44:29,130
+situação ele tipo acontece acontece todo
+
+1028
+00:44:27,570 --> 00:44:31,990
+mundo tá acontecendo comigo aqui nesse
+
+1029
+00:44:29,130 --> 00:44:36,540
+momento então é
+
+1030
+00:44:31,990 --> 00:44:38,260
+não é normal não não entre em pânico
+
+1031
+00:44:36,540 --> 00:44:39,880
+vamos ver que as outras recomendações
+
+1032
+00:44:38,260 --> 00:44:41,290
+que eu tinha colocado quando você está
+
+1033
+00:44:39,880 --> 00:44:44,140
+se familiarizando com o código então
+
+1034
+00:44:41,290 --> 00:44:46,150
+você plana compila todas as bibliotecas
+
+1035
+00:44:44,140 --> 00:44:47,800
+né que é uma coisa que eu não fiz agora
+
+1036
+00:44:46,150 --> 00:44:49,720
+mas se você dependendo do que você tá
+
+1037
+00:44:47,800 --> 00:44:52,300
+fazendo na ignition é bom você comprar o
+
+1038
+00:44:49,720 --> 00:44:55,000
+ignition inteiro é como eu tô usando a
+
+1039
+00:44:52,300 --> 00:44:56,530
+igreja é essa é uma biblioteca baixa né
+
+1040
+00:44:55,000 --> 00:44:58,450
+que não depende de muitas outras coisas
+
+1041
+00:44:56,530 --> 00:45:01,960
+então isso não é essa parte não é tão
+
+1042
+00:44:58,450 --> 00:45:04,300
+importante usa cocô no né uma é uma
+
+1043
+00:45:01,960 --> 00:45:06,340
+ferramenta muito usada no nós dois que a
+
+1044
+00:45:04,300 --> 00:45:07,480
+gente usa também no desenvolvimento de
+
+1045
+00:45:06,340 --> 00:45:11,740
+ignition
+
+1046
+00:45:07,480 --> 00:45:12,970
+e é e tente não misturar as a instalação
+
+1047
+00:45:11,740 --> 00:45:14,440
+de binários com a instalação da fonte
+
+1048
+00:45:12,970 --> 00:45:17,410
+que eu acho que é octávio me causam o
+
+1049
+00:45:14,440 --> 00:45:20,560
+meu problema aqui então tá aí lá quase
+
+1050
+00:45:17,410 --> 00:45:21,820
+oitenta e nove porcento outra coisa que
+
+1051
+00:45:20,560 --> 00:45:27,550
+a gente vai falar também é que eu pular
+
+1052
+00:45:21,820 --> 00:45:30,150
+um passo que a que mandava instalar e eu
+
+1053
+00:45:27,550 --> 00:45:32,760
+não estarei seu também tem só
+
+1054
+00:45:30,150 --> 00:45:35,700
+e vamos ver se vai resolver o nosso
+
+1055
+00:45:32,760 --> 00:45:37,380
+problema porque ele pode estar pegando
+
+1056
+00:45:35,700 --> 00:45:40,380
+eu tenho várias versões de glee chamar
+
+1057
+00:45:37,380 --> 00:45:43,920
+dentro do meu sistema e pode ter
+
+1058
+00:45:40,380 --> 00:45:48,049
+interferido com uma outra aí vamos ver
+
+1059
+00:45:43,920 --> 00:45:51,390
+aqui então agora instalar
+
+1060
+00:45:48,049 --> 00:45:54,410
+é bem instalar
+
+1061
+00:45:51,390 --> 00:45:58,380
+a beleza agora vamos rodar nossos pés
+
+1062
+00:45:54,410 --> 00:46:01,619
+alguém minecraft falando box tá tudo
+
+1063
+00:45:58,380 --> 00:46:03,240
+passando porque eu joguei se diz que eu
+
+1064
+00:46:01,619 --> 00:46:06,000
+tirei todas as mudanças vamos começar do
+
+1065
+00:46:03,240 --> 00:46:15,660
+zero tenta mudar aquela função de center
+
+1066
+00:46:06,000 --> 00:46:17,230
+para ver se funciona não para compilar
+
+1067
+00:46:15,660 --> 00:46:24,010
+de novo
+
+1068
+00:46:17,230 --> 00:46:27,180
+é rapidinho né isso aqui é uma flor bem
+
+1069
+00:46:24,010 --> 00:46:31,290
+comum um projeto seja mais mais em geral
+
+1070
+00:46:27,180 --> 00:46:33,550
+é que fazer o cimento mesmo é quem store
+
+1071
+00:46:31,290 --> 00:46:35,680
+mas você tá trabalhando com o nosso por
+
+1072
+00:46:33,550 --> 00:46:37,540
+exemplo a recomendação um pouquinho
+
+1073
+00:46:35,680 --> 00:46:39,730
+diferente então depende muito do que tá
+
+1074
+00:46:37,540 --> 00:46:42,970
+fazendo porque eu tava perdendo era
+
+1075
+00:46:39,730 --> 00:46:45,940
+instalar é para é uma boa lição siga
+
+1076
+00:46:42,970 --> 00:46:47,590
+todos os passos que estão no guia ontem
+
+1077
+00:46:45,940 --> 00:46:48,700
+de noite quando eu experimentei instalei
+
+1078
+00:46:47,590 --> 00:46:51,940
+hoje eu falei assim eu vou fazer sem
+
+1079
+00:46:48,700 --> 00:46:54,580
+estar tão tá vendo errou o teste aqui do
+
+1080
+00:46:51,940 --> 00:46:58,390
+centro porque não deu que a caixa estava
+
+1081
+00:46:54,580 --> 00:46:59,859
+certa porque eu tinha modificado boa eu
+
+1082
+00:46:58,390 --> 00:47:01,869
+acho que a gente fez bom proveito desse
+
+1083
+00:46:59,859 --> 00:47:07,000
+passo agora porque vocês realmente viram
+
+1084
+00:47:01,869 --> 00:47:10,480
+que foi foi bem real agora eu passo o
+
+1085
+00:47:07,000 --> 00:47:12,220
+número 5 se familiarizar com código eu
+
+1086
+00:47:10,480 --> 00:47:13,840
+acho que todo mundo que tá assistindo
+
+1087
+00:47:12,220 --> 00:47:15,850
+tão pouquinho mais familiarizado com o
+
+1088
+00:47:13,840 --> 00:47:17,210
+código agora vamos então para parte que
+
+1089
+00:47:15,850 --> 00:47:20,480
+interessante vamos programar eu
+
+1090
+00:47:17,210 --> 00:47:23,510
+é aquele bug que a gente tinha fingido
+
+1091
+00:47:20,480 --> 00:47:26,030
+que resolver escolhe um grande por onde
+
+1092
+00:47:23,510 --> 00:47:28,190
+começar né cada projeto vai ser
+
+1093
+00:47:26,030 --> 00:47:30,320
+diferente tem projeto que pede para você
+
+1094
+00:47:28,190 --> 00:47:31,370
+fazer contribuições no master tem
+
+1095
+00:47:30,320 --> 00:47:33,560
+projeto que pede para você fazer
+
+1096
+00:47:31,370 --> 00:47:35,900
+contribuições no sítio grande cada
+
+1097
+00:47:33,560 --> 00:47:37,970
+projeto o pessoal se vai ser diferente é
+
+1098
+00:47:35,900 --> 00:47:40,250
+o início o relação diferentes entre si
+
+1099
+00:47:37,970 --> 00:47:42,710
+por exemplo né então é bom mostrar o o
+
+1100
+00:47:40,250 --> 00:47:44,810
+exemplo deles o ignition você geralmente
+
+1101
+00:47:42,710 --> 00:47:46,820
+começa de uma igreja a gente recomendo
+
+1102
+00:47:44,810 --> 00:47:49,760
+que você começa de ulisses branch né que
+
+1103
+00:47:46,820 --> 00:47:52,280
+seria a higiene que eu e o nome da
+
+1104
+00:47:49,760 --> 00:47:54,710
+biblioteca no nosso caso mf e eu não era
+
+1105
+00:47:52,280 --> 00:47:56,360
+em que a versão né vocês viram que
+
+1106
+00:47:54,710 --> 00:48:00,050
+enquanto eu tava aqui derrubando eu
+
+1107
+00:47:56,360 --> 00:48:02,920
+mudei para o brunch ignition mas isso
+
+1108
+00:48:00,050 --> 00:48:06,440
+que é a versão que está sendo utilizada
+
+1109
+00:48:02,920 --> 00:48:08,210
+agora em várias versões do ignition né
+
+1110
+00:48:06,440 --> 00:48:12,549
+inclusive você tá dela aqui que eu tô
+
+1111
+00:48:08,210 --> 00:48:20,079
+usando a camisa é o orixá metrics on
+
+1112
+00:48:12,549 --> 00:48:23,799
+já era então então tem ninguém me chamar
+
+1113
+00:48:20,079 --> 00:48:27,189
+six aqui e tenho numa loja é o contrário
+
+1114
+00:48:23,799 --> 00:48:29,679
+né eles falam começa e do master e aí
+
+1115
+00:48:27,189 --> 00:48:31,569
+último mantenedores vão pegar o que for
+
+1116
+00:48:29,679 --> 00:48:34,479
+relevante para versões anteriores e vão
+
+1117
+00:48:31,569 --> 00:48:36,249
+eles mesmo vão fazer o processo de botar
+
+1118
+00:48:34,479 --> 00:48:37,809
+para lá na igreja a gente fala não
+
+1119
+00:48:36,249 --> 00:48:39,309
+começa a versão mais antiga que você
+
+1120
+00:48:37,809 --> 00:48:42,789
+quer adicionar aquela coisa e os
+
+1121
+00:48:39,309 --> 00:48:44,109
+mantenedores vão botar para frente né e
+
+1122
+00:48:42,789 --> 00:48:46,509
+cada projeto vai ter um sistema
+
+1123
+00:48:44,109 --> 00:48:47,559
+diferente então tem aqui ficando tudo
+
+1124
+00:48:46,509 --> 00:48:49,329
+que eu tinha mostrado pra vocês antes
+
+1125
+00:48:47,559 --> 00:48:51,400
+que regras ficam incluindo a
+
+1126
+00:48:49,329 --> 00:48:53,410
+implementação tá no source que start
+
+1127
+00:48:51,400 --> 00:48:55,809
+estão entrar e terminam com teste isso
+
+1128
+00:48:53,410 --> 00:48:57,910
+tudo que eu tô botando aqui nesse nesse
+
+1129
+00:48:55,809 --> 00:48:59,890
+tente colapsáveis são coisas que vocês
+
+1130
+00:48:57,910 --> 00:49:03,519
+terem que descobrir por si mesmos quando
+
+1131
+00:48:59,890 --> 00:49:05,559
+vocês estão começando com o projeto novo
+
+1132
+00:49:03,519 --> 00:49:09,099
+né são coisas que estaria no guia de
+
+1133
+00:49:05,559 --> 00:49:11,140
+contribuição e tal então outra coisa que
+
+1134
+00:49:09,099 --> 00:49:12,530
+eu recomendo muito é usar essa
+
+1135
+00:49:11,140 --> 00:49:15,020
+ferramenta grape
+
+1136
+00:49:12,530 --> 00:49:17,270
+o principiante no linux aí vocês notaram
+
+1137
+00:49:15,020 --> 00:49:21,170
+que eu tô usando o linux que é muito
+
+1138
+00:49:17,270 --> 00:49:23,120
+útil para você procurar strings né
+
+1139
+00:49:21,170 --> 00:49:25,130
+palavras que estão dentro de arquivos
+
+1140
+00:49:23,120 --> 00:49:27,260
+dentro de uma de uma pasta e é muito
+
+1141
+00:49:25,130 --> 00:49:29,180
+útil por exemplo aqui no nosso caso a
+
+1142
+00:49:27,260 --> 00:49:31,760
+gente sabia que a gente queria lidar com
+
+1143
+00:49:29,180 --> 00:49:34,910
+a exalar xbox então o que a gente faz
+
+1144
+00:49:31,760 --> 00:49:36,980
+grep recursivo da serve para ser
+
+1145
+00:49:34,910 --> 00:49:38,990
+repulsivo e eu percebi que agora minha
+
+1146
+00:49:36,980 --> 00:49:40,490
+câmera tá aqui em cima acho que eu
+
+1147
+00:49:38,990 --> 00:49:45,890
+consigo ver ela para cima aqui para
+
+1148
+00:49:40,490 --> 00:49:48,230
+vocês verem é gripe i access aline não
+
+1149
+00:49:45,890 --> 00:49:50,450
+precisa escrever tudo e a gente vai
+
+1150
+00:49:48,230 --> 00:49:53,270
+procurar na pasta só força e aí a gente
+
+1151
+00:49:50,450 --> 00:49:57,460
+viu que tem essas trem usado em vários
+
+1152
+00:49:53,270 --> 00:50:00,770
+lugares né então por exemplo a gente
+
+1153
+00:49:57,460 --> 00:50:01,880
+pode procurar para o porão perfeito que
+
+1154
+00:50:00,770 --> 00:50:05,930
+era outra coisa que estava escrito no
+
+1155
+00:50:01,880 --> 00:50:07,370
+lixo então heitor e você vê que tem o
+
+1156
+00:50:05,930 --> 00:50:08,690
+primeiro em várias partes tem eu
+
+1157
+00:50:07,370 --> 00:50:11,840
+pergunto alimentar que eu tenho peguei
+
+1158
+00:50:08,690 --> 00:50:12,539
+também espero cornette então não crepe é
+
+1159
+00:50:11,840 --> 00:50:15,689
+super
+
+1160
+00:50:12,539 --> 00:50:17,699
+e quando você tá entrando no novo código
+
+1161
+00:50:15,689 --> 00:50:20,699
+que você não sabe por onde começar
+
+1162
+00:50:17,699 --> 00:50:24,779
+porque ele vai achar coisas dentro dos
+
+1163
+00:50:20,699 --> 00:50:26,549
+arquivos em cima então o passo é
+
+1164
+00:50:24,779 --> 00:50:27,959
+programar vamos resolver o nosso blog
+
+1165
+00:50:26,549 --> 00:50:29,400
+lembrando aqui para quem acabou de
+
+1166
+00:50:27,959 --> 00:50:30,900
+chegar que o bank que a gente vai
+
+1167
+00:50:29,400 --> 00:50:34,140
+resolver a esse é para adicionar um o
+
+1168
+00:50:30,900 --> 00:50:36,299
+leitor mais que já existe uma perfeito e
+
+1169
+00:50:34,140 --> 00:50:39,059
+menos então seria só adicionar um
+
+1170
+00:50:36,299 --> 00:50:41,459
+parecido então vai ser um fazendo muita
+
+1171
+00:50:39,059 --> 00:50:44,929
+coisa que já existe lá na copiando
+
+1172
+00:50:41,459 --> 00:50:47,939
+basicamente coisas que já existem então
+
+1173
+00:50:44,929 --> 00:50:49,799
+vamos primeiro a gente lembra que tem o
+
+1174
+00:50:47,939 --> 00:50:51,569
+header e tem um arquivo de implementação
+
+1175
+00:50:49,799 --> 00:50:55,469
+vamos para o header primeiro como é que
+
+1176
+00:50:51,569 --> 00:50:59,369
+a gente faz a gente faz é no na caixinha
+
+1177
+00:50:55,469 --> 00:51:01,259
+com isso e é por essas e tem aqui o
+
+1178
+00:50:59,369 --> 00:51:03,599
+arquivo é preciso além do box é isso que
+
+1179
+00:51:01,259 --> 00:51:05,630
+a gente quer então eu vou editar ele né
+
+1180
+00:51:03,599 --> 00:51:08,509
+com seu editor preferido é
+
+1181
+00:51:05,630 --> 00:51:10,250
+e aí a gente procura aqui dentro desse
+
+1182
+00:51:08,509 --> 00:51:11,990
+arquivo bom a gente sabe que já existiu
+
+1183
+00:51:10,250 --> 00:51:16,190
+ou perder menos então vamos procurar ele
+
+1184
+00:51:11,990 --> 00:51:18,200
+por média boa mas esse aqui é o aparelho
+
+1185
+00:51:16,190 --> 00:51:19,849
+ter menos de vetor né é o que a gente
+
+1186
+00:51:18,200 --> 00:51:26,480
+quer a gente só que adicionar o aparelho
+
+1187
+00:51:19,849 --> 00:51:29,900
+é mágico a gente vai copiar e colar
+
+1188
+00:51:26,480 --> 00:51:32,450
+e já é isso aqui de cima e a
+
+1189
+00:51:29,900 --> 00:51:33,830
+documentação e eu já tô modificando a
+
+1190
+00:51:32,450 --> 00:51:35,480
+documentação conforme eu vou fazendo
+
+1191
+00:51:33,830 --> 00:51:38,320
+isso então a documentação do atleta
+
+1192
+00:51:35,480 --> 00:51:45,500
+subtrair é isso eu vou botar adicionar
+
+1193
+00:51:38,320 --> 00:51:47,660
+aqui dormindo a lixa né deixa e aqui a
+
+1194
+00:51:45,500 --> 00:51:49,220
+nova caixa e o importante a gente não
+
+1195
+00:51:47,660 --> 00:51:51,010
+quer copiar mesmo não funciona a gente
+
+1196
+00:51:49,220 --> 00:51:55,220
+quer que essa que seja outra leitor mais
+
+1197
+00:51:51,010 --> 00:51:56,750
+pronto né pelo que a gente entendeu do
+
+1198
+00:51:55,220 --> 00:51:58,490
+isso até agora é isso que a gente quer
+
+1199
+00:51:56,750 --> 00:52:00,410
+adicionar se você sabe você mais mais
+
+1200
+00:51:58,490 --> 00:52:01,790
+você sabe que essa isso aqui a gente só
+
+1201
+00:52:00,410 --> 00:52:03,619
+tá declarando a função mais a gente
+
+1202
+00:52:01,790 --> 00:52:06,020
+ainda não implementou ela então vamos
+
+1203
+00:52:03,619 --> 00:52:07,640
+implementar ela que fica no source que
+
+1204
+00:52:06,020 --> 00:52:10,040
+aonde fica o as implementações a gente
+
+1205
+00:52:07,640 --> 00:52:13,280
+viu antes do esquema de faz então é
+
+1206
+00:52:10,040 --> 00:52:15,980
+precisão em box vocês e vamos procurar o
+
+1207
+00:52:13,280 --> 00:52:17,830
+ter menos desse arquivos também e tá
+
+1208
+00:52:15,980 --> 00:52:23,780
+aqui o aparelho ter menos desse arquivo
+
+1209
+00:52:17,830 --> 00:52:26,490
+então vamos copiar ele também e mudar
+
+1210
+00:52:23,780 --> 00:52:29,130
+para mais então eu também
+
+1211
+00:52:26,490 --> 00:52:30,750
+e aqui para mais e aí aqui a gente
+
+1212
+00:52:29,130 --> 00:52:37,890
+também tem que mandar aqui que vai ser
+
+1213
+00:52:30,750 --> 00:52:43,680
+um mínimo mas o ver mas vetor e aqui vai
+
+1214
+00:52:37,890 --> 00:52:46,350
+ser o máximo mas parece que o que a
+
+1215
+00:52:43,680 --> 00:52:48,180
+gente quer e mas como é que a gente vai
+
+1216
+00:52:46,350 --> 00:52:51,000
+saber se tá funcionando porque não tem
+
+1217
+00:52:48,180 --> 00:52:52,440
+nenhum teste não tem nada ainda presa
+
+1218
+00:52:51,000 --> 00:52:54,930
+então vamos voltar naquele arquivo de
+
+1219
+00:52:52,440 --> 00:52:57,330
+teste que a gente tava olhando o antes e
+
+1220
+00:52:54,930 --> 00:53:00,330
+vamos entrar adicionar um novo teste
+
+1221
+00:52:57,330 --> 00:53:03,630
+para isso aqui não vai para gente
+
+1222
+00:53:00,330 --> 00:53:06,090
+procurar o pergunta - por que o operator
+
+1223
+00:53:03,630 --> 00:53:08,430
+né quando você tá usando exercitando ele
+
+1224
+00:53:06,090 --> 00:53:10,230
+não tem a palavra operator escrita então
+
+1225
+00:53:08,430 --> 00:53:12,510
+a gente vai procurar por exemplo
+
+1226
+00:53:10,230 --> 00:53:15,990
+subtração vamos ver se a gente acha ó
+
+1227
+00:53:12,510 --> 00:53:18,750
+aqui tem a subtração disso é uma caixa
+
+1228
+00:53:15,990 --> 00:53:21,000
+menos um vetor é o que a gente quer e
+
+1229
+00:53:18,750 --> 00:53:22,830
+ele tá testando a contam que já existia
+
+1230
+00:53:21,000 --> 00:53:24,520
+para mim copiar só esse teste eu mandar
+
+1231
+00:53:22,830 --> 00:53:30,460
+tudo para mais
+
+1232
+00:53:24,520 --> 00:53:32,980
+bom então aqui mais receber classe vamos
+
+1233
+00:53:30,460 --> 00:53:36,610
+deixar do mesmo jeito só vamos mudar teu
+
+1234
+00:53:32,980 --> 00:53:40,240
+nome aqui no investir tanto amor érica
+
+1235
+00:53:36,610 --> 00:53:42,520
+né tá tá mudou para ela e o mais
+
+1236
+00:53:40,240 --> 00:53:46,540
+importante a gente não quer me tratar a
+
+1237
+00:53:42,520 --> 00:53:50,440
+gente aí só muda toda a tudo que também
+
+1238
+00:53:46,540 --> 00:53:52,630
+não chamar pronto a gente estou errada a
+
+1239
+00:53:50,440 --> 00:53:55,120
+gente rede estou esse a fonte ea gente
+
+1240
+00:53:52,630 --> 00:53:58,110
+estou teste vamos tentar compilar e
+
+1241
+00:53:55,120 --> 00:54:02,430
+fazer esse teste vendo o quê que vai dar
+
+1242
+00:53:58,110 --> 00:54:06,750
+pela meio comprou remédio g1
+
+1243
+00:54:02,430 --> 00:54:09,300
+o ex 2018 cores que tem aqui nesse
+
+1244
+00:54:06,750 --> 00:54:10,890
+contar o que eu tô usando
+
+1245
+00:54:09,300 --> 00:54:18,110
+é só para comprar um pouquinho mais
+
+1246
+00:54:10,890 --> 00:54:18,110
+rápido então vamos esperar
+
+1247
+00:54:18,240 --> 00:54:21,400
+e aí
+
+1248
+00:54:19,450 --> 00:54:25,390
+e aí
+
+1249
+00:54:21,400 --> 00:54:29,890
+ah tá comprou aqui o teste vamos rodar
+
+1250
+00:54:25,390 --> 00:54:31,420
+vão instalar primeiro importante não
+
+1251
+00:54:29,890 --> 00:54:36,370
+vamos cometer o mesmo erro ver a gente
+
+1252
+00:54:31,420 --> 00:54:38,650
+aprende juntos e agora rodar passou e a
+
+1253
+00:54:36,370 --> 00:54:41,380
+gente tá vendo aqui vamos ver o nome da
+
+1254
+00:54:38,650 --> 00:54:43,170
+taxa que eu adicionei aqui é plus né e
+
+1255
+00:54:41,380 --> 00:54:45,460
+eu não tô vendo coisa aqui na lista
+
+1256
+00:54:43,170 --> 00:54:49,750
+vamos dar uma olhada lá para cima tá
+
+1257
+00:54:45,460 --> 00:54:50,890
+dele plus tá aqui e passou mas eu sempre
+
+1258
+00:54:49,750 --> 00:54:54,820
+fico desconfiada quando as coisas
+
+1259
+00:54:50,890 --> 00:54:56,950
+funcionam de primeira né então vamos dar
+
+1260
+00:54:54,820 --> 00:55:01,330
+alguma coisa aqui vamos por exemplo
+
+1261
+00:54:56,950 --> 00:55:03,320
+molhar o ai desculpa verdade eu tô em
+
+1262
+00:55:01,330 --> 00:55:07,810
+cima da hora
+
+1263
+00:55:03,320 --> 00:55:11,380
+a sair da frente da do texto 1
+
+1264
+00:55:07,810 --> 00:55:13,329
+se alguém pediu aí para ela falou que
+
+1265
+00:55:11,380 --> 00:55:17,319
+tava em cima é
+
+1266
+00:55:13,329 --> 00:55:18,880
+o opa valeu mateus então vamos mudar
+
+1267
+00:55:17,319 --> 00:55:21,880
+esse aqui para menos e ver o que
+
+1268
+00:55:18,880 --> 00:55:23,769
+acontece então eu vou de novo mudei para
+
+1269
+00:55:21,880 --> 00:55:25,089
+meninas eu vou compilar chato de ser
+
+1270
+00:55:23,769 --> 00:55:29,799
+mais mais isso não é que toda você tem
+
+1271
+00:55:25,089 --> 00:55:34,259
+que compilar aí depois rodar né então
+
+1272
+00:55:29,799 --> 00:55:36,160
+demora um pouquinho mais o processo está
+
+1273
+00:55:34,259 --> 00:55:39,369
+eu acho que a gente tava não está
+
+1274
+00:55:36,160 --> 00:55:43,509
+fazendo muita diferença mas já cometidos
+
+1275
+00:55:39,369 --> 00:55:46,119
+e agora e agora teste falhou vamos dar
+
+1276
+00:55:43,509 --> 00:55:49,479
+uma olhada a o que que ele tá falando
+
+1277
+00:55:46,119 --> 00:55:52,499
+ele esperava que essa o mínimo da box
+
+1278
+00:55:49,479 --> 00:55:55,930
+dois seria dois três quatro mas acabou
+
+1279
+00:55:52,499 --> 00:56:01,499
+acabou sendo 012 né isso aqui era um
+
+1280
+00:55:55,930 --> 00:56:03,579
+dois três - 1 a 0 1 2 só que aqui acabou
+
+1281
+00:56:01,499 --> 00:56:05,890
+menos onde está somando a gente
+
+1282
+00:56:03,579 --> 00:56:08,049
+adicionando operator class então um dois
+
+1283
+00:56:05,890 --> 00:56:10,059
+três mais um não seria dois três quatro
+
+1284
+00:56:08,049 --> 00:56:12,670
+que era o que esperava mais acabou
+
+1285
+00:56:10,059 --> 00:56:13,339
+recebendo 012 porque é o que tá aqui do
+
+1286
+00:56:12,670 --> 00:56:16,839
+lado então
+
+1287
+00:56:13,339 --> 00:56:19,969
+e a expectativa da tarde estava errado
+
+1288
+00:56:16,839 --> 00:56:22,969
+então a gente pode recompilar e ver que
+
+1289
+00:56:19,969 --> 00:56:25,279
+tá tudo certo agora beleza foi isso né
+
+1290
+00:56:22,969 --> 00:56:30,410
+eu escolhi um nicho pequeno para para
+
+1291
+00:56:25,279 --> 00:56:31,969
+resolver justamente para para ser rápido
+
+1292
+00:56:30,410 --> 00:56:33,799
+aqui para gente resolver junto mesmo
+
+1293
+00:56:31,969 --> 00:56:36,289
+sendo um nicho pequeno vocês viram para
+
+1294
+00:56:33,799 --> 00:56:41,599
+o problema todo de instalar de ter que
+
+1295
+00:56:36,289 --> 00:56:43,039
+recompilar direito então não espere às
+
+1296
+00:56:41,599 --> 00:56:46,880
+vezes as coisas pequenas podem ser que
+
+1297
+00:56:43,039 --> 00:56:50,710
+ele demore um pouco mais deixa eu ver o
+
+1298
+00:56:46,880 --> 00:56:53,180
+daqui até agora tu és passou a gente
+
+1299
+00:56:50,710 --> 00:56:54,979
+escreveu estar estes vamos dar uma
+
+1300
+00:56:53,180 --> 00:56:58,489
+olhada aqui em qual é o próximo passo
+
+1301
+00:56:54,979 --> 00:57:00,589
+então programou beleza próximo passo é
+
+1302
+00:56:58,489 --> 00:57:01,819
+os textos e a gente já fez né e por quê
+
+1303
+00:57:00,589 --> 00:57:04,579
+que é importante teste tem muita gente
+
+1304
+00:57:01,819 --> 00:57:08,269
+que as nossas fecha é chato é uma perda
+
+1305
+00:57:04,579 --> 00:57:09,619
+de tempo mas é importante você estiver
+
+1306
+00:57:08,269 --> 00:57:12,859
+um tá quando você está adicionando uma
+
+1307
+00:57:09,619 --> 00:57:13,319
+nova feature porque é para garantir que
+
+1308
+00:57:12,859 --> 00:57:16,380
+o
+
+1309
+00:57:13,319 --> 00:57:18,180
+e vai voltar no futuro vai que alguém no
+
+1310
+00:57:16,380 --> 00:57:20,339
+meio de um povo presta imenso modifica
+
+1311
+00:57:18,180 --> 00:57:22,289
+aquele operador para ser operador de
+
+1312
+00:57:20,339 --> 00:57:26,279
+multiplicar em vez de operador de
+
+1313
+00:57:22,289 --> 00:57:28,319
+adicionar e aí ninguém vai perceber se
+
+1314
+00:57:26,279 --> 00:57:29,789
+não tiver um teste testando aquilo é
+
+1315
+00:57:28,319 --> 00:57:31,199
+também importante você vir aqui para se
+
+1316
+00:57:29,789 --> 00:57:33,809
+você não quebrou nenhum teste que já
+
+1317
+00:57:31,199 --> 00:57:35,400
+existiu ela antes né no nosso caso a
+
+1318
+00:57:33,809 --> 00:57:36,630
+gente tá adicionando uma função e se não
+
+1319
+00:57:35,400 --> 00:57:38,430
+seria muito difícil a gente quebrar
+
+1320
+00:57:36,630 --> 00:57:40,049
+outra coisa mas vai que enquanto eu tô
+
+1321
+00:57:38,430 --> 00:57:43,650
+vendo manipulando aquele arquivo eu
+
+1322
+00:57:40,049 --> 00:57:45,269
+deletei uma algum caractere eu mudei
+
+1323
+00:57:43,650 --> 00:57:47,369
+alguma coisa sem querer eu quebrei o
+
+1324
+00:57:45,269 --> 00:57:48,839
+teste né então é bom você rodar todos os
+
+1325
+00:57:47,369 --> 00:57:51,809
+testes para ter certeza que você não
+
+1326
+00:57:48,839 --> 00:57:53,190
+quebrou nada é chegasse você não
+
+1327
+00:57:51,809 --> 00:57:54,749
+adicionou ordens né quando eu estava
+
+1328
+00:57:53,190 --> 00:57:59,279
+compilando vocês viram que não apareceu
+
+1329
+00:57:54,749 --> 00:58:03,660
+nenhum ordem no que tava lá no olho do
+
+1330
+00:57:59,279 --> 00:58:04,920
+compilador por exemplo e é multiprojetos
+
+1331
+00:58:03,660 --> 00:58:07,349
+vamos testar o seu código
+
+1332
+00:58:04,920 --> 00:58:09,449
+automaticamente né então quando você
+
+1333
+00:58:07,349 --> 00:58:11,730
+fizer o povo parte abelhas contribuição
+
+1334
+00:58:09,449 --> 00:58:15,000
+então é
+
+1335
+00:58:11,730 --> 00:58:18,660
+e quando quando você fizer o por peste
+
+1336
+00:58:15,000 --> 00:58:20,670
+vai vai rodar esses testes de qualquer
+
+1337
+00:58:18,660 --> 00:58:23,760
+forma então assim se você não for alguém
+
+1338
+00:58:20,670 --> 00:58:25,470
+vai tá rodando esses testes né então tem
+
+1339
+00:58:23,760 --> 00:58:27,420
+mais algumas dicas aqui por exemplo no
+
+1340
+00:58:25,470 --> 00:58:29,070
+início quando você fizer o por perto
+
+1341
+00:58:27,420 --> 00:58:31,500
+automaticamente o teste vai ser rodado
+
+1342
+00:58:29,070 --> 00:58:33,300
+em linux mas e o windows para verificar
+
+1343
+00:58:31,500 --> 00:58:36,840
+que tava tava certo tava funcionando
+
+1344
+00:58:33,300 --> 00:58:38,310
+mesmo aqui dicas também das coisas que
+
+1345
+00:58:36,840 --> 00:58:41,790
+umas três para vocês né que os pais
+
+1346
+00:58:38,310 --> 00:58:43,950
+ficam em deus bem para rodar todos os
+
+1347
+00:58:41,790 --> 00:58:46,200
+testes você pode rodar make fast ou o
+
+1348
+00:58:43,950 --> 00:58:48,930
+que a gente usou foi o rodar o teste
+
+1349
+00:58:46,200 --> 00:58:50,340
+individual no de onde vem eu botei umas
+
+1350
+00:58:48,930 --> 00:58:53,369
+dicas também para nós dois se você tá
+
+1351
+00:58:50,340 --> 00:58:55,800
+contribuindo com os dois que o processo
+
+1352
+00:58:53,369 --> 00:58:58,650
+é um pouquinho diferente do início você
+
+1353
+00:58:55,800 --> 00:59:02,130
+coisa assim se importar então então a
+
+1354
+00:58:58,650 --> 00:59:04,619
+gente já fez passo 7 né foi rápida que a
+
+1355
+00:59:02,130 --> 00:59:06,180
+gente quer voltar os testes às vezes não
+
+1356
+00:59:04,619 --> 00:59:07,650
+é importante a conta isso professor que
+
+1357
+00:59:06,180 --> 00:59:09,900
+não tô acostumado a escrever teste às
+
+1358
+00:59:07,650 --> 00:59:11,740
+vezes o teste da é muito mais trabalho e
+
+1359
+00:59:09,900 --> 00:59:14,080
+demora em código
+
+1360
+00:59:11,740 --> 00:59:16,630
+ao longo do que é própria coisa que você
+
+1361
+00:59:14,080 --> 00:59:18,100
+adicionou né vocês viram que a função
+
+1362
+00:59:16,630 --> 00:59:20,380
+que a gente adiciona foi uma linha mas o
+
+1363
+00:59:18,100 --> 00:59:22,930
+teste tem umas cinco linhas ali então
+
+1364
+00:59:20,380 --> 00:59:24,220
+isso assim mas é para o mínimo pode ser
+
+1365
+00:59:22,930 --> 00:59:26,080
+que você não tiver tempo grande então
+
+1366
+00:59:24,220 --> 00:59:28,150
+muita gente não gosta de escrever teste
+
+1367
+00:59:26,080 --> 00:59:32,050
+porque tem às vezes essa complicação
+
+1368
+00:59:28,150 --> 00:59:34,960
+esse mas é importante né então vamos
+
+1369
+00:59:32,050 --> 00:59:38,760
+falar de estilo né hoje em dia a maioria
+
+1370
+00:59:34,960 --> 00:59:40,360
+dos projetos tem um estilo próprio tem
+
+1371
+00:59:38,760 --> 00:59:43,660
+estilo para quem não está familiarizado
+
+1372
+00:59:40,360 --> 00:59:45,040
+com o conceito é a questão de como vai
+
+1373
+00:59:43,660 --> 00:59:46,660
+ser o nome das suas variáveis você
+
+1374
+00:59:45,040 --> 00:59:49,869
+começa com letra maiúscula assim vai ter
+
+1375
+00:59:46,660 --> 00:59:52,630
+tracinho se qual é a indentação se você
+
+1376
+00:59:49,869 --> 00:59:56,050
+usa realizou os espaço não é tudo isso
+
+1377
+00:59:52,630 --> 00:59:58,210
+cada projeto vai ter um estilo e então
+
+1378
+00:59:56,050 --> 01:00:00,790
+tenta manter o estilo atual do projeto
+
+1379
+00:59:58,210 --> 01:00:02,440
+vocês viram que eu copiei as funções e
+
+1380
+01:00:00,790 --> 01:00:08,470
+quando eu tava editando elas por exemplo
+
+1381
+01:00:02,440 --> 01:00:10,300
+é quando eu copiei aqui eu mantive o
+
+1382
+01:00:08,470 --> 01:00:11,750
+mesmo estilo de documentação que tinha
+
+1383
+01:00:10,300 --> 01:00:14,900
+na função anterior
+
+1384
+01:00:11,750 --> 01:00:17,480
+a ver o mesmo tava usando com os estava
+
+1385
+01:00:14,900 --> 01:00:18,740
+usando referência eu eu mantive tudo que
+
+1386
+01:00:17,480 --> 01:00:20,690
+já estava lá antes eu não fiquei
+
+1387
+01:00:18,740 --> 01:00:22,670
+tentando mudar quando eu queria aqui o
+
+1388
+01:00:20,690 --> 01:00:23,870
+teste o teste era mais nos outros e se
+
+1389
+01:00:22,670 --> 01:00:25,670
+eu botei quando eu voltei com letra
+
+1390
+01:00:23,870 --> 01:00:28,820
+maiúscula porque já tava com letra
+
+1391
+01:00:25,670 --> 01:00:31,820
+maiúscula outro né então o nome das
+
+1392
+01:00:28,820 --> 01:00:34,220
+funções aqui o nome das das variáveis
+
+1393
+01:00:31,820 --> 01:00:35,930
+aqui dos objetos eu mantive o mesmo
+
+1394
+01:00:34,220 --> 01:00:43,060
+estilo então tenta manter o mesmo estilo
+
+1395
+01:00:35,930 --> 01:00:45,920
+do projeto que você tá tá editando e
+
+1396
+01:00:43,060 --> 01:00:49,460
+tenta mudar só o necessário para
+
+1397
+01:00:45,920 --> 01:00:50,660
+facilitar a revisão né por exemplo agora
+
+1398
+01:00:49,460 --> 01:00:52,370
+eu achei que eu tinha encontrado um
+
+1399
+01:00:50,660 --> 01:00:54,580
+banho inocente acabou que o problema é o
+
+1400
+01:00:52,370 --> 01:00:57,980
+meu workflow e a gente com certeza junto
+
+1401
+01:00:54,580 --> 01:00:59,810
+mas se realmente estiver eu tivesse
+
+1402
+01:00:57,980 --> 01:01:02,500
+encontrado um problema no center na
+
+1403
+01:00:59,810 --> 01:01:06,920
+função do centro enquanto eu estava
+
+1404
+01:01:02,500 --> 01:01:10,670
+resolvendo o problema doutor heitor eu
+
+1405
+01:01:06,920 --> 01:01:11,730
+não seria legal eu junto a tudo no
+
+1406
+01:01:10,670 --> 01:01:17,160
+próprio não
+
+1407
+01:01:11,730 --> 01:01:19,290
+o e colocar ele no e fazer um pouco
+
+1408
+01:01:17,160 --> 01:01:22,020
+achando tudo junto né é bom separar
+
+1409
+01:01:19,290 --> 01:01:23,580
+separar de fazer essa contribuição vai
+
+1410
+01:01:22,020 --> 01:01:25,109
+ser só sobrou perita abrir uma
+
+1411
+01:01:23,580 --> 01:01:27,240
+contribuição separada trava como
+
+1412
+01:01:25,109 --> 01:01:28,950
+centralcenter se ele tivesse quebrado né
+
+1413
+01:01:27,240 --> 01:01:31,140
+ou porque eu botei isso debaixo do
+
+1414
+01:01:28,950 --> 01:01:32,520
+estilo o que tem gente que acha que de
+
+1415
+01:01:31,140 --> 01:01:34,380
+vez em quando encontra problema de
+
+1416
+01:01:32,520 --> 01:01:37,320
+estilo do meio encontra por exemplo uma
+
+1417
+01:01:34,380 --> 01:01:39,810
+função que tá inventada demais e que tá
+
+1418
+01:01:37,320 --> 01:01:41,940
+sem comentário e a pessoa tem o impulso
+
+1419
+01:01:39,810 --> 01:01:44,460
+de consertar tudo ele ao mesmo tempo e
+
+1420
+01:01:41,940 --> 01:01:46,410
+não separei o suportastes né mano tem
+
+1421
+01:01:44,460 --> 01:01:49,109
+tudo organizadinho
+
+1422
+01:01:46,410 --> 01:01:51,720
+bom e muito projeto para dar winters
+
+1423
+01:01:49,109 --> 01:01:53,970
+além dos testes que a gente rodou tem
+
+1424
+01:01:51,720 --> 01:01:56,849
+interesse e se vocês verem aqui no de na
+
+1425
+01:01:53,970 --> 01:02:01,049
+nas dicas que eu coloquei eu botei um
+
+1426
+01:01:56,849 --> 01:02:02,970
+nem prestar o gás da ignition e tem essa
+
+1427
+01:02:01,049 --> 01:02:05,039
+dica aqui de como podar os limites do
+
+1428
+01:02:02,970 --> 01:02:07,289
+atualmente que a rodar isso aqui então
+
+1429
+01:02:05,039 --> 01:02:10,349
+amor vou dar um interchap jeans para ver
+
+1430
+01:02:07,289 --> 01:02:13,049
+se tem algum erro se tivesse por exemplo
+
+1431
+01:02:10,349 --> 01:02:16,650
+algum espaço demais eu nem teria pegar
+
+1432
+01:02:13,049 --> 01:02:19,049
+se tivesse alguns detalhes específicos a
+
+1433
+01:02:16,650 --> 01:02:21,329
+serem entrar mas ele não pega muita
+
+1434
+01:02:19,049 --> 01:02:23,670
+coisa o inter do bros 2 é muito mais
+
+1435
+01:02:21,329 --> 01:02:26,130
+detalhado e ele basicamente pega tudo
+
+1436
+01:02:23,670 --> 01:02:28,020
+que tá no computador os dois basicamente
+
+1437
+01:02:26,130 --> 01:02:29,549
+com esse cargo no inter deles então
+
+1438
+01:02:28,020 --> 01:02:31,470
+quando você roda o item loucamente ser
+
+1439
+01:02:29,549 --> 01:02:33,089
+nem precisa mais se preocupar muito com
+
+1440
+01:02:31,470 --> 01:02:34,559
+estilo porque se eu nem ter permitiu
+
+1441
+01:02:33,089 --> 01:02:36,599
+então os mantenedores também vão
+
+1442
+01:02:34,559 --> 01:02:38,579
+permitir no início onde nós uma limpeza
+
+1443
+01:02:36,599 --> 01:02:41,039
+ainda não são muito bônus então pode ser
+
+1444
+01:02:38,579 --> 01:02:42,569
+que tem alguma coisa que você é que
+
+1445
+01:02:41,039 --> 01:02:43,950
+passou o dia inteiro totalmente não tem
+
+1446
+01:02:42,569 --> 01:02:46,420
+nenhum erro de mim ter mais enquanto
+
+1447
+01:02:43,950 --> 01:02:48,760
+você tiver interagindo com
+
+1448
+01:02:46,420 --> 01:02:50,980
+e eles vão falar olha você poderia mudar
+
+1449
+01:02:48,760 --> 01:02:52,299
+isso aqui é isso aqui é do nosso estilo
+
+1450
+01:02:50,980 --> 01:02:55,299
+e tal que é uma coisa que o inter não
+
+1451
+01:02:52,299 --> 01:02:58,540
+pega automaticamente então vamos ver
+
+1452
+01:02:55,299 --> 01:03:01,030
+como é que tá o nosso líder ele tá
+
+1453
+01:02:58,540 --> 01:03:05,560
+rodando ainda mas até agora não apareceu
+
+1454
+01:03:01,030 --> 01:03:08,490
+nenhum nenhum erro escrito o que é bom
+
+1455
+01:03:05,560 --> 01:03:08,490
+bom então
+
+1456
+01:03:09,250 --> 01:03:15,010
+bom então é eu duvido que tenha
+
+1457
+01:03:12,820 --> 01:03:16,980
+introduzido algum problema dele ter aqui
+
+1458
+01:03:15,010 --> 01:03:19,380
+ó
+
+1459
+01:03:16,980 --> 01:03:23,130
+bom então vamos dizer que a gente
+
+1460
+01:03:19,380 --> 01:03:25,650
+terminou o estilo aí passa o nome
+
+1461
+01:03:23,130 --> 01:03:28,830
+documentação se você está adicionando
+
+1462
+01:03:25,650 --> 01:03:32,670
+novas funções documenta tô com medo aqui
+
+1463
+01:03:28,830 --> 01:03:34,560
+que elas estão fazendo ver si mesmo às
+
+1464
+01:03:32,670 --> 01:03:36,390
+vezes você tá com o bruno por um projeto
+
+1465
+01:03:34,560 --> 01:03:37,950
+que não têm documentação você pode usar
+
+1466
+01:03:36,390 --> 01:03:39,210
+para o operador menos tiver assim
+
+1467
+01:03:37,950 --> 01:03:42,960
+documentação e eu tô adicionando
+
+1468
+01:03:39,210 --> 01:03:45,270
+operário por mais é adiciona uma
+
+1469
+01:03:42,960 --> 01:03:48,060
+documentação zinho mesmo e talvez
+
+1470
+01:03:45,270 --> 01:03:49,890
+mantenedores falem eu duvido que eles
+
+1471
+01:03:48,060 --> 01:03:52,109
+vão falar assim ah por favor não comente
+
+1472
+01:03:49,890 --> 01:03:53,250
+isso ou então eu falei vai falar olha
+
+1473
+01:03:52,109 --> 01:03:54,780
+não tá documentado aqui porque
+
+1474
+01:03:53,250 --> 01:03:57,570
+documentado em outro lugar aí vai ser só
+
+1475
+01:03:54,780 --> 01:03:59,340
+uma vez eu documentação mas é importante
+
+1476
+01:03:57,570 --> 01:04:00,930
+sempre documentar porque as pessoas que
+
+1477
+01:03:59,340 --> 01:04:03,210
+estão vindo depois de você que não tem
+
+1478
+01:04:00,930 --> 01:04:04,970
+conta com texto sobre aquela função eu
+
+1479
+01:04:03,210 --> 01:04:07,680
+vou saber o que que ela tá fazendo
+
+1480
+01:04:04,970 --> 01:04:10,460
+adicione comentários no código não é
+
+1481
+01:04:07,680 --> 01:04:13,560
+para explicar o que que tá acontecendo
+
+1482
+01:04:10,460 --> 01:04:16,990
+em passos que podem ser um pouquinho
+
+1483
+01:04:13,560 --> 01:04:20,640
+mais mas incerto mas não tão claros
+
+1484
+01:04:16,990 --> 01:04:23,560
+e é sempre bom nos a comentários é
+
+1485
+01:04:20,640 --> 01:04:25,600
+colocar exemplo de como usar nessa
+
+1486
+01:04:23,560 --> 01:04:27,190
+função aqui o que a gente adicionou o
+
+1487
+01:04:25,600 --> 01:04:28,960
+próprio teste tá funcionando como um
+
+1488
+01:04:27,190 --> 01:04:31,480
+exemplo né você tá vendo que você pode
+
+1489
+01:04:28,960 --> 01:04:33,910
+pegar uma caixa e subtrair um vetor dela
+
+1490
+01:04:31,480 --> 01:04:35,560
+então é um exemplo os testes muitas
+
+1491
+01:04:33,910 --> 01:04:37,030
+vezes são exemplos mas tem vezes que são
+
+1492
+01:04:35,560 --> 01:04:39,640
+coisas mais complexas que você não vai
+
+1493
+01:04:37,030 --> 01:04:41,380
+botar nos adiciona exemplo se você tá
+
+1494
+01:04:39,640 --> 01:04:44,890
+contribuindo alguma coisa que a visual
+
+1495
+01:04:41,380 --> 01:04:47,140
+que tem eh interface gráfica olha só um
+
+1496
+01:04:44,890 --> 01:04:49,480
+vídeo adiciona um gif ou até uma
+
+1497
+01:04:47,140 --> 01:04:51,700
+screenshot do que que você fez né aí só
+
+1498
+01:04:49,480 --> 01:04:55,450
+não tutorial se for uma função nova
+
+1499
+01:04:51,700 --> 01:04:56,920
+grande né então eu botei a cliente para
+
+1500
+01:04:55,450 --> 01:04:58,869
+vocês se você estão colaborando com o
+
+1501
+01:04:56,920 --> 01:05:00,580
+início onde é que fica a documentação do
+
+1502
+01:04:58,869 --> 01:05:02,350
+início onde é que fica a documentação do
+
+1503
+01:05:00,580 --> 01:05:04,740
+rossi para vocês darem uma olhada
+
+1504
+01:05:02,350 --> 01:05:08,250
+documentação que já existe
+
+1505
+01:05:04,740 --> 01:05:10,440
+e como a gente adicionou uma função no
+
+1506
+01:05:08,250 --> 01:05:12,030
+nossa modificação e a gente já
+
+1507
+01:05:10,440 --> 01:05:14,430
+documentou ela porque a gente copiou da
+
+1508
+01:05:12,030 --> 01:05:16,470
+outra então já tá tudo começado vamos
+
+1509
+01:05:14,430 --> 01:05:19,350
+ter chegasse porque a gente modificou
+
+1510
+01:05:16,470 --> 01:05:22,010
+ela certinho ó o dia inteiro acabou e
+
+1511
+01:05:19,350 --> 01:05:25,170
+achou 10 erros então tá tudo tranquilo
+
+1512
+01:05:22,010 --> 01:05:29,100
+olha só a documentação diz edson factor
+
+1513
+01:05:25,170 --> 01:05:31,920
+from de mim ou errada gramática poderá
+
+1514
+01:05:29,100 --> 01:05:35,580
+consertar aqui também se deixasse a a
+
+1515
+01:05:31,920 --> 01:05:39,630
+gramática errada eu acho que é ninguém
+
+1516
+01:05:35,580 --> 01:05:42,240
+essa importamento mas agora a gente tem
+
+1517
+01:05:39,630 --> 01:05:44,250
+uma técnica white que talvez ela
+
+1518
+01:05:42,240 --> 01:05:45,930
+perceber que esse tipo de coisa mas eu
+
+1519
+01:05:44,250 --> 01:05:51,000
+acho que o resto do time atração esse
+
+1520
+01:05:45,930 --> 01:05:53,070
+importante é ó perfeito mas esse é o
+
+1521
+01:05:51,000 --> 01:05:57,090
+outro que já tinha que é só uma corpo
+
+1522
+01:05:53,070 --> 01:06:01,530
+duas caixas esse aqui é de waker wii u
+
+1523
+01:05:57,090 --> 01:06:05,160
+a minha max factor x durinha deixa e o
+
+1524
+01:06:01,530 --> 01:06:06,960
+resto tá do bem documentado beleza se o
+
+1525
+01:06:05,160 --> 01:06:09,180
+seu inglês não é tá bom copiar essa
+
+1526
+01:06:06,960 --> 01:06:11,250
+frase cola não tradutor cola cola no
+
+1527
+01:06:09,180 --> 01:06:17,340
+google e ver se aparece alguma alguma
+
+1528
+01:06:11,250 --> 01:06:19,680
+posição é gramatical então tá aqui a
+
+1529
+01:06:17,340 --> 01:06:21,210
+documentação fizemos também documentário
+
+1530
+01:06:19,680 --> 01:06:25,050
+boa vamos partir para passo do power
+
+1531
+01:06:21,210 --> 01:06:26,850
+quest né que é quando você vai pegar
+
+1532
+01:06:25,050 --> 01:06:28,820
+esse código e vai fazer um pedido para
+
+1533
+01:06:26,850 --> 01:06:32,340
+os mantenedores e falar olha eu
+
+1534
+01:06:28,820 --> 01:06:37,440
+adicionei isso vocês podem adicionar
+
+1535
+01:06:32,340 --> 01:06:39,030
+isso na biblioteca oficial então é cada
+
+1536
+01:06:37,440 --> 01:06:41,040
+projeto também tem uma cultura diferente
+
+1537
+01:06:39,030 --> 01:06:43,500
+supor quest alguns tem os templates para
+
+1538
+01:06:41,040 --> 01:06:45,900
+você seguir nenhum padrão zinho que tipo
+
+1539
+01:06:43,500 --> 01:06:47,490
+você todas as informações que você tem
+
+1540
+01:06:45,900 --> 01:06:50,010
+que adicionar quando você abre um por
+
+1541
+01:06:47,490 --> 01:06:52,080
+quais ela projeto vai ser diferente o
+
+1542
+01:06:50,010 --> 01:06:54,060
+que eu recomendo veja outro por parte do
+
+1543
+01:06:52,080 --> 01:06:55,920
+projeto como um exemplo da cultura como
+
+1544
+01:06:54,060 --> 01:06:57,100
+exemplo será que todo mundo que adiciona
+
+1545
+01:06:55,920 --> 01:06:59,410
+por cá
+
+1546
+01:06:57,100 --> 01:07:01,030
+ah tá colocando o resultado dos testes
+
+1547
+01:06:59,410 --> 01:07:03,160
+será que todo mundo te adiciona por
+
+1548
+01:07:01,030 --> 01:07:05,800
+parte aqui tá documentando tá
+
+1549
+01:07:03,160 --> 01:07:07,900
+adicionando imagem e tal então vamos
+
+1550
+01:07:05,800 --> 01:07:10,210
+outro corpete para ter uma noção de como
+
+1551
+01:07:07,900 --> 01:07:13,270
+é que eles como é que é a cultura vamos
+
+1552
+01:07:10,210 --> 01:07:15,720
+dar uma olhada no escuro parece que já
+
+1553
+01:07:13,270 --> 01:07:19,060
+foram medidos aqui recentemente no
+
+1554
+01:07:15,720 --> 01:07:23,980
+início gazebo por exemplo a gente pode
+
+1555
+01:07:19,060 --> 01:07:25,349
+ver sei lá vamos clicar um aleatório
+
+1556
+01:07:23,980 --> 01:07:28,319
+aqui ó
+
+1557
+01:07:25,349 --> 01:07:31,079
+ah tá falando vamos dar suporte para o
+
+1558
+01:07:28,319 --> 01:07:33,299
+cliente esponja esse povo acha que a
+
+1559
+01:07:31,079 --> 01:07:35,940
+gente tá vendo aqui automaticamente um
+
+1560
+01:07:33,299 --> 01:07:39,359
+robô não é um bot aqui vai comentar
+
+1561
+01:07:35,940 --> 01:07:41,819
+mostrando qual é a cobertura do código
+
+1562
+01:07:39,359 --> 01:07:46,140
+né quantas linhas estão sendo cobertas
+
+1563
+01:07:41,819 --> 01:07:50,220
+com essa mudança é tem as pessoas que
+
+1564
+01:07:46,140 --> 01:07:53,339
+estão revisão do código enfim vai vão
+
+1565
+01:07:50,220 --> 01:07:56,009
+ter lá e bolsa automático então é você
+
+1566
+01:07:53,339 --> 01:07:57,299
+ver aqui como é que foi o processo né
+
+1567
+01:07:56,009 --> 01:07:59,609
+deixa eu ver se eu acho algum que teve
+
+1568
+01:07:57,299 --> 01:08:02,759
+umas interações e que teve bastante
+
+1569
+01:07:59,609 --> 01:08:05,069
+interação bastante conversa né ele abriu
+
+1570
+01:08:02,759 --> 01:08:06,930
+o power quest deu uma explicação de um
+
+1571
+01:08:05,069 --> 01:08:08,609
+exemplo que eu falei exemplo de como
+
+1572
+01:08:06,930 --> 01:08:10,200
+usar né como é que se usa essa nova
+
+1573
+01:08:08,609 --> 01:08:13,019
+coisa que ele tá adicionando valeu
+
+1574
+01:08:10,200 --> 01:08:14,940
+colocou aqui um exemplo ele disse o que
+
+1575
+01:08:13,019 --> 01:08:16,109
+te falta fazer né então ele abriu por
+
+1576
+01:08:14,940 --> 01:08:17,460
+parte mexer coisa que ele ainda tava
+
+1577
+01:08:16,109 --> 01:08:21,900
+planejando fazer então eu botar uma
+
+1578
+01:08:17,460 --> 01:08:24,750
+listinha aqui na aí eu vim comentei a
+
+1579
+01:08:21,900 --> 01:08:25,359
+gente entre agiu conforme eu ia
+
+1580
+01:08:24,750 --> 01:08:27,609
+comentando ele
+
+1581
+01:08:25,359 --> 01:08:29,679
+e as coisas então você ver o que que
+
+1582
+01:08:27,609 --> 01:08:32,710
+você espera quando você vai colocar com
+
+1583
+01:08:29,679 --> 01:08:35,080
+esse projeto o que que você espera de
+
+1584
+01:08:32,710 --> 01:08:37,299
+interação com os mantenedores o que que
+
+1585
+01:08:35,080 --> 01:08:38,420
+vai acontecer até o momento que ele foi
+
+1586
+01:08:37,299 --> 01:08:41,630
+me ajuda
+
+1587
+01:08:38,420 --> 01:08:44,420
+ah é então é bom você sempre explicar
+
+1588
+01:08:41,630 --> 01:08:46,549
+bem o que que você tá fazendo qual é o
+
+1589
+01:08:44,420 --> 01:08:50,779
+programa que você tá resolvendo e como é
+
+1590
+01:08:46,549 --> 01:08:53,239
+que eu texto o que que é a solução que
+
+1591
+01:08:50,779 --> 01:08:55,190
+foi encontrada tenta facilitar o máximo
+
+1592
+01:08:53,239 --> 01:08:56,480
+a vida de quem vai realizar o máximo de
+
+1593
+01:08:55,190 --> 01:08:58,250
+informações que você poder dar não
+
+1594
+01:08:56,480 --> 01:09:00,259
+existe da informação demais porque a
+
+1595
+01:08:58,250 --> 01:09:02,029
+pessoa pode sempre escolher né então tá
+
+1596
+01:09:00,259 --> 01:09:05,420
+então máximo de informação que ele que
+
+1597
+01:09:02,029 --> 01:09:07,580
+você conseguir se for uma coisa pessoa
+
+1598
+01:09:05,420 --> 01:09:09,830
+muito grande se possível dividir em
+
+1599
+01:09:07,580 --> 01:09:13,580
+pedaços menores não é fácil vários por
+
+1600
+01:09:09,830 --> 01:09:15,380
+quest porque isso vai ajudar a até a
+
+1601
+01:09:13,580 --> 01:09:17,299
+cada um deles ser realizado
+
+1602
+01:09:15,380 --> 01:09:22,339
+individualmente e serem medidos mais
+
+1603
+01:09:17,299 --> 01:09:25,160
+rápidos na e mantém todo no não uma
+
+1604
+01:09:22,339 --> 01:09:27,350
+lógica alta contida ali né então vamos
+
+1605
+01:09:25,160 --> 01:09:30,410
+fazer o powerfast para fazer o por peixe
+
+1606
+01:09:27,350 --> 01:09:32,330
+do do lixão agora é uma coisa que vocês
+
+1607
+01:09:30,410 --> 01:09:35,270
+veriam no guia de contribuição que tá lá
+
+1608
+01:09:32,330 --> 01:09:37,420
+em casa lá em cima primeiro a gente vai
+
+1609
+01:09:35,270 --> 01:09:38,430
+ter que fazer um fork desse repositório
+
+1610
+01:09:37,420 --> 01:09:43,480
+né
+
+1611
+01:09:38,430 --> 01:09:46,390
+e eu vou vir aqui
+
+1612
+01:09:43,480 --> 01:09:49,270
+e vamos lá no kit ranger tem esse
+
+1613
+01:09:46,390 --> 01:09:52,960
+repositório aqui que me chamar né eu vou
+
+1614
+01:09:49,270 --> 01:09:54,320
+fazer um forte dele para minha conta chá
+
+1615
+01:09:52,960 --> 01:09:56,060
+poliana
+
+1616
+01:09:54,320 --> 01:09:59,360
+e vai ser rapidinho porque é um
+
+1617
+01:09:56,060 --> 01:10:04,489
+repositório pequeno às vezes demora um
+
+1618
+01:09:59,360 --> 01:10:10,489
+tempo fiz então eu vou adicionar ele
+
+1619
+01:10:04,489 --> 01:10:12,349
+como um emoji no meu aqui no meu
+
+1620
+01:10:10,489 --> 01:10:15,960
+repositório local vocês estão vendo aqui
+
+1621
+01:10:12,349 --> 01:10:19,110
+que é
+
+1622
+01:10:15,960 --> 01:10:22,680
+oi vocês estão vendo aqui que eu clonei
+
+1623
+01:10:19,110 --> 01:10:25,860
+originalmente o repositório de daí que
+
+1624
+01:10:22,680 --> 01:10:27,300
+me chamo vai mas agora eu digamos que eu
+
+1625
+01:10:25,860 --> 01:10:29,670
+não tinha permissão para o repositório
+
+1626
+01:10:27,300 --> 01:10:31,920
+ele chama barcos como é que eu ia mandar
+
+1627
+01:10:29,670 --> 01:10:33,540
+isso para por um kit rubi nessa mudança
+
+1628
+01:10:31,920 --> 01:10:34,800
+que eu fiz local aqui como é que eu ia
+
+1629
+01:10:33,540 --> 01:10:36,989
+mandar isso pela internet eu ia ter que
+
+1630
+01:10:34,800 --> 01:10:40,170
+mandar para meu forte então eu vamos
+
+1631
+01:10:36,989 --> 01:10:41,280
+adicionar uma corte aqui então irmão eu
+
+1632
+01:10:40,170 --> 01:10:43,350
+vou dar um nome para ele que ela
+
+1633
+01:10:41,280 --> 01:10:45,780
+simplesmente não estava lina e vou botar
+
+1634
+01:10:43,350 --> 01:10:47,850
+ao rn que eu tinha copiado adicionei
+
+1635
+01:10:45,780 --> 01:10:51,719
+agora quando a gente formou te ver eu
+
+1636
+01:10:47,850 --> 01:10:53,160
+vejo que eu tenho os dois então agora a
+
+1637
+01:10:51,719 --> 01:10:57,510
+gente já viu que tem a nossa diferença
+
+1638
+01:10:53,160 --> 01:10:59,700
+aqui vamos fazer um brand novo para
+
+1639
+01:10:57,510 --> 01:11:01,860
+nossa contribuição porque a gente ainda
+
+1640
+01:10:59,700 --> 01:11:07,890
+está no banho diga me chamar at six
+
+1641
+01:11:01,860 --> 01:11:10,140
+mesmo que eu vá colocar isso do meu no
+
+1642
+01:11:07,890 --> 01:11:11,820
+meu fork né então eu não eu não vou
+
+1643
+01:11:10,140 --> 01:11:14,700
+estar mandando isso para o brunch
+
+1644
+01:11:11,820 --> 01:11:15,970
+oficial da igreja chama bóia não é boa
+
+1645
+01:11:14,700 --> 01:11:19,600
+prática você mandar
+
+1646
+01:11:15,970 --> 01:11:20,980
+e no branch com o mesmo nome né sempre
+
+1647
+01:11:19,600 --> 01:11:23,500
+bom você criar um branch para sua
+
+1648
+01:11:20,980 --> 01:11:26,050
+feature então a gente faz responde kit
+
+1649
+01:11:23,500 --> 01:11:31,770
+acaso pudeste ver para criar um banco de
+
+1650
+01:11:26,050 --> 01:11:35,560
+novo e eu vou chamar esse brant de box
+
+1651
+01:11:31,770 --> 01:11:38,320
+operator class bota vai ser o nome do
+
+1652
+01:11:35,560 --> 01:11:40,480
+flash de novo cada projeto vai ter tem
+
+1653
+01:11:38,320 --> 01:11:42,460
+um projeto que tem um regras sobre o
+
+1654
+01:11:40,480 --> 01:11:44,020
+nome do grande que você vai criar né a
+
+1655
+01:11:42,460 --> 01:11:46,930
+gente não liga uma empresa então eu vou
+
+1656
+01:11:44,020 --> 01:11:48,250
+chamar de volta o plástico então quando
+
+1657
+01:11:46,930 --> 01:11:50,230
+você quiser aqui direto para a gente
+
+1658
+01:11:48,250 --> 01:11:52,810
+você vê aqui a gente está naquele branco
+
+1659
+01:11:50,230 --> 01:11:55,120
+a igreja status que a gente vê que tem
+
+1660
+01:11:52,810 --> 01:11:56,740
+os 3 arquivos modificados agora vamos
+
+1661
+01:11:55,120 --> 01:12:01,300
+fazer o convite ou comente alguma coisa
+
+1662
+01:11:56,740 --> 01:12:02,890
+interessante de lembrar que quando você
+
+1663
+01:12:01,300 --> 01:12:07,270
+está colaborando com ele no chão e nós
+
+1664
+01:12:02,890 --> 01:12:08,590
+dois os dois eles exigem que você acende
+
+1665
+01:12:07,270 --> 01:12:12,270
+as suas correntes então você tem que
+
+1666
+01:12:08,590 --> 01:12:14,620
+botar essa né na cometi e
+
+1667
+01:12:12,270 --> 01:12:15,949
+automaticamente ela vai ser assinada com
+
+1668
+01:12:14,620 --> 01:12:18,590
+o seu e-mail e o seu nome
+
+1669
+01:12:15,949 --> 01:12:20,420
+oi gente você dizendo que você atesta
+
+1670
+01:12:18,590 --> 01:12:22,030
+que você que criou aquele corte você não
+
+1671
+01:12:20,420 --> 01:12:24,229
+copiou ele de lugar nenhum que você tem
+
+1672
+01:12:22,030 --> 01:12:27,079
+autoria sobre ele que você tá doando ele
+
+1673
+01:12:24,229 --> 01:12:30,380
+foi projeto então bota dessa essa vou
+
+1674
+01:12:27,079 --> 01:12:34,780
+botar adicionar m para adicionar uma
+
+1675
+01:12:30,380 --> 01:12:41,170
+mensagem e a mensagem que eu vou botar
+
+1676
+01:12:34,780 --> 01:12:45,590
+operator class war assistir online box
+
+1677
+01:12:41,170 --> 01:12:47,329
+and back basicamente o que estava
+
+1678
+01:12:45,590 --> 01:12:51,800
+escrito no lixo né que era que tava
+
+1679
+01:12:47,329 --> 01:12:53,389
+faltando então vou botar cometi 19 você
+
+1680
+01:12:51,800 --> 01:12:55,159
+pode até fazer uma corrente em português
+
+1681
+01:12:53,389 --> 01:12:57,320
+vai confundir a cabeça de quem tiver
+
+1682
+01:12:55,159 --> 01:13:03,739
+olhando e não falar português né então
+
+1683
+01:12:57,320 --> 01:13:07,239
+eu vou empurrar pelo meu forte e bota a
+
+1684
+01:13:03,739 --> 01:13:08,550
+senha é
+
+1685
+01:13:07,239 --> 01:13:22,940
+e aí
+
+1686
+01:13:08,550 --> 01:13:26,010
+e eu tô errada entrou alguém então o que
+
+1687
+01:13:22,940 --> 01:13:28,260
+a gente ele automaticamente bota um link
+
+1688
+01:13:26,010 --> 01:13:31,830
+aqui quando você empurra para você criar
+
+1689
+01:13:28,260 --> 01:13:34,320
+um couro festa vamos criar esse é vamos
+
+1690
+01:13:31,830 --> 01:13:36,940
+clicar nesse link aqui ó
+
+1691
+01:13:34,320 --> 01:13:41,410
+e aí
+
+1692
+01:13:36,940 --> 01:13:45,010
+bom então ele vai mostrar a diferença
+
+1693
+01:13:41,410 --> 01:13:47,620
+aqui é importante eu tô no meu forte e
+
+1694
+01:13:45,010 --> 01:13:49,989
+eu quero mandar para o upstream mas eu
+
+1695
+01:13:47,620 --> 01:13:51,820
+comecei durante a que nem chamar six né
+
+1696
+01:13:49,989 --> 01:14:00,260
+eu não comecei do master então eu quero
+
+1697
+01:13:51,820 --> 01:14:02,440
+que vá para ele me chamar me chamar 6
+
+1698
+01:14:00,260 --> 01:14:05,440
+oi e aí
+
+1699
+01:14:02,440 --> 01:14:09,900
+e é por que que não dava alessandro as
+
+1700
+01:14:05,440 --> 01:14:15,390
+diferenças isso
+
+1701
+01:14:09,900 --> 01:14:20,550
+e a diferentemente a dor forte eu fiz um
+
+1702
+01:14:15,390 --> 01:14:25,780
+comente errado cabeça estava lá
+
+1703
+01:14:20,550 --> 01:14:30,970
+o poder eu
+
+1704
+01:14:25,780 --> 01:14:34,890
+eu botei ele no meu forte tô mandando um
+
+1705
+01:14:30,970 --> 01:14:34,890
+refresh aqui vai ser melhor
+
+1706
+01:14:39,820 --> 01:14:46,320
+e ai alguém roubou um carro aqui na rua
+
+1707
+01:14:46,510 --> 01:14:53,050
+g1
+
+1708
+01:14:48,080 --> 01:14:55,550
+bom então vai dormir box para o netflix
+
+1709
+01:14:53,050 --> 01:14:58,160
+por que que não está me deixando abrir o
+
+1710
+01:14:55,550 --> 01:14:59,810
+power quest tem sempre alguma coisa
+
+1711
+01:14:58,160 --> 01:15:00,680
+quando a gente tá fazendo ao vivo eu
+
+1712
+01:14:59,810 --> 01:15:03,230
+tenho que você tem alguma coisa
+
+1713
+01:15:00,680 --> 01:15:04,910
+diferente vamos tentar fazer ao
+
+1714
+01:15:03,230 --> 01:15:11,200
+contrário vou aqui no site dele nesse
+
+1715
+01:15:04,910 --> 01:15:14,560
+mas comper é por quest
+
+1716
+01:15:11,200 --> 01:15:16,150
+é aham e agora mestre seis será que eu
+
+1717
+01:15:14,560 --> 01:15:19,360
+comecei durante errado eu acho que essa
+
+1718
+01:15:16,150 --> 01:15:20,790
+pimenta você cantava aí foi tudo bom bug
+
+1719
+01:15:19,360 --> 01:15:24,280
+do hip-hop não minha responsabilidade
+
+1720
+01:15:20,790 --> 01:15:25,930
+então a gente pode ver aqui que as
+
+1721
+01:15:24,280 --> 01:15:27,340
+modificações que fez é sempre bom dá uma
+
+1722
+01:15:25,930 --> 01:15:29,020
+checada para você ver se você não
+
+1723
+01:15:27,340 --> 01:15:30,940
+empurrou nada de errado alguma coisa que
+
+1724
+01:15:29,020 --> 01:15:34,330
+você não queria tentado então eu tô
+
+1725
+01:15:30,940 --> 01:15:37,180
+vendo que eu mandei o ar mudança do
+
+1726
+01:15:34,330 --> 01:15:39,760
+header a mudança da implementação e aqui
+
+1727
+01:15:37,180 --> 01:15:43,240
+o teste que foram só os selinhos que eu
+
+1728
+01:15:39,760 --> 01:15:45,700
+modifiquei tudo adicionado é bom aqui
+
+1729
+01:15:43,240 --> 01:15:49,540
+mencionar o lixo que a gente está
+
+1730
+01:15:45,700 --> 01:15:52,699
+querendo resolver que eu perdi a janela
+
+1731
+01:15:49,540 --> 01:15:56,499
+hum hum isso aqui ó
+
+1732
+01:15:52,699 --> 01:16:02,749
+e então qual era o nome o número do lixo
+
+1733
+01:15:56,499 --> 01:16:08,119
+era o lixo 121 então a gente vem aqui eu
+
+1734
+01:16:02,749 --> 01:16:12,170
+vou botar o isol 121 na ele tá me
+
+1735
+01:16:08,119 --> 01:16:17,829
+mostrando aqui você é bom adicionar mais
+
+1736
+01:16:12,170 --> 01:16:20,510
+informações né por exemplo em um plano é
+
+1737
+01:16:17,829 --> 01:16:29,020
+um
+
+1738
+01:16:20,510 --> 01:16:37,310
+a mulher falou fera entrar né é é muito
+
+1739
+01:16:29,020 --> 01:16:39,380
+direto assim aí você pode dar um exemplo
+
+1740
+01:16:37,310 --> 01:16:49,250
+de do que que é a sua contribuição
+
+1741
+01:16:39,380 --> 01:16:52,550
+adicional não e box box tio e com os box
+
+1742
+01:16:49,250 --> 01:16:56,240
+one plus vector né é uma coisa que antes
+
+1743
+01:16:52,550 --> 01:16:58,280
+não poderia ser feita e vai funcionar
+
+1744
+01:16:56,240 --> 01:17:00,110
+agora aqui eu tô deixando que os
+
+1745
+01:16:58,280 --> 01:17:01,910
+mantenedores editem o meu plano se eles
+
+1746
+01:17:00,110 --> 01:17:04,760
+quiserem fazer uma mudança rápida em
+
+1747
+01:17:01,910 --> 01:17:06,680
+alguma coisa e eu vou abrir o por baixo
+
+1748
+01:17:04,760 --> 01:17:08,390
+aqui né acho que tá tudo certo se você
+
+1749
+01:17:06,680 --> 01:17:09,800
+aqui tá aparecendo estudo para mim no
+
+1750
+01:17:08,390 --> 01:17:11,330
+meu lado porque eu tenho permissão mas
+
+1751
+01:17:09,800 --> 01:17:16,280
+geralmente eu acho que isso aqui estaria
+
+1752
+01:17:11,330 --> 01:17:18,260
+vazio né então eu abrir o por quest pa
+
+1753
+01:17:16,280 --> 01:17:20,489
+tá lá é o único por parte desse
+
+1754
+01:17:18,260 --> 01:17:23,340
+repositório agora se você
+
+1755
+01:17:20,489 --> 01:17:26,400
+a ficha vocês vão ver que apareceu com o
+
+1756
+01:17:23,340 --> 01:17:28,530
+link do por parte aqui ó tá dizendo que
+
+1757
+01:17:26,400 --> 01:17:30,269
+ele tá aqui ele tá aberto né tinha um
+
+1758
+01:17:28,530 --> 01:17:33,599
+outro por quest que tava me ensinando
+
+1759
+01:17:30,269 --> 01:17:36,179
+esse isso eu também e você vem aqui
+
+1760
+01:17:33,599 --> 01:17:38,550
+automaticamente começou a rodar toda a
+
+1761
+01:17:36,179 --> 01:17:40,019
+se ai né esse aqui desse ou é checando
+
+1762
+01:17:38,550 --> 01:17:43,889
+que eu assinei nada que eu vou ter que
+
+1763
+01:17:40,019 --> 01:17:46,199
+lidar as quando eu fiz a minha convite e
+
+1764
+01:17:43,889 --> 01:17:50,789
+aqui vocês vem que tá rodando no linux
+
+1765
+01:17:46,199 --> 01:17:55,650
+no windows no mac né e tá rodando lá os
+
+1766
+01:17:50,789 --> 01:17:57,900
+testes em tudo automaticamente adicionou
+
+1767
+01:17:55,650 --> 01:18:01,380
+aqui um review que é o mantenedor desse
+
+1768
+01:17:57,900 --> 01:18:04,800
+dessa biblioteca e agora é esperar então
+
+1769
+01:18:01,380 --> 01:18:08,940
+o próximo passo agora vamos voltar lá
+
+1770
+01:18:04,800 --> 01:18:12,570
+para o próximo passo depois de abril por
+
+1771
+01:18:08,940 --> 01:18:14,039
+creche é a revisão é justamente aquele
+
+1772
+01:18:12,570 --> 01:18:15,900
+mantenedora outras pessoas que também
+
+1773
+01:18:14,039 --> 01:18:21,900
+são mantenedores daquele
+
+1774
+01:18:15,900 --> 01:18:24,570
+é daquele é daquele repositório vão vão
+
+1775
+01:18:21,900 --> 01:18:26,580
+ver vão fazer comentários vão ver se
+
+1776
+01:18:24,570 --> 01:18:30,330
+todos os testes realmente passaram tá
+
+1777
+01:18:26,580 --> 01:18:31,800
+talvez ele tem outras sugestões é eu
+
+1778
+01:18:30,330 --> 01:18:33,510
+recomendo sempre respondo aos
+
+1779
+01:18:31,800 --> 01:18:35,130
+comentários que as pessoas estão botando
+
+1780
+01:18:33,510 --> 01:18:37,380
+faça as mudanças necessárias que eles
+
+1781
+01:18:35,130 --> 01:18:38,850
+tão pedindo para você fazer né ou se
+
+1782
+01:18:37,380 --> 01:18:41,010
+você tiver alguma coisa que não concorda
+
+1783
+01:18:38,850 --> 01:18:44,040
+pode discordar mas discorda de uma forma
+
+1784
+01:18:41,010 --> 01:18:45,600
+educada e é bom e você saber que se pode
+
+1785
+01:18:44,040 --> 01:18:47,820
+levar desde horas nessa pessoa tá online
+
+1786
+01:18:45,600 --> 01:18:50,610
+e talvez estejam lá não tinha visto isso
+
+1787
+01:18:47,820 --> 01:18:53,460
+daqui a pouco ele vai medir por peste
+
+1788
+01:18:50,610 --> 01:18:55,140
+mas pode ser planeta meses dependendo do
+
+1789
+01:18:53,460 --> 01:18:58,200
+tamanho dependendo de como as pessoas
+
+1790
+01:18:55,140 --> 01:19:00,300
+que os mantenedores estão ocupados então
+
+1791
+01:18:58,200 --> 01:19:02,790
+não se preocupa que essas coisas vezes
+
+1792
+01:19:00,300 --> 01:19:04,800
+podem demorar pode ser que o projeto
+
+1793
+01:19:02,790 --> 01:19:07,260
+realmente não tenha tempo e seu público
+
+1794
+01:19:04,800 --> 01:19:09,750
+acho que ir lá para sempre né nunca seja
+
+1795
+01:19:07,260 --> 01:19:11,280
+aceita realmente acontece isso não quer
+
+1796
+01:19:09,750 --> 01:19:13,710
+dizer nada sobre a qualidade do seu
+
+1797
+01:19:11,280 --> 01:19:15,390
+código sobre sua contribuição tem tantas
+
+1798
+01:19:13,710 --> 01:19:15,910
+variáveis tem tanta coisa que pode estar
+
+1799
+01:19:15,390 --> 01:19:18,340
+acontecendo
+
+1800
+01:19:15,910 --> 01:19:20,770
+o projeto pode estar até outras
+
+1801
+01:19:18,340 --> 01:19:23,560
+prioridades enfim pode ser que demore
+
+1802
+01:19:20,770 --> 01:19:25,270
+mesmo e o importante tem que ser educada
+
+1803
+01:19:23,560 --> 01:19:27,820
+tem gente que às vezes fica um pouquinho
+
+1804
+01:19:25,270 --> 01:19:30,610
+irritada com o feedback que eles estão
+
+1805
+01:19:27,820 --> 01:19:33,490
+recebendo tem gente que é fica irritada
+
+1806
+01:19:30,610 --> 01:19:34,630
+com o tempo que tá levando né quem só
+
+1807
+01:19:33,490 --> 01:19:38,020
+isso eles estão contando com aquela
+
+1808
+01:19:34,630 --> 01:19:41,530
+mudança e o importante é sempre super
+
+1809
+01:19:38,020 --> 01:19:43,480
+válido você você chamar atenção das
+
+1810
+01:19:41,530 --> 01:19:45,850
+pessoas estão falar olha você pode dar
+
+1811
+01:19:43,480 --> 01:19:48,820
+uma olhada aqui tá uma ser educada né
+
+1812
+01:19:45,850 --> 01:19:52,680
+porque tá todo mundo aqui colaborando e
+
+1813
+01:19:48,820 --> 01:19:52,680
+querendo o melhor para o projeto então
+
+1814
+01:19:53,040 --> 01:19:58,750
+eu vou ter que as condições de revisão e
+
+1815
+01:19:56,410 --> 01:20:01,060
+no início a gente faz né pelo menos um
+
+1816
+01:19:58,750 --> 01:20:02,830
+mantenedor tem que aprovar para que você
+
+1817
+01:20:01,060 --> 01:20:05,860
+emergido e nós dois eles também fazem um
+
+1818
+01:20:02,830 --> 01:20:08,290
+os dois projetos dependendo do ciclo na
+
+1819
+01:20:05,860 --> 01:20:10,180
+fase do ciclo de release né quando tá
+
+1820
+01:20:08,290 --> 01:20:12,670
+muito perto do release faz dois
+
+1821
+01:20:10,180 --> 01:20:15,160
+aprovações para ter certeza que a gente
+
+1822
+01:20:12,670 --> 01:20:15,890
+está testando mesmo as coisas que estão
+
+1823
+01:20:15,160 --> 01:20:20,540
+entrando
+
+1824
+01:20:15,890 --> 01:20:23,060
+e é isso aí o último passo é depois que
+
+1825
+01:20:20,540 --> 01:20:25,430
+teve aquele vai e volta é algo
+
+1826
+01:20:23,060 --> 01:20:28,190
+mantenedor do projeto vai emergir o seu
+
+1827
+01:20:25,430 --> 01:20:31,310
+público é se pode aceitar ele e o seu
+
+1828
+01:20:28,190 --> 01:20:34,130
+código vai virar parte daquele daquela
+
+1829
+01:20:31,310 --> 01:20:41,000
+biblioteca ele vai aparecer no próximo
+
+1830
+01:20:34,130 --> 01:20:46,790
+release oficial né e o fazer aqui e uma
+
+1831
+01:20:41,000 --> 01:20:49,130
+coisa uma coisa importante entender que
+
+1832
+01:20:46,790 --> 01:20:51,020
+agora que o seu código tá lá os
+
+1833
+01:20:49,130 --> 01:20:53,630
+mantenedores que aceitaram o seu código
+
+1834
+01:20:51,020 --> 01:20:55,940
+eles são responsáveis por manter aquele
+
+1835
+01:20:53,630 --> 01:20:57,590
+código e corrigir futuro de bugs e tal
+
+1836
+01:20:55,940 --> 01:21:00,890
+eles aqui tá fazendo parte do código
+
+1837
+01:20:57,590 --> 01:21:04,160
+deles e foi ótimo que você fez uma
+
+1838
+01:21:00,890 --> 01:21:06,500
+colaboração no seu tempo livre talvez e
+
+1839
+01:21:04,160 --> 01:21:08,150
+você tá dando esse código de graça para
+
+1840
+01:21:06,500 --> 01:21:09,560
+essa biblioteca mas você tem que
+
+1841
+01:21:08,150 --> 01:21:11,630
+entender também que você tá dando de
+
+1842
+01:21:09,560 --> 01:21:13,760
+graça uma responsabilidade de seus
+
+1843
+01:21:11,630 --> 01:21:15,900
+mantenedores as pessoas que estão
+
+1844
+01:21:13,760 --> 01:21:18,600
+colaborando às vezes não percebem que
+
+1845
+01:21:15,900 --> 01:21:20,670
+e os mantenedores estão sendo rígidos
+
+1846
+01:21:18,600 --> 01:21:22,830
+com o processo de revisão justamente
+
+1847
+01:21:20,670 --> 01:21:24,510
+porque depois sobra para eles depois são
+
+1848
+01:21:22,830 --> 01:21:26,730
+eles que vão ser que manter aquele
+
+1849
+01:21:24,510 --> 01:21:28,350
+código e lidar com os bancos que vão ser
+
+1850
+01:21:26,730 --> 01:21:31,260
+que vão vir ele tá com problema de
+
+1851
+01:21:28,350 --> 01:21:34,110
+usuário né então os mantenedores de vão
+
+1852
+01:21:31,260 --> 01:21:36,630
+manter o seu pódio mas se você puder
+
+1853
+01:21:34,110 --> 01:21:39,929
+manter manter um olho ele fica de olho
+
+1854
+01:21:36,630 --> 01:21:41,370
+no no repositório caso apareça algum
+
+1855
+01:21:39,929 --> 01:21:44,310
+problema com código que você escreveu
+
+1856
+01:21:41,370 --> 01:21:47,639
+outros né ajudar os mantenedores é ótimo
+
+1857
+01:21:44,310 --> 01:21:50,989
+também né é para ajudar o projeto
+
+1858
+01:21:47,639 --> 01:21:53,280
+ah é então aqui eu tô falando sobre o
+
+1859
+01:21:50,989 --> 01:21:56,729
+significado da projeto quando que vai
+
+1860
+01:21:53,280 --> 01:22:00,479
+ter o release do do código que você é
+
+1861
+01:21:56,729 --> 01:22:03,329
+com colaborar então é isso gente se
+
+1862
+01:22:00,479 --> 01:22:05,760
+foram os 12 passos foi legal que a gente
+
+1863
+01:22:03,329 --> 01:22:07,979
+teve coisas inesperadas acontecendo teve
+
+1864
+01:22:05,760 --> 01:22:11,999
+carro sendo roubado aqui na rua então
+
+1865
+01:22:07,979 --> 01:22:13,380
+teve teve bastante emoção se vocês
+
+1866
+01:22:11,999 --> 01:22:14,939
+tiverem perguntas agora eu acho que eu
+
+1867
+01:22:13,380 --> 01:22:16,709
+passei um pouquinho do tempo mas eu acho
+
+1868
+01:22:14,939 --> 01:22:19,189
+que o pedro já tinha reservado um
+
+1869
+01:22:16,709 --> 01:22:21,899
+tempinho aí para perguntas eu queria só
+
+1870
+01:22:19,189 --> 01:22:23,399
+dizer que esse grill e eu escrevi para
+
+1871
+01:22:21,899 --> 01:22:25,590
+especialmente para essa aumentar aqui
+
+1872
+01:22:23,399 --> 01:22:29,579
+mas eu tinha feito uma uma apresentação
+
+1873
+01:22:25,590 --> 01:22:31,679
+parecida 4 anos atrás na época eu tava
+
+1874
+01:22:29,579 --> 01:22:34,769
+trabalhando no simulador gazebo que é o
+
+1875
+01:22:31,679 --> 01:22:37,709
+que vem antes do ignition e tava no
+
+1876
+01:22:34,769 --> 01:22:40,979
+beatbox então pode ser que tenha muita
+
+1877
+01:22:37,709 --> 01:22:42,689
+coisa lá que que eu tenho dito lá que eu
+
+1878
+01:22:40,979 --> 01:22:44,130
+não disse aqui né porque eu estou
+
+1879
+01:22:42,689 --> 01:22:46,169
+improvisando aqui falando coisa da minha
+
+1880
+01:22:44,130 --> 01:22:47,650
+cabeça então quem tiver interessado pode
+
+1881
+01:22:46,169 --> 01:22:49,540
+dar uma olhada também
+
+1882
+01:22:47,650 --> 01:22:51,340
+o que é interessante você vê uma
+
+1883
+01:22:49,540 --> 01:22:52,870
+perspectiva que eu tinha 4 anos atrás né
+
+1884
+01:22:51,340 --> 01:22:54,429
+naquela época eu tinha três anos de eu
+
+1885
+01:22:52,870 --> 01:22:56,560
+abençoar seu dia a dia eu tenho certo
+
+1886
+01:22:54,429 --> 01:22:58,449
+então eu acho que a gente até que haja
+
+1887
+01:22:56,560 --> 01:23:00,969
+um pouco de noção provavelmente eu pulei
+
+1888
+01:22:58,449 --> 01:23:02,920
+muito espaços que eu fiz muita coisa
+
+1889
+01:23:00,969 --> 01:23:04,390
+muito rápida que não deu para acompanhar
+
+1890
+01:23:02,920 --> 01:23:06,070
+eu acho que talvez eu tenho feito mais
+
+1891
+01:23:04,390 --> 01:23:07,350
+devagar um pouquinho naquele ficar
+
+1892
+01:23:06,070 --> 01:23:10,830
+contigo
+
+1893
+01:23:07,350 --> 01:23:13,810
+bom então é isso nossa tem 37 pessoas
+
+1894
+01:23:10,830 --> 01:23:16,060
+aqui é vocês têm alguma pergunta
+
+1895
+01:23:13,810 --> 01:23:16,060
+[Música]
+
