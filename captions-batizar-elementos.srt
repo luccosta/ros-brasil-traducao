@@ -1872,7 +1872,7 @@ seria wg load three no de três slash
 
 469
 00:21:30,159 --> 00:21:34,529
-fubá e
+foo bar
 
 470
 00:21:32,519 --> 00:21:37,080
@@ -1880,7 +1880,7 @@ e então como eu falei se vocês tiverem
 
 471
 00:21:34,529 --> 00:21:38,789
-mais dúvidas como é que o nosso resolve
+mais dúvidas como é que o ROS resolve
 
 472
 00:21:37,080 --> 00:21:40,409
@@ -1900,55 +1900,55 @@ do grupo então entrar em contato com a
 
 476
 00:21:47,399 --> 00:21:54,239
-galera no rãs questions que costuma ser
+galera no ROS questions que costuma ser
 
 477
 00:21:49,499 --> 00:21:56,639
-bem solicita você pode aumentar o seu
+bem solícita você pode aumentar o seu
 
 478
 00:21:54,239 --> 00:21:59,909
-carro aí respondendo perguntas tendo
+karma aí respondendo perguntas tendo
 
 479
 00:21:56,639 --> 00:22:02,190
-perguntas respondidas carma é uma
+perguntas respondidas karma é uma
 
 480
 00:21:59,909 --> 00:22:06,029
-pontuação na identificação que o as
+pontuação na gamificação que o ROS
 
 481
 00:22:02,190 --> 00:22:08,249
-quais são os tem e que geralmente virava
+questions tem e que geralmente virava
 
 482
 00:22:06,029 --> 00:22:10,759
-até um tipo de piada lá no senai que vão
+até um tipo de piada lá no SENAI que vão
 
 483
 00:22:08,249 --> 00:22:13,499
-aumentar meu carro né uma coisa do tipo
+aumentar meu karma, coisa do tipo
 
 484
 00:22:10,759 --> 00:22:19,570
-ah é que eu trouxe uma um exemplo de
+aqui eu trouxe uma um exemplo de
 
 485
 00:22:13,499 --> 00:22:23,640
-aplicação né pra você tem aí no centro é
+aplicação né você tem aí no centro
 
 486
 00:22:19,570 --> 00:22:23,640
-e aí cês tão vendo meu curso aqui
+vocês tão vendo meu curso aqui
 
 487
 00:22:26,130 --> 00:22:32,220
-e pronto daqui você teria apliquei que
+pronto então aqui você teria o aplication
 
 488
 00:22:29,520 --> 00:22:34,530
-eliminou hoje seria o nome do seu nome
+name node seria o nome do seu nó
 
 489
 00:22:32,220 --> 00:22:38,010
@@ -1956,47 +1956,47 @@ geralmente as aplicações tendem a manter
 
 490
 00:22:34,530 --> 00:22:40,920
-o novo aqui como forma de você também se
+o node aqui como forma de você também se
 
 491
 00:22:38,010 --> 00:22:44,430
-localizar então você teria um namespace'
+localizar então você teria um namespace
 
 492
 00:22:40,920 --> 00:22:46,500
-aqui associado a esse nor então como eu
+aqui associado a esse nó então como eu
 
 493
 00:22:44,430 --> 00:22:49,500
-tô trabalhando dentro nesse desse mesmo
+tô trabalhando dentro desse namespace
 
 494
 00:22:46,500 --> 00:22:52,290
-space os tópicos que esse nós lançar
+os tópicos que esse nós lançar
 
 495
 00:22:49,500 --> 00:22:54,510
-também vão tá aberto desses namespaces
+também vão estar dentro desses namespaces
 
 496
 00:22:52,290 --> 00:22:56,250
-tá vendo e o serviço gerados também vão
+tá vendo e os serviços gerados também vão
 
 497
 00:22:54,510 --> 00:22:59,670
-tá dentro de cinema space então como a
+tá dentro desse namespace então como a
 
 498
 00:22:56,250 --> 00:23:01,020
-gente pode ver como o beijo lembrando o
+gente pode ver como o base name no
 
 499
 00:22:59,670 --> 00:23:03,360
-caso seria que eu nem me space
+caso seria aqui o namespace
 
 500
 00:23:01,020 --> 00:23:05,790
-application-name hoje para os serviços
+application name node para os serviços
 
 501
 00:23:03,360 --> 00:23:08,190
@@ -2004,7 +2004,7 @@ que eu declarei de forma privada você
 
 502
 00:23:05,790 --> 00:23:10,320
-mantém então entre os parâmetros seria
+mantém então intrinsic parameters
 
 503
 00:23:08,190 --> 00:23:12,810
@@ -2012,31 +2012,31 @@ seria declarado lá no meu código com um
 
 504
 00:23:10,320 --> 00:23:14,850
-fiozinho entre os parâmetros e essa
+tilzinho entre os parameters e essa
 
 505
 00:23:12,810 --> 00:23:16,540
-parte do namespace application-name nude
+parte do namespace application name node
 
 506
 00:23:14,850 --> 00:23:18,760
-rosa resolver
+o ROS resolveria
 
 507
 00:23:16,540 --> 00:23:20,740
-é então que você tem os parâmetros
+então aqui você tem os parâmetros
 
 508
 00:23:18,760 --> 00:23:23,890
-intrísecos geralmente é como você
+intrínsecos geralmente é comum você
 
 509
 00:23:20,740 --> 00:23:26,050
-colocar um saveiro para você checar né
+colocar um is_available para você checar
 
 510
 00:23:23,890 --> 00:23:29,050
-forma de banco para você checar se algum
+uma forma de debug para você checar se algum
 
 511
 00:23:26,050 --> 00:23:31,990
@@ -2048,35 +2048,35 @@ e você tem os comandos geralmente não é
 
 513
 00:23:31,990 --> 00:23:37,420
-tão bom
+tão
 
 514
 00:23:35,020 --> 00:23:41,200
-e não é tão difundido assim na verdade
+não é tão difundido assim na verdade
 
 515
 00:23:37,420 --> 00:23:43,000
-não é tão aconselhável você usar e fácil
+não é tão aconselhável você usar a interface
 
 516
 00:23:41,200 --> 00:23:45,250
-de serviço para comandos né realmente
+de serviço para comandos né geralmente
 
 517
 00:23:43,000 --> 00:23:47,560
-você usar um action tem que estar mais
+você usar um action quem está mais
 
 518
 00:23:45,250 --> 00:23:49,360
-familiarizado eles sabem que a diferença
+familiarizado sabe que a diferença
 
 519
 00:23:47,560 --> 00:23:52,750
-de um serviço para um lequinho aqui não
+de um serviço para um action é que no
 
 520
 00:23:49,360 --> 00:23:55,900
-é que você consegue retornar o status
+action você consegue retornar o status
 
 521
 00:23:52,750 --> 00:23:58,700
@@ -2084,11 +2084,11 @@ daquela ação então no serviço você tem
 
 522
 00:23:55,900 --> 00:24:02,030
-geralmente aí é
+geralmente aí
 
 523
 00:23:58,700 --> 00:24:04,280
-é uma resposta síncrona né tipo de
+uma resposta síncrona né tipo do
 
 524
 00:24:02,030 --> 00:24:05,570
@@ -2100,7 +2100,7 @@ fazer ou não mas porém você não vai
 
 526
 00:24:05,570 --> 00:24:10,690
-conseguir um status eu não consegue
+conseguir um status você não consegue
 
 527
 00:24:06,860 --> 00:24:13,640
@@ -2116,15 +2116,15 @@ tomando e aqui no lado esquerdo tem uma
 
 530
 00:24:15,590 --> 00:24:19,840
-pequena diferença mas você vê que você
+pequena diferença você vê que você
 
 531
 00:24:17,330 --> 00:24:23,060
-tenha namespace' e o só application-name
+tem o namespace e só application name
 
 532
 00:24:19,840 --> 00:24:27,320
-então você pode nos trópicos é comum
+então você pode nos tópicos é comum
 
 533
 00:24:23,060 --> 00:24:30,380
@@ -2132,7 +2132,7 @@ você não associar o nome do nó às vezes
 
 534
 00:24:27,320 --> 00:24:32,240
-no tópico por que que eu falei essa
+no tópico por que como eu falei essa
 
 535
 00:24:30,380 --> 00:24:34,760
@@ -2148,15 +2148,15 @@ você usar nomes mais que sejam mais
 
 538
 00:24:37,370 --> 00:24:42,740
-direto mais efetivos
+diretos mais intuitivos
 
 539
 00:24:39,350 --> 00:24:45,530
-e aí você teria application-name data
+e aí você teria application name data
 
 540
 00:24:42,740 --> 00:24:48,320
-info e hissa verbo então escolhi nomes
+info e is_available então escolhi nomes
 
 541
 00:24:45,530 --> 00:24:50,210
@@ -2176,19 +2176,19 @@ consegue identificar mais fácil
 
 545
 00:24:57,810 --> 00:25:02,010
-bom então por que que eu escolhi o
+por que que eu escolhi o
 
 546
 00:25:00,390 --> 00:25:04,320
-título dessa seção com amor escolhi
+título dessa seção como escolha
 
 547
 00:25:02,010 --> 00:25:05,700
-abrir os seus padrinhos é mais dessas
+bem os seus padrinhos é mais dessas
 
 548
 00:25:04,320 --> 00:25:07,890
-referências na escolha bem as suas
+referências né escolha bem as suas
 
 549
 00:25:05,700 --> 00:25:10,110
@@ -2208,19 +2208,19 @@ ali né então os nossos padrinhos no
 
 553
 00:25:14,820 --> 00:25:22,020
-casos seria seriam o resumir que as
+caso seriam o ROS Wiki, ROS
 
 554
 00:25:19,290 --> 00:25:29,160
-quests para as dúvidas mais pontuais no
+Questions para as dúvidas mais pontuais nos
 
 555
 00:25:22,020 --> 00:25:33,120
-próprio rosa o rappers negros enfim é
+próprios REPs do ROS enfim
 
 556
 00:25:29,160 --> 00:25:36,300
-trouxe aqui esse pros o rappi 144 né que
+trouxe aqui esse ROS REP 144 né que
 
 557
 00:25:33,120 --> 00:25:39,750
@@ -2228,7 +2228,7 @@ ele tá relacionado a como você batizar
 
 558
 00:25:36,300 --> 00:25:41,370
-um pé aqui então ele ficar ali as
+um package então ele te dá ali as
 
 559
 00:25:39,750 --> 00:25:43,950
@@ -2240,19 +2240,19 @@ usa para fazer tal coisa e aqui também
 
 561
 00:25:43,950 --> 00:25:50,130
-tem a questão do dos memes essa parte
+tem a questão dos names essa parte
 
 562
 00:25:46,860 --> 00:25:52,020
-aqui eu tirei como é que o braço ele
+aqui eu tirei como é que o ROS ele
 
 563
 00:25:50,130 --> 00:25:55,770
-resolve é
+resolve
 
 564
 00:25:52,020 --> 00:25:58,410
-a globo nem me relacionei miss tá bem
+global names relative names tá bem
 
 565
 00:25:55,770 --> 00:26:01,410
@@ -2260,7 +2260,7 @@ detalhado nesse link então vocês vão se
 
 566
 00:25:58,410 --> 00:26:02,700
-sentir à vontade tenho certeza então as
+sentir lá à vontade tenho certeza então as
 
 567
 00:26:01,410 --> 00:26:04,890
@@ -2268,11 +2268,11 @@ principais vantagens né como eu já
 
 568
 00:26:02,700 --> 00:26:07,410
-visando o reuso de código encapsulamento
+venho dizendo, reuso de código, encapsulamento
 
 569
 00:26:04,890 --> 00:26:09,390
-de banger evita o próprio conflito entre
+debug, evita o próprio conflito entre
 
 570
 00:26:07,410 --> 00:26:10,890
@@ -2280,15 +2280,15 @@ nomes e facilita a descrição dos
 
 571
 00:26:09,390 --> 00:26:13,620
-componentes o namespace só você pode
+componentes e o namespace. Você pode
 
 572
 00:26:10,890 --> 00:26:15,510
-fazer o uso do namespace' para fornecer
+fazer uso do namespace para fornecer
 
 573
 00:26:13,620 --> 00:26:18,870
-uma descrição melhor ali do da sua
+uma descrição melhor ali da sua
 
 574
 00:26:15,510 --> 00:26:20,870
@@ -2296,35 +2296,35 @@ aplicação do que que aquele recurso é
 
 575
 00:26:18,870 --> 00:26:23,370
-responsável o que que aquele serviço
+responsável, do que que aquele serviço é
 
 576
 00:26:20,870 --> 00:26:26,480
-responsável e o que que aquele papo é
+responsável, do que que aquele tópico é
 
 577
 00:26:23,370 --> 00:26:28,610
-responsável mas as notícias
+responsável, coisas do tipo
 
 578
 00:26:26,480 --> 00:26:30,260
-bom então eu trouxe aqui um exemplo de
+então eu trouxe aqui um exemplo de
 
 579
 00:26:28,610 --> 00:26:32,000
-um projeto como é que é o do dragão
+um projeto, que é do Dynamixel
 
 580
 00:26:30,260 --> 00:26:33,740
-amigo seu que são motores que bem
+que são motores que são bem
 
 581
 00:26:32,000 --> 00:26:35,990
-utilizados eu paguei fundidos aí na
+utilizados, bem fundidos aí na
 
 582
 00:26:33,740 --> 00:26:37,330
-comunidade românticas são servo-motores
+comunidade robótica, são servo-motores
 
 583
 00:26:35,990 --> 00:26:39,580
@@ -2332,27 +2332,27 @@ inteligentes
 
 584
 00:26:37,330 --> 00:26:41,590
-bom então você vê que tem uma certa
+então você vê que tem uma certa
 
 585
 00:26:39,580 --> 00:26:45,220
-estrutura nem nasceu de controla como a
+estrutura ali né, tilt controller command
 
 586
 00:26:41,590 --> 00:26:47,380
-gente então como diz seria o nome de um
+então o command seria o nome de um
 
 587
 00:26:45,220 --> 00:26:49,750
-tópico se você só utilizar se o como de
+tópico se você só utilizasse o command
 
 588
 00:26:47,380 --> 00:26:51,760
-seria o nome de tópico comum stacey
+seria o nome de tópico comum, state
 
 589
 00:26:49,750 --> 00:26:54,790
-então você sabe que o tio tia lia o
+então você sabe que o tilt ali é o
 
 590
 00:26:51,760 --> 00:26:56,350
@@ -2360,31 +2360,31 @@ controlador do motor responsável pelo
 
 591
 00:26:54,790 --> 00:26:58,800
-seu time e geralmente tempão e o tio de
+tilt, geralmente temo o pan e o tilt
 
 592
 00:26:56,350 --> 00:27:01,810
-que são aqueles movimentos a gente tem
+que são aqueles movimentos que a gente tem em
 
 593
 00:26:58,800 --> 00:27:06,100
-retrovisores mas vocês estão vendo que o
+retrovisores, mas vocês estão vendo, então
 
 594
 00:27:01,810 --> 00:27:09,130
-geralmente geralmente você tem essa
+geralmente você tem essa
 
 595
 00:27:06,100 --> 00:27:10,930
-diferença aí e tem próprio diagnostics
+diferença aíi, e tem próprio diagnostics
 
 596
 00:27:09,130 --> 00:27:14,260
-que também é um steckdose muito
+que também é um stack do ROS muito
 
 597
 00:27:10,930 --> 00:27:15,270
-interessante a gente pode até marcar o
+interessante, a gente pode até marcar
 
 598
 00:27:14,260 --> 00:27:18,570
@@ -2392,55 +2392,51 @@ outro
 
 599
 00:27:15,270 --> 00:27:22,340
-em outro momento para discutir sobre que
+outro momento para discutir sobre que
 
 600
 00:27:18,570 --> 00:27:24,250
 é algo que facilita bastante um projeto
 
-601
-00:27:22,340 --> 00:27:26,290
-é
-
 602
 00:27:24,250 --> 00:27:28,750
-e é que eu trouxe mais ou menos como é
+aí aqui eu trouxe mais ou menos como é
 
 603
 00:27:26,290 --> 00:27:31,150
-que seria o rat service list né meu no
+que seria o ROS service list no
 
 604
 00:27:28,750 --> 00:27:34,960
-terminal então você teria o nome do
+terminal, então você teria o nome do
 
 605
 00:27:31,150 --> 00:27:36,700
-nosso ali desse sales manager meta então
+nó ali, dxl manager meta, então
 
 606
 00:27:34,960 --> 00:27:40,060
-você tem o estágio controller site
+você tem o start controller, start
 
 607
 00:27:36,700 --> 00:27:43,300
-controlador é você ter tenho desses
+controller, você tem o dxl
 
 608
 00:27:40,060 --> 00:27:44,770
-alimentos bem field então teria o estar
+manager pan tilt, então teria o start
 
 609
 00:27:43,300 --> 00:27:48,720
-de controla o estado de controle então
+controller, start controller, então
 
 610
 00:27:44,770 --> 00:27:51,340
-são nomes que são comuns mais pelo pelo
+são nomes que são comuns mais pelo
 
 611
 00:27:48,720 --> 00:27:53,680
-pelo conteúdo tornar pelos namespaces
+conteúdo todo, pelos namespaces
 
 612
 00:27:51,340 --> 00:27:57,360
@@ -2448,11 +2444,11 @@ que você criou você consegue de cara ver
 
 613
 00:27:53,680 --> 00:28:01,740
-o que que aquela aquele serviço faz um
+o que que aquele serviço faz
 
 614
 00:27:57,360 --> 00:28:04,470
-o projeto também que eu acho bem
+outro projeto também que eu acho bem
 
 615
 00:28:01,740 --> 00:28:07,380
@@ -2460,15 +2456,15 @@ interessante nessa parte de padrão de
 
 616
 00:28:04,470 --> 00:28:09,510
-projeto é o velodyne e ela dá nem para
+projeto é o Velodyne. O Velodyne pra
 
 617
 00:28:07,380 --> 00:28:14,820
-quem não sabe um laser scanner né e
+quem não sabe é um laser scanner, que
 
 618
 00:28:09,510 --> 00:28:18,299
-geralmente tem 16 16 32 64 também feixes
+geralmente tem 16, 32 feixes, 64 também, feixes
 
 619
 00:28:14,820 --> 00:28:21,639
@@ -2476,23 +2472,23 @@ de laser que você consegue mapear o seu
 
 620
 00:28:18,299 --> 00:28:26,289
-ambiente né 360 graus
+ambiente 360 graus
 
 621
 00:28:21,639 --> 00:28:31,659
-e de forma aquele titia te dar uma nuvem
+de forma a ele te dar uma nuvem
 
 622
 00:28:26,289 --> 00:28:34,809
-de pontos trailer então é um pacote
+de pontos 3D, então é um pacote
 
 623
 00:28:31,659 --> 00:28:38,619
-complexo porém a organização do pacote
+complexo, porém a organização do pacote
 
 624
 00:28:34,809 --> 00:28:41,320
-se dá um pouco mais de segurança na hora
+te dá um pouco mais de segurança na hora
 
 625
 00:28:38,619 --> 00:28:44,320
