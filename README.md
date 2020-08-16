@@ -28,6 +28,7 @@ Para submissão serão recebidos pull requests.
 O GitHub possui um editor online então todo o processo de tradução pode ser realizado da seguinte forma:
 
 1. Criação de um fork.
+2. Criação de uma branch a partir da master para edição.
 2. Seleção de um arquivo a ser editado.
 3. Abertura do modo de edição.
 4. Commit da edição no próprio editor.
