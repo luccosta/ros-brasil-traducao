@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:08,700
-é bom primeiro queria agradecer não é
+bom primeiro queria agradecer
 
 2
 00:00:03,840 --> 00:00:11,880
@@ -8,7 +8,7 @@ pelo convite aí do pedro para mim assim
 
 3
 00:00:08,700 --> 00:00:14,700
-há uma grande honra poder participar já
+é uma grande honra poder participar já
 
 4
 00:00:11,880 --> 00:00:18,090
@@ -20,7 +20,7 @@ também desde o começo aí do canal e a
 
 6
 00:00:18,090 --> 00:00:22,140
-gente ir lá no senai sempre vinha
+gente lá no senai sempre vinha
 
 7
 00:00:20,580 --> 00:00:25,320
@@ -28,11 +28,11 @@ acompanhando esse esforço que o pedro
 
 8
 00:00:22,140 --> 00:00:27,689
-junto com um vaqueiro esqueci-me também
+junto com o baqueiro
 
 9
 00:00:25,320 --> 00:00:29,039
-vinham fazendo vai para levantar o grupo
+vinham fazendo né para levantar o grupo
 
 10
 00:00:27,689 --> 00:00:31,320
@@ -44,15 +44,15 @@ bacana porque a gente cria referências
 
 12
 00:00:31,320 --> 00:00:36,600
-assim do brasil lá dentro da comunidade
+assim do brasil dentro da comunidade
 
 13
 00:00:33,450 --> 00:00:39,300
-doença que é uma comunidade é muito
+do ROS que é uma comunidade muito
 
 14
 00:00:36,600 --> 00:00:41,460
-grande e tem pessoas assim do mundo todo
+grande que tem pessoas assim do mundo todo
 
 15
 00:00:39,300 --> 00:00:45,300
@@ -60,7 +60,7 @@ contribuindo pessoas diferentes níveis
 
 16
 00:00:41,460 --> 00:00:47,550
-de instrução né programadores excelentes
+de instrução programadores excelentes
 
 17
 00:00:45,300 --> 00:00:50,550
@@ -68,15 +68,15 @@ então tive a oportunidade de estar no
 
 18
 00:00:47,550 --> 00:00:53,340
-nosso com madrinha em 2018 e para mim
+ROSCon em Madri em 2018 e para mim
 
 19
 00:00:50,550 --> 00:00:55,440
-assim foi algo surpreendente né porque
+assim foi algo surpreendente porque
 
 20
 00:00:53,340 --> 00:00:58,590
-fica até a felicidade de encontrar
+tive até a felicidade de encontrar
 
 21
 00:00:55,440 --> 00:01:00,010
@@ -84,7 +84,7 @@ pessoas que mantinham os códigos que
 
 22
 00:00:58,590 --> 00:01:04,869
-usavam no senai então
+eu usava no senai então
 
 23
 00:01:00,010 --> 00:01:07,659
@@ -92,15 +92,15 @@ e foi um negócio bem bacana enfim quando
 
 24
 00:01:04,869 --> 00:01:10,750
-pedro né para o sugeriu essa cima e
+pedro para sugeriu esse MeetUp
 
 25
 00:01:07,659 --> 00:01:13,659
-trump eu já tinha assim de alguma forma
+eu já tinha de alguma forma
 
 26
 00:01:10,750 --> 00:01:16,119
-esse esse tema em mente na jeito de como
+esse esse tema em mente de como
 
 27
 00:01:13,659 --> 00:01:17,370
@@ -108,23 +108,23 @@ você batizar os elementos de aplicação
 
 28
 00:01:16,119 --> 00:01:20,390
-de nossa
+em ROS
 
 29
 00:01:17,370 --> 00:01:23,640
-bom então resolvi trazer aí mais como
+então resolvi trazer mais como
 
 30
 00:01:20,390 --> 00:01:26,310
-uma referência né porque durante se você
+uma referência porque no ROS você
 
 31
 00:01:23,640 --> 00:01:28,320
-tem o documentação bem escrito sobre a
+tem uma documentação bem escrita sobre a
 
 32
 00:01:26,310 --> 00:01:30,750
-parte do nem me convençam os daqui são
+parte do name conventions que são
 
 33
 00:01:28,320 --> 00:01:32,490
@@ -132,11 +132,11 @@ as convenções você que utiliza tanto
 
 34
 00:01:30,750 --> 00:01:36,210
-para nomear os pés que eles não me as
+para nomear os packeges pra nomear os
 
 35
 00:01:32,490 --> 00:01:38,640
-nudes os serviços que você venha ter na
+nodes, os serviços que você venha a ter na
 
 36
 00:01:36,210 --> 00:01:41,730
@@ -144,11 +144,11 @@ sua aplicação e eu vou trazer um
 
 37
 00:01:38,640 --> 00:01:43,920
-vermelho aqui bem rápido é a minha
+overview aqui bem rápido, a minha
 
 38
 00:01:41,730 --> 00:01:45,150
-apresentação baseada no sozinho então a
+apresentação é baseada no ROS 1 então a
 
 39
 00:01:43,920 --> 00:01:49,010
@@ -156,7 +156,7 @@ maioria da minha experiência que eu
 
 40
 00:01:45,150 --> 00:01:52,020
-tenho é nervoso um então razão ele ainda
+tenho é no ROS 1 então ROS 1 ele ainda
 
 41
 00:01:49,010 --> 00:01:53,490
@@ -164,7 +164,7 @@ tá em produção né tipo você ainda tem
 
 42
 00:01:52,020 --> 00:01:55,650
-uma reta mesmo terminar por nós dois
+o Noetic mesmo tendo o ROS 2
 
 43
 00:01:53,490 --> 00:02:00,150
@@ -176,23 +176,23 @@ que operam com bastante eficiência então
 
 45
 00:02:00,150 --> 00:02:05,240
-você tem o noroeste que você tem próprio
+você tem o Noetic que você tem o próprio
 
 46
 00:02:02,370 --> 00:02:09,929
-o connect que é bem utilizado ainda
+o Kinetic que é bem utilizado ainda
 
 47
 00:02:05,240 --> 00:02:11,970
-lunar morena então se até a luísa quiser
+Lunar, Morenia então se até a Louise quiser
 
 48
 00:02:09,929 --> 00:02:13,430
-as pessoas que também ser que já estão
+as pessoas que também já estão
 
 49
 00:02:11,970 --> 00:02:15,840
-mais à vontade de comprar os dois
+mais à vontade com o ROS 2
 
 50
 00:02:13,430 --> 00:02:17,380
@@ -204,23 +204,23 @@ vocês podem ficar à vontade
 
 52
 00:02:17,380 --> 00:02:26,620
-ah tá bom então trouxe um pouco aqui do
+então trouxe um pouco aqui do
 
 53
 00:02:22,600 --> 00:02:28,240
-conteúdo né aquele aí do dilbert por
+conteúdo, essa tirinha aí do Gilbert por
 
 54
 00:02:26,620 --> 00:02:30,070
-mais que o meu diabetes seja um
+mais que o Gilbert seja um
 
 55
 00:02:28,240 --> 00:02:31,480
-profissional de ter item tem bastante
+profissional de TI tem bastante
 
 56
 00:02:30,070 --> 00:02:34,180
-coisas assim que às vezes eu me
+coisa que às vezes eu me
 
 57
 00:02:31,480 --> 00:02:35,590
@@ -228,11 +228,11 @@ identifico na área da programação então
 
 58
 00:02:34,180 --> 00:02:38,710
-a teria basicamente eles estão ali
+a tirinha basicamente eles estão ali
 
 59
 00:02:35,590 --> 00:02:43,030
-definindo o nem nem convenção né quais
+definindo o naming convention né quais
 
 60
 00:02:38,710 --> 00:02:45,700
@@ -244,7 +244,7 @@ geralmente a galera na programação gosta
 
 62
 00:02:45,700 --> 00:02:50,970
-de criar se em casos bem específicos né
+de criar casos bem específicos
 
 63
 00:02:47,800 --> 00:02:53,560
@@ -252,11 +252,11 @@ então a gente às vezes acaba perdendo
 
 64
 00:02:50,970 --> 00:02:55,390
-muito tempo em reuniões assim não são
+muito tempo em reuniões assim não só
 
 65
 00:02:53,560 --> 00:02:58,390
-nem me correntes mais outras reuniões às
+naming conventions mais outras reuniões às
 
 66
 00:02:55,390 --> 00:03:00,460
@@ -264,19 +264,19 @@ vezes focando em alguns detalhes que às
 
 67
 00:02:58,390 --> 00:03:02,980
-vezes trabalhando as pessoas vai fazer
+vezes para a maioria das pessoas não vai fazer
 
 68
 00:03:00,460 --> 00:03:06,460
-tanta diferença aí no caso aí eles foram
+tanta diferença, no caso aí eles foram
 
 69
 00:03:02,980 --> 00:03:08,710
-bem bem bem fundo e acabaram decidindo
+bem fundo e acabaram decidindo
 
 70
 00:03:06,460 --> 00:03:11,080
-terminar a reunião mas assim geralmente
+terminar a reunião, mas assim geralmente
 
 71
 00:03:08,710 --> 00:03:14,800
@@ -284,15 +284,15 @@ as convenções de nomes não tem muitas
 
 72
 00:03:11,080 --> 00:03:17,360
-regras né tem alguns estilos também que
+regras, tem alguns estilos também que
 
 73
 00:03:14,800 --> 00:03:21,950
-alguns projetos adotam como a luz
+alguns projetos adotam como a Louise
 
 74
 00:03:17,360 --> 00:03:23,930
-o rádio os dois adota um estilo gazebo
+falou ali o ROS 2 adota um estilo, o gazebo
 
 75
 00:03:21,950 --> 00:03:26,480
@@ -312,43 +312,43 @@ universidade que você tá você pode
 
 79
 00:03:30,170 --> 00:03:36,350
-também ter a seguir um estilo que é um
+também seguir um estilo que é um
 
 80
 00:03:34,340 --> 00:03:38,450
-pouco diferente né então você também tem
+pouco diferente, então você também tem
 
 81
 00:03:36,350 --> 00:03:40,640
-sido os públicos né que é o tem um
+estilos públicos, tem o
 
 82
 00:03:38,450 --> 00:03:42,590
-cheiro do google para fazer mais mais é
+estilo do google para C++ é
 
 83
 00:03:40,640 --> 00:03:44,930
-uma referência assim que quando eu
+uma referência que quando eu
 
 84
 00:03:42,590 --> 00:03:48,680
-estava começando eu sempre buscava a
+estava começando eu sempre buscava
 
 85
 00:03:44,930 --> 00:03:51,520
-seguir enfim aí eu vou apresentar alguns
+seguir, enfim, vou apresentar alguns
 
 86
 00:03:48,680 --> 00:03:55,700
-slides queria que vai ser coisa rápida
+slides creio que vai ser coisa rápida
 
 87
 00:03:51,520 --> 00:03:58,430
-vou começar aqui né me apresentando meu
+vou começar aqui me apresentando meu
 
 88
 00:03:55,700 --> 00:04:01,520
-nome é matheus santos tenho 26 anos me
+nome é Matheus Santos tenho 26 anos me
 
 89
 00:03:58,430 --> 00:04:03,290
@@ -356,19 +356,19 @@ formei em controle e automação e desde
 
 90
 00:04:01,520 --> 00:04:05,360
-quando eu entrei no senai vem
+quando eu entrei no senai venho
 
 91
 00:04:03,290 --> 00:04:08,680
-trabalhando com essa parede programação
+trabalhando com essa área de programação
 
 92
 00:04:05,360 --> 00:04:12,739
-né um pouco mais para área de perception
+um pouco mais para a área de perception
 
 93
 00:04:08,680 --> 00:04:15,170
-seria a forma né como um robô interpreta
+que seria a forma como um robô interpreta
 
 94
 00:04:12,739 --> 00:04:17,370
@@ -376,31 +376,31 @@ e de alguma forma sente o ambiente ao
 
 95
 00:04:15,170 --> 00:04:19,769
-redor então eu tô
+redor então eu trouxe essas
 
 96
 00:04:17,370 --> 00:04:23,130
-as minhas aí deixa eu explicar também
+barrinhas, deixa eu explicar também
 
 97
 00:04:19,769 --> 00:04:27,990
-porque porque no gráfico né você o a
+porque do gráfico né a
 
 98
 00:04:23,130 --> 00:04:30,720
-capa em si tem um negócio meio formas de
+capa em si tem um negócio meio em formas de
 
 99
 00:04:27,990 --> 00:04:34,139
-pixels assim né então eu tenho meio sim
+pixels então eu
 
 100
 00:04:30,720 --> 00:04:37,139
-sou meio fanático pela não fanática mais
+sou meio fanático, não fanática mas
 
 101
 00:04:34,139 --> 00:04:39,630
-entusiastas da época lá dos 16 32 bits
+entusiasta da época lá dos 16 32 bits
 
 102
 00:04:37,139 --> 00:04:41,850
@@ -408,27 +408,27 @@ então eu tentei colocar apresentação
 
 103
 00:04:39,630 --> 00:04:43,080
-mais do tipo dentro assim lado das
+mais do tipo, dentro das
 
 104
 00:04:41,850 --> 00:04:44,820
-minhas áreas de interesse né essas
+minhas áreas de interesse essas
 
 105
 00:04:43,080 --> 00:04:47,820
-barrinhas meio que representa nisso eu
+barrinhas meio que representam isso eu
 
 106
 00:04:44,820 --> 00:04:51,570
-gosto bastante do trabalhar compra se
+gosto bastante de trabalhar com
 
 107
 00:04:47,820 --> 00:04:55,320
-ver não gosto bastante também que você
+OpenCV, gosto bastante também de
 
 108
 00:04:51,570 --> 00:04:57,030
-mais mais e hoje também tô tendo
+C++ e hoje também tô tendo
 
 109
 00:04:55,320 --> 00:04:58,860
@@ -440,11 +440,11 @@ oportunidade de fazer um mestrado na
 
 111
 00:04:58,860 --> 00:05:04,710
-são as áreas assim que mais me interessa
+são as áreas assim que mais me interessa.
 
 112
 00:05:02,060 --> 00:05:08,310
-aqui foi um pouco de onde eu passei
+Aqui foi um pouco de onde eu passei
 
 113
 00:05:04,710 --> 00:05:11,570
@@ -452,39 +452,39 @@ então comecei a estudar em 2012 passei
 
 114
 00:05:08,310 --> 00:05:14,520
-pelo senai comecei o estágio lá em
+pelo Senai comecei o estágio lá em
 
 115
 00:05:11,570 --> 00:05:17,380
-2016/2018 terminei a graduação foi
+2016, 2018 terminei a graduação fui
 
 116
 00:05:14,520 --> 00:05:19,390
-contratado para trabalhar no projeto
+contratado, pude trabalhar num projeto
 
 117
 00:05:17,380 --> 00:05:22,450
-e é bem legal né na área de petróleo e
+bem legal na área de petróleo e
 
 118
 00:05:19,390 --> 00:05:25,090
-gás que tinha com parceiros a shell e aí
+gás que tinha como parceiros a Shell e a
 
 119
 00:05:22,450 --> 00:05:27,310
-no aspecto de uma empresa alemã também e
+Innospection que é uma empresa alemã também
 
 120
 00:05:25,090 --> 00:05:31,650
-2019 eu fui para o thiaguinho e que a
+em 2019 eu fui para a Oceaneering que é
 
 121
 00:05:27,310 --> 00:05:34,410
-empresa também de petróleo e gás e que
+uma empresa também de petróleo e gás e que
 
 122
 00:05:31,650 --> 00:05:38,590
-também tá na área da robótica então
+também tá na área da robótica, então
 
 123
 00:05:34,410 --> 00:05:40,720
@@ -492,27 +492,27 @@ algumas inovações assim que que a gente
 
 124
 00:05:38,590 --> 00:05:43,990
-que a gente vê nessa corrida aí pelos ao
+vê nessa corrida aí pelos ~Inaudível~
 
 125
 00:05:40,720 --> 00:05:49,480
-vez o cheirinho aí também tá para
+a Oceaneering também tá
 
 126
 00:05:43,990 --> 00:05:51,160
-participar não sair em 2019 eu entrei
+participando disso, em 2019 eu entrei
 
 127
 00:05:49,480 --> 00:05:54,940
-também no mestrado acadêmico vaga porque
+também no mestrado acadêmico na PUC
 
 128
 00:05:51,160 --> 00:05:58,660
-no rio de janeiro voltado para sistemas
+no Rio de Janeiro voltado para sistemas
 
 129
 00:05:54,940 --> 00:06:00,910
-robóticos é aprendizado aí na verdade a
+robóticos, aprendizado, na verdade
 
 130
 00:05:58,660 --> 00:06:03,310
@@ -524,7 +524,7 @@ sistemas robóticos e inicialmente meu
 
 132
 00:06:03,310 --> 00:06:08,130
-tema relacionado ao autodoc né então
+tema é relacionado ao autodocking, então
 
 133
 00:06:06,070 --> 00:06:11,980
@@ -540,11 +540,11 @@ e operados de forma remota
 
 136
 00:06:14,800 --> 00:06:21,520
-oi e a minha ideia é encontrar um
+e a minha ideia é desenvolver um
 
 137
 00:06:18,879 --> 00:06:23,919
-algoritmo led autodoc baseado em
+algoritmo de autodocking baseado em
 
 138
 00:06:21,520 --> 00:06:25,870
@@ -552,15 +552,15 @@ sensores onboard que seriam sensores que
 
 139
 00:06:23,919 --> 00:06:28,120
-que estão disponíveis no robô né são
+que estão disponíveis no robô, são
 
 140
 00:06:25,870 --> 00:06:34,960
-sensores locais ali que o robô pode
+sensores locais que o robô pode
 
 141
 00:06:28,120 --> 00:06:37,599
-contar sonar sensores 3d né com glitter
+contar, sonar sensores 3D, com laser
 
 142
 00:06:34,960 --> 00:06:44,139
@@ -568,27 +568,27 @@ scanner e também imagens 2d que seriam
 
 143
 00:06:37,599 --> 00:06:48,009
-das câmeras bom eu vou começar aqui aí
+das câmeras, bom eu vou começar aqui meio
 
 144
 00:06:44,139 --> 00:06:49,750
-eu sempre pagamento mas trazer um pouco
+assim abruptamente, mas trazendo um pouco
 
 145
 00:06:48,009 --> 00:06:52,389
-da importância dos nomes né porque hoje
+da importância dos nomes, porque hoje
 
 146
 00:06:49,750 --> 00:06:54,789
-em dia na programação a gente tenha sim
+em dia na programação a gente tem
 
 147
 00:06:52,389 --> 00:06:57,520
-vários estilos vários várias formas de
+vários estilos, várias formas de
 
 148
 00:06:54,789 --> 00:06:59,229
-você seguir mas existe na verdade um
+você seguir, mas existe na verdade um
 
 149
 00:06:57,520 --> 00:07:02,169
@@ -604,11 +604,11 @@ você desenvolve né que são funções
 
 152
 00:07:03,520 --> 00:07:07,150
-começa pelas variáveis começa tem um
+começa pelas variáveis começa por um
 
 153
 00:07:05,860 --> 00:07:10,930
-nome de arquivo às vezes o nome de
+nome de arquivo às vezes um nome de
 
 154
 00:07:07,150 --> 00:07:13,210
@@ -620,7 +620,7 @@ um pouco de dúvida em qual nome escolher
 
 156
 00:07:13,210 --> 00:07:19,730
-então a gente tem cla
+então a gente tem classes
 
 157
 00:07:14,810 --> 00:07:23,930
