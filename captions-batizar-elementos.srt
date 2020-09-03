@@ -2492,39 +2492,39 @@ te dá um pouco mais de segurança na hora
 
 625
 00:28:38,619 --> 00:28:44,320
-de tentar entender como é que eu pude
+de tentar entender como é que é o behaviour
 
 626
 00:28:41,320 --> 00:28:46,929
-rever daquele do do da aplicação esse
+daquele... da aplicação em si
 
 627
 00:28:44,320 --> 00:28:51,779
-então ele separa aliás aplicações e node
+então ele separa ali as aplicações e nodelets
 
 628
 00:28:46,929 --> 00:28:54,489
-alex tem um manager que consegue
+tem um manager que consegue
 
 629
 00:28:51,779 --> 00:28:57,099
-conversar com esses node-red você tem os
+conversar com esses nodelets você tem ali os
 
 630
 00:28:54,489 --> 00:29:00,579
-pectus os points e o diagnóstico é como
+packets, os points e o diagnostics como
 
 631
 00:28:57,099 --> 00:29:03,009
-eu falei e ainda tem esse diagnóstico é
+eu falei e ainda tem esse diagnostic aggregator
 
 632
 00:29:00,579 --> 00:29:06,549
-gay por aqui que é faz parte da pilha do
+aqui que faz parte da pilha do
 
 633
 00:29:03,009 --> 00:29:08,619
-diagnóstico streck e ele só mostra de
+diagnostics stack que ele só mostra de
 
 634
 00:29:06,549 --> 00:29:10,509
@@ -2536,23 +2536,23 @@ seu sistema se você atingir uma
 
 636
 00:29:10,509 --> 00:29:15,879
-temperatura crítica que você teve falha
+temperatura crítica se você teve falha
 
 637
 00:29:13,119 --> 00:29:18,630
-no motor teve falha em um dos dois ele
+no motor teve falha em um dos lasers ele
 
 638
 00:29:15,879 --> 00:29:23,790
-te dar essas coisas aí ó
+te dá essas coisas aí
 
 639
 00:29:18,630 --> 00:29:26,400
-que bom cheguei ao fim foi muito
+bom cheguei ao fim foi muito
 
 640
 00:29:23,790 --> 00:29:30,660
-apressado às vezes eu queria como a
+apressado antes disso eu queria como a
 
 641
 00:29:26,400 --> 00:29:33,360
@@ -2580,11 +2580,11 @@ filmes sabe que a saga do herói
 
 647
 00:29:42,630 --> 00:29:47,940
-geralmente o herói começa a se ferrando
+geralmente o herói começa se ferrando
 
 648
 00:29:44,780 --> 00:29:51,600
-passa por dificuldades aí depois no
+passa por umas dificuldades aí depois no
 
 649
 00:29:47,940 --> 00:29:53,250
@@ -2600,11 +2600,11 @@ problema novo que eu pego é uma saga do
 
 652
 00:29:55,650 --> 00:30:00,660
-herói nova e na minha mãe que eu sempre
+herói nova e na minha mente eu sempre
 
 653
 00:29:58,320 --> 00:30:03,960
-tenho essas vezes essa clareza de que
+tenho às vezes essa clareza de que
 
 654
 00:30:00,660 --> 00:30:05,640
@@ -2612,23 +2612,23 @@ tudo vai dar certo vou conseguir não
 
 655
 00:30:03,960 --> 00:30:07,980
-sozinha mas com ajuda dos outros ajuda
+sozinho mas com ajuda dos outros ajuda
 
 656
 00:30:05,640 --> 00:30:11,070
-dos companheiros seja na empresa né eu
+dos companheiros seja na empresa
 
 657
 00:30:07,980 --> 00:30:13,050
-sempre tenho graças a deus sempre tive
+eu sempre tenho graças a deus sempre tive
 
 658
 00:30:11,070 --> 00:30:16,320
-bons companheiros de trabalho vou te dar
+bons companheiros de trabalho
 
 659
 00:30:13,050 --> 00:30:17,940
-um charminho aí também tenho dois
+hoje na Oceaneering também tenho dois
 
 660
 00:30:16,320 --> 00:30:18,610
@@ -2636,11 +2636,11 @@ colegas assim mais próximos que sempre
 
 661
 00:30:17,940 --> 00:30:22,179
-me
+me ajudam então
 
 662
 00:30:18,610 --> 00:30:23,860
-e eu não tenho nada só claro não conheço
+eu não tenho... claro não conheço
 
 663
 00:30:22,179 --> 00:30:26,320
@@ -2648,7 +2648,7 @@ tudo não sei se é pouca coisa de
 
 664
 00:30:23,860 --> 00:30:28,240
-programação apesar dos anos que vem já
+programação apesar dos anos que eu venho já
 
 665
 00:30:26,320 --> 00:30:30,070
@@ -2664,19 +2664,19 @@ você se tornar um programador assim
 
 668
 00:30:33,520 --> 00:30:39,610
-é mais mais atento né as coisas que
+é mais mais atento né às coisas que
 
 669
 00:30:37,810 --> 00:30:41,590
-acontece na comunidade seria
+acontecem na comunidade seria
 
 670
 00:30:39,610 --> 00:30:44,080
-interessante você ter se o de uma menina
+interessante você ter esse domínio
 
 671
 00:30:41,590 --> 00:30:46,270
-é o conhecimento de dessas essas
+o conhecimento dessas
 
 672
 00:30:44,080 --> 00:30:50,230
@@ -2684,15 +2684,15 @@ ferramentas dessas técnicas primeiro é o
 
 673
 00:30:46,270 --> 00:30:52,740
-pt eu acho que o que ter por ser uma
+Qt eu acho que o Qt por ser uma
 
 674
 00:30:50,230 --> 00:30:56,800
-ferramenta assim de modernização
+ferramenta assim de renderização
 
 675
 00:30:52,740 --> 00:31:00,460
-compressor se bastante difundida é algo
+open source bastante difundida é algo
 
 676
 00:30:56,800 --> 00:31:02,950
@@ -2712,35 +2712,35 @@ para se aprofundar mais meu caso também
 
 680
 00:31:07,930 --> 00:31:14,070
-tem que estudar que ter sempre porque é
+eu tenho que estudar Qt sempre porque é
 
 681
 00:31:11,530 --> 00:31:17,470
-o que a gente fez a bastante vamos subir
+algo que a gente utiliza bastante na Oceaneering
 
 682
 00:31:14,070 --> 00:31:19,120
-para você mais mais né e o que tem se
+para C++ né o Qt em si
 
 683
 00:31:17,470 --> 00:31:21,090
-ele foi desenvolvido originalmente é
+ele foi desenvolvido originalmente em
 
 684
 00:31:19,120 --> 00:31:24,510
-mais mais mais você tem os bailes ali
+C++ mas você tem os bindings ali
 
 685
 00:31:21,090 --> 00:31:27,930
-como a luiza falou você tem o resto wg
+como a Louise falou você tem o SWIG
 
 686
 00:31:24,510 --> 00:31:30,190
-você tem outros bairros que consegue
+você tem outros bindings que conseguem
 
 687
 00:31:27,930 --> 00:31:33,530
-fornecer não é o que tem outras
+fornecer o que tem outras
 
 688
 00:31:30,190 --> 00:31:36,380
@@ -2748,7 +2748,7 @@ linguagens então estudar design patterns
 
 689
 00:31:33,530 --> 00:31:39,530
-e é legal porque você também consegue
+é legal porque você também consegue
 
 690
 00:31:36,380 --> 00:31:41,180
@@ -2756,7 +2756,7 @@ bater o olho ali no algoritmo e saber o
 
 691
 00:31:39,530 --> 00:31:44,300
-que que tá acontecendo mais ou menos
+que tá acontecendo mais ou menos
 
 692
 00:31:41,180 --> 00:31:46,460
@@ -2764,7 +2764,7 @@ ainda tenho essa ideia prévia utilizar
 
 693
 00:31:44,300 --> 00:31:48,110
-bastante ser mais mais 14 você mais mais
+bastante C++ 14, o C++
 
 694
 00:31:46,460 --> 00:31:50,600
@@ -2772,15 +2772,15 @@ a linguagem muito peculiar então você
 
 695
 00:31:48,110 --> 00:31:54,740
-tem a base 98 você tem que ser mais mais
+tem a base 98 você tem C++ 11
 
 696
 00:31:50,600 --> 00:31:56,890
-11 você tem o 14 você tem 17 ou 20 nem
+você tem o 14 você tem 17 o 20 nem
 
 697
 00:31:54,740 --> 00:32:01,490
-sei se eu vim tirar já lançou mas enfim
+sei se o 20 já lançou mas enfim
 
 698
 00:31:56,890 --> 00:32:05,570
@@ -2788,43 +2788,43 @@ pelo menos minha dica seria se atentar
 
 699
 00:32:01,490 --> 00:32:09,110
-você mais mais 14 que é o a linguagem
+ao C++ 14 que é a linguagem
 
 700
 00:32:05,570 --> 00:32:12,440
-lembra o que que o grossa tá baseado
+que o ROS tá baseado
 
 701
 00:32:09,110 --> 00:32:14,300
-pelo menos eu vi ali no naquele link que
+pelo menos eu vi ali naquele link que
 
 702
 00:32:12,440 --> 00:32:16,610
-aquela luz aí compartilha com a gente
+a Louise compartilhou com a gente
 
 703
 00:32:14,300 --> 00:32:19,730
-tem lá o estilo e eles falam é sobre o
+tem lá o estilo e eles falam sobre o
 
 704
 00:32:16,610 --> 00:32:21,200
-que você mais mais 14 mas seria legal a
+C++ 14 mas seria legal a
 
 705
 00:32:19,730 --> 00:32:24,320
-galera se aprofundar mais porque a
+galera se aprofundar mais porque em
 
 706
 00:32:21,200 --> 00:32:28,010
-relação ao onze e eu 98 você tem
+relação ao 11 e ao 98 você tem
 
 707
 00:32:24,320 --> 00:32:31,040
-bastante funcionalidades que seria
+bastante funcionalidades que seriam
 
 708
 00:32:28,010 --> 00:32:32,330
-interessantes sebs ouvir você tem ali
+interessantes de ser absorvidas você tem ali
 
 709
 00:32:31,040 --> 00:32:33,510
@@ -2832,31 +2832,31 @@ aquela parte mais eu coloquei um
 
 710
 00:32:32,330 --> 00:32:37,250
-quebra-cabeça nós que seria
+quebra-cabeça que seria mais a parte de
 
 711
 00:32:33,510 --> 00:32:39,720
-a comunicação na entre os elementos de
+comunicação entre os elementos de
 
 712
 00:32:37,250 --> 00:32:42,570
-uma aplicação romântica que seria o
+uma aplicação robótica que seria o
 
 713
 00:32:39,720 --> 00:32:44,910
-próprio miller e orós nesse caso aí
+próprio middleware e o ROS nesse caso
 
 714
 00:32:42,570 --> 00:32:47,160
-facilita para gente gente ferramenta mas
+facilita para gente já a ferramenta mas
 
 715
 00:32:44,910 --> 00:32:52,580
-existem outros tremores de robótica que
+existem outros frameworks de robótica que
 
 716
 00:32:47,160 --> 00:32:55,830
-utilizam rtps outras formas de conectar
+utilizam RTPS outras formas de conectar
 
 717
 00:32:52,580 --> 00:32:58,020
@@ -2868,43 +2868,43 @@ pouco mais atualizado com os design
 
 719
 00:32:58,020 --> 00:33:03,120
-patrão utilizado na hora de você fazer
+patterns utilizados na hora de você fazer
 
 720
 00:33:00,480 --> 00:33:05,370
-um parça nós de você depois de ficar
+um parser na hora de você decodificar uma
 
 721
 00:33:03,120 --> 00:33:10,020
-mensagem na hora de você pode ficar
+mensagem na hora de você codificar uma
 
 722
 00:33:05,370 --> 00:33:13,380
-mensagem essa parte aí do da qualidade
+mensagem essa parte aí da qualidade
 
 723
 00:33:10,020 --> 00:33:14,790
-de software né você porque ali por
+de software né você tá ali por
 
 724
 00:33:13,380 --> 00:33:17,340
-dentro do que eu não sei eu não sei de
+dentro do que um CI e um CD faz
 
 725
 00:33:14,790 --> 00:33:20,400
-faz com pedro falou que você ia essa
+como o Pedro falou o CI é essa
 
 726
 00:33:17,340 --> 00:33:23,190
-parte de integração contínua e cd seria
+parte de integração contínua e CD seria
 
 727
 00:33:20,400 --> 00:33:25,020
-a parte de desenvolvimento contínuo na
+a parte de desenvolvimento contínuo
 
 728
 00:33:23,190 --> 00:33:26,160
-produção continua o diante de uma
+produção continua o Jenkins é uma
 
 729
 00:33:25,020 --> 00:33:29,970
@@ -2912,31 +2912,31 @@ ferramenta que a gente utiliza para
 
 730
 00:33:26,160 --> 00:33:31,350
-fazer essas coisas de testar o o seu bil
+fazer essas coisas de testar o seu build
 
 731
 00:33:29,970 --> 00:33:33,520
-disse o sistema de forma automática
+o seu sistema de forma automática
 
 732
 00:33:31,350 --> 00:33:35,980
-também red minnie e gira
+também RedMine e Jira geralmente
 
 733
 00:33:33,520 --> 00:33:38,710
-e ferramentas utilizadas nas empresas
+são ferramentas bem utilizadas nas empresas
 
 734
 00:33:35,980 --> 00:33:42,370
-para você fazer acompanhamento aí do seu
+para você fazer acompanhamento
 
 735
 00:33:38,710 --> 00:33:45,280
-da sua metodologia já eu a também se
+da sua metodologia agile também se
 
 736
 00:33:42,370 --> 00:33:47,980
-aprofundar pouco mais nessa parte dos
+aprofundar um pouco mais nessa parte dos
 
 737
 00:33:45,280 --> 00:33:51,670
@@ -2944,27 +2944,27 @@ scripts tem um pouco de conhecimento do
 
 738
 00:33:47,980 --> 00:33:54,580
-level e também tá ali a parte dos
+low-level e também tá ali a parte dos
 
 739
 00:33:51,670 --> 00:33:56,530
-protocolos e dos pacers ali um pouco do
+protocolos e dos parsers ali um pouco do
 
 740
 00:33:54,580 --> 00:33:58,630
-estilo na que a galera que ela leva eu
+estilo que a galera que é low-level
 
 741
 00:33:56,530 --> 00:34:00,250
-costumo utilizar bastante eu me
+costuma utilizar bastante eu me
 
 742
 00:33:58,630 --> 00:34:02,080
-considero um cara mais high-level assim
+considero um cara mais high-level
 
 743
 00:34:00,250 --> 00:34:04,840
-e geralmente quando eu pego as scripts
+e geralmente quando eu pego esses scripts
 
 744
 00:34:02,080 --> 00:34:07,360
@@ -2980,15 +2980,15 @@ pouco mais aí enfim essas são as formas
 
 747
 00:34:10,360 --> 00:34:15,580
-de vocês acharem tem o meu brinquedinho
+de vocês me acharem tem o meu LinkedIn
 
 748
 00:34:12,520 --> 00:34:17,470
-tenho medo de rabi esse blog e eu acabei
+tem o meu GitHub esse blog eu acabei
 
 749
 00:34:15,580 --> 00:34:19,390
-de ativando tô fazendo aí uma
+desativando tô fazendo aí uma
 
 750
 00:34:17,470 --> 00:34:22,240
@@ -2996,7 +2996,7 @@ reformulação durante a quarentena um
 
 751
 00:34:19,390 --> 00:34:24,730
-pouco mais de tempo então me manda minha
+pouco mais de tempo então minha irmã também
 
 752
 00:34:22,240 --> 00:34:27,250
@@ -3004,11 +3004,11 @@ ela escreve algumas coisas vou colocar
 
 753
 00:34:24,730 --> 00:34:30,460
-um conteúdo dela aí tem aqui não seja só
+um conteúdo dela a idéia é que não seja só
 
 754
 00:34:27,250 --> 00:34:32,270
-robótica mais que seja sei lá na forma
+robótica mas que seja sei lá uma forma
 
 755
 00:34:30,460 --> 00:34:35,270
@@ -3016,11 +3016,11 @@ de você devagar sobre a vida
 
 756
 00:34:32,270 --> 00:34:38,030
-e esses quiseram em breve eu vou
+e se vocês quiseram em breve eu vou
 
 757
 00:34:35,270 --> 00:34:40,490
-disponibilizar roblox tá bom então
+disponibilizar lá o blog tá bom então
 
 758
 00:34:38,030 --> 00:34:42,169
@@ -3032,11 +3032,11 @@ a paciência espero que tenha ajudado né
 
 760
 00:34:42,169 --> 00:34:46,850
-e quando eu disse era uma forma só de
+e como eu disse era uma forma só
 
 761
 00:34:44,510 --> 00:34:50,409
-introdutória de pelo menos mostra a
+introdutória de pelo menos mostrar a
 
 762
 00:34:46,850 --> 00:34:52,970
@@ -3044,11 +3044,11 @@ importância de você escolher um bom nome
 
 763
 00:34:50,409 --> 00:34:54,530
-tem o código limpo que eu falei já dor
+tem o código limpo que eu falei já do
 
 764
 00:34:52,970 --> 00:34:56,690
-albert marth em tem esse livro aqui
+Robert Martin e tem esse livro aqui
 
 765
 00:34:54,530 --> 00:35:02,450
@@ -3056,11 +3056,11 @@ também que é como ser um programador
 
 766
 00:34:56,690 --> 00:35:05,960
-melhor do pit bull godrift então o gol
+melhor do Pete Goodliffe então
 
 767
 00:35:02,450 --> 00:35:07,640
-dele então eu sempre assim sempre que
+eu sempre que
 
 768
 00:35:05,960 --> 00:35:09,380
@@ -3068,19 +3068,19 @@ posso eu faço a leitura dos dois mas
 
 769
 00:35:07,640 --> 00:35:14,300
-assim ó acaba sendo uma leitura mais de
+assim acaba sendo uma leitura mais de
 
 770
 00:35:09,380 --> 00:35:15,800
-passar tempo né não também não fico no
+passar tempo né também não fico
 
 771
 00:35:14,300 --> 00:35:17,870
-não é algo que assim eu clicar em como
+não é algo que eu encare como
 
 772
 00:35:15,800 --> 00:35:20,210
-uma prioridade realmente uma programação
+uma prioridade realmente na programação
 
 773
 00:35:17,870 --> 00:35:22,220
@@ -3108,7 +3108,7 @@ sucesso na vida pelos sucessos aí
 
 779
 00:35:32,280 --> 00:35:39,660
-o desempenho é muito legal tá bom então
+no desempenho é muito legal tá bom então
 
 780
 00:35:37,080 --> 00:35:42,500
