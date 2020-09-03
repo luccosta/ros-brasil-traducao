@@ -624,35 +624,35 @@ então a gente tem cla
 
 157
 00:07:14,810 --> 00:07:23,930
-e numerações ilhas é macros typedefs
+numerações, alias, macros e typedefs.
 
 158
 00:07:19,730 --> 00:07:27,470
-galera mais antiga de ser mais mais tem
+Galera mais antiga de c++, tem
 
 159
 00:07:23,930 --> 00:07:29,060
-os próprios namespaces os pacotes eu vou
+os próprios namespaces, os pacotes. Eu vou
 
 160
 00:07:27,470 --> 00:07:32,210
-tentar trazer um pouco da importância né
+tentar trazer um pouco da importância
 
 161
 00:07:29,060 --> 00:07:34,430
-do de comum isso influencia um projeto
+de como isso influencia em um projeto
 
 162
 00:07:32,210 --> 00:07:37,010
-um pouco maior então trouxe até essa
+um pouco maior. Então eu trouxe até essa
 
 163
 00:07:34,430 --> 00:07:40,340
-charge aí que ela tá naquele livro do
+charge que ela está naquele livro do
 
 164
 00:07:37,010 --> 00:07:42,139
-uncle bob e o robert martin que é um
+uncle bob que é o Robert Martin que é um
 
 165
 00:07:40,340 --> 00:07:44,540
@@ -660,31 +660,31 @@ escritor bem conhecido na área de
 
 166
 00:07:42,139 --> 00:07:47,840
-programação geralmente escreve sobre
+programação. Geralmente escreve sobre
 
 167
 00:07:44,540 --> 00:07:51,380
-boas práticas né como você desenvolveu
+boas práticas, como você desenvolver
 
 168
 00:07:47,840 --> 00:07:56,480
-uma aplicação ali que seja de fácil
+uma aplicação que seja de fácil
 
 169
 00:07:51,380 --> 00:07:59,120
-interpretação que você venha promover a
+interpretação, que você venha promover
 
 170
 00:07:56,480 --> 00:08:00,680
-e o reaproveitamento de código né de uma
+o reaproveitamento de código de uma
 
 171
 00:07:59,120 --> 00:08:02,980
-forma aí mais utilizado um pouco mais
+forma mais otimizada, um pouco mais
 
 172
 00:08:00,680 --> 00:08:06,320
-utilizados essa central peraí às vezes
+otimizada. Essa centopéia às vezes
 
 173
 00:08:02,980 --> 00:08:08,030
@@ -692,15 +692,15 @@ representa os nomes que a gente acaba
 
 174
 00:08:06,320 --> 00:08:11,300
-dando nem para os dentes faces nome de
+dando para os namespaces, nome de
 
 175
 00:08:08,030 --> 00:08:12,470
-funções por exemplo java tem para você
+funções, por exemplo no java você
 
 176
 00:08:11,300 --> 00:08:14,150
-chamar um primo eu lembro quando eu
+chamar um print eu lembro quando eu
 
 177
 00:08:12,470 --> 00:08:16,970
@@ -708,31 +708,31 @@ comecei aprender java para você chamar
 
 178
 00:08:14,150 --> 00:08:18,230
-um print na tela era uma extenção então
+um print na tela era uma extenção. Então
 
 179
 00:08:16,970 --> 00:08:21,280
-geralmente você vai acessar os objetos
+geralmente você vai acessando os objetos
 
 180
 00:08:18,230 --> 00:08:24,080
-com pontos dependendo da linguagem aí né
+com pontos, dependendo da linguagem
 
 181
 00:08:21,280 --> 00:08:27,380
-e aí você acaba formando uma centopeia
+você acaba formando uma centopeia.
 
 182
 00:08:24,080 --> 00:08:30,760
-lira às vezes até nisso a gente também
+Às vezes até nisso a gente também
 
 183
 00:08:27,380 --> 00:08:30,760
-tem que ter um pouco de preocupação
+tem que ter um pouco de preocupação.
 
 184
 00:08:30,840 --> 00:08:36,089
-bom então o nome ele representa a
+Então o nome ele representa a
 
 185
 00:08:34,200 --> 00:08:38,820
@@ -740,15 +740,15 @@ identidade de objeto então se você tá
 
 186
 00:08:36,089 --> 00:08:41,940
-batizando ali uma api se você tá
+batizando uma api, se você tá
 
 187
 00:08:38,820 --> 00:08:43,860
-batizando é um nome de arquivo é
+batizando um nome de arquivo é
 
 188
 00:08:41,940 --> 00:08:45,390
-provavelmente esse arquivo é sabe aí ela
+provavelmente esse arquivo
 
 189
 00:08:43,860 --> 00:08:48,690
@@ -756,15 +756,15 @@ vai ser propaganda aí para muitos
 
 190
 00:08:45,390 --> 00:08:52,110
-usuários e vai acabar sendo reproduzida
+usuários e vai acabar sendo reproduzida.
 
 191
 00:08:48,690 --> 00:08:54,270
-né então se você escolhe um nome que é
+Então se você escolhe um nome que é
 
 192
 00:08:52,110 --> 00:08:56,670
-intuitivo que as pessoas conseguem que
+intuitivo que as pessoas
 
 193
 00:08:54,270 --> 00:08:58,920
@@ -772,19 +772,19 @@ possam conseguir identificar de forma
 
 194
 00:08:56,670 --> 00:09:01,110
-clara né qual o intuito ali daquela
+clara qual o intuito ali daquela
 
 195
 00:08:58,920 --> 00:09:03,120
-apelido aquele ali naquele arquivo esse
+api, daquele arquivo isso
 
 196
 00:09:01,110 --> 00:09:07,170
-facilita porque na comunidade um
+facilita. Porque na comunidade 
 
 197
 00:09:03,120 --> 00:09:09,420
-perforce que mais a gente faz é pegar
+open source o que a gente faz é pegar
 
 198
 00:09:07,170 --> 00:09:12,089
@@ -792,35 +792,35 @@ código já legado mas legado de outras
 
 199
 00:09:09,420 --> 00:09:16,290
-pessoas você editar você tentar entender
+pessoas, você editar, você tentar entender.
 
 200
 00:09:12,089 --> 00:09:18,690
-esse você adota um estilo bom nomes de
+Se você adota um estilo bom, nomes de
 
 201
 00:09:16,290 --> 00:09:20,040
-variáveis legais você facilita o
+variáveis legais, você facilita o
 
 202
 00:09:18,690 --> 00:09:22,620
-trabalho de muitos eu vi que a luz e
+trabalho de muitos. Eu vi que a Louise
 
 203
 00:09:20,040 --> 00:09:25,560
-colocou ali nos comentários né para a
+colocou ali nos comentários para a
 
 204
 00:09:22,620 --> 00:09:27,600
-gente não se tentar entender tudo e é
+gente não tentar entender tudo. É
 
 205
 00:09:25,560 --> 00:09:29,839
-basicamente isso se você tem uma fitinha
+basicamente isso se você tem uma feature
 
 206
 00:09:27,600 --> 00:09:30,850
-para implementar se você tem wi-fi para
+para implementar, se você tem um issue para
 
 207
 00:09:29,839 --> 00:09:34,540
@@ -828,19 +828,19 @@ resolver
 
 208
 00:09:30,850 --> 00:09:36,490
-e não precisa também entender tudo tenta
+e não precisa também entender tudo. Tenta
 
 209
 00:09:34,540 --> 00:09:38,620
-se concentrar em mais corpo do que você
+se concentrar no escopo do que você
 
 210
 00:09:36,490 --> 00:09:42,040
-quer eu tenho certeza que a nomenclatura
+quer. Eu tenho certeza que a nomenclatura
 
 211
 00:09:38,620 --> 00:09:43,779
-utilizada vai te vai te ajudar essa
+utilizada vai te ajudar. Essa
 
 212
 00:09:42,040 --> 00:09:45,910
@@ -852,19 +852,19 @@ dependendo da linguagem você já tem
 
 214
 00:09:45,910 --> 00:09:50,610
-algumas formas de batizar variáveis né
+algumas formas de batizar variáveis
 
 215
 00:09:49,149 --> 00:09:52,750
-pelo menos o estilo a se adotar
+pelo menos o estilo a se adotar.
 
 216
 00:09:50,610 --> 00:09:54,819
-geralmente quando você tem uma máquina
+Geralmente quando você tem uma macro
 
 217
 00:09:52,750 --> 00:09:56,800
-você tem uma constante o pessoal gosta
+ou constante, você tem uma constante o pessoal gosta
 
 218
 00:09:54,819 --> 00:09:59,920
@@ -872,7 +872,7 @@ de ir por exemplo declarar a variável
 
 219
 00:09:56,800 --> 00:10:01,540
-com todas as letras maiúsculas então se
+com todas as letras maiúsculas. Então se
 
 220
 00:09:59,920 --> 00:10:05,920
@@ -880,31 +880,31 @@ você bate o olho ali no meio do código
 
 221
 00:10:01,540 --> 00:10:09,310
-você já sabe que uma constante é teu
+você já sabe que uma constante. Setters
 
 222
 00:10:05,920 --> 00:10:11,920
-cinders que seriam os as interfaces de
+e getters que seriam as interfaces de
 
 223
 00:10:09,310 --> 00:10:14,740
-classes na geralmente o pessoal usa o
+classes que geralmente o pessoal usa o
 
 224
 00:10:11,920 --> 00:10:16,990
-set logo na frente aí agora estão
+set logo na frente. Agora estão
 
 225
 00:10:14,740 --> 00:10:18,730
-mudando né ao invés de usar o gadget o
+mudando, ao invés de usar o get e o
 
 226
 00:10:16,990 --> 00:10:20,860
-nome da variável usar o nome da variável
+nome da variável, usa só o nome da variável.
 
 227
 00:10:18,730 --> 00:10:22,750
-mas são coisas assim que quando você
+Mas são coisas assim que quando você
 
 228
 00:10:20,860 --> 00:10:28,120
@@ -912,7 +912,7 @@ bate o olho você já consegue identificar
 
 229
 00:10:22,750 --> 00:10:30,860
-de cada e assim geralmente quando você é
+de cara. Geralmente quando você é
 
 230
 00:10:28,120 --> 00:10:32,810
@@ -920,27 +920,27 @@ um programador você acaba criando
 
 231
 00:10:30,860 --> 00:10:36,230
-e muitas vezes eu falo por mim mesmo
+e as vezes eu falo por mim mesmo
 
 232
 00:10:32,810 --> 00:10:38,690
-você cria uma certa identificação ali
+você cria uma certa identificação
 
 233
 00:10:36,230 --> 00:10:42,050
-com as coisas que você cria então na
+com as coisas que você cria. Então na
 
 234
 00:10:38,690 --> 00:10:45,470
-hora do batismo você tem que dar o seu
+hora do batismo você tenta dar o seu
 
 235
 00:10:42,050 --> 00:10:47,990
-melhor tal analogia aqui é de uma dos
+melhor. Analogia aqui é de uma dos
 
 236
 00:10:45,470 --> 00:10:50,630
-pais né tentando batizar mais um filho
+pais, tentando batizar mais um filho
 
 237
 00:10:47,990 --> 00:10:52,280
@@ -948,7 +948,7 @@ mesmo ele já tendo passado pela por essa
 
 238
 00:10:50,630 --> 00:10:55,030
-experiência várias vezes então ele já
+experiência várias vezes. Então ele já
 
 239
 00:10:52,280 --> 00:10:57,470
@@ -960,59 +960,59 @@ mesmo vindo mais um você acaba ainda
 
 241
 00:10:57,470 --> 00:11:04,670
-tendo um pouco de preciosismo ali na
+tendo um pouco de preciosismo na
 
 242
 00:11:01,190 --> 00:11:06,950
-hora de decidir o que é que vai papar o
+hora de decidir o qual o
 
 243
 00:11:04,670 --> 00:11:09,560
-nome você vai vai dar ali para suas
+nome você vai dar para suas
 
 244
 00:11:06,950 --> 00:11:11,360
-criações então essa essa chave aqui eu
+criações. Então essa essa charge eu
 
 245
 00:11:09,560 --> 00:11:14,630
-também tirei do código limpo lado vai
+também tirei do código limpo lá do
 
 246
 00:11:11,360 --> 00:11:18,500
-curtir márcia né uncle bob mas comumente
+Robert Martin (Uncle Bob) como é mais comumente
 
 247
 00:11:14,630 --> 00:11:20,660
-conhecido e o livro é bem legal durante
+conhecido e o livro é bem legal. Durante
 
 248
 00:11:18,500 --> 00:11:24,960
-os capítulos assim você tem várias
+os capítulos, você tem várias
 
 249
 00:11:20,660 --> 00:11:27,720
-viagens e inspira né a leitura
+charges e inspira.
 
 250
 00:11:24,960 --> 00:11:34,350
-eu também tirei essas citações do
+Também tirei essas citações do
 
 251
 00:11:27,720 --> 00:11:36,660
-próprio do brasil ic e dos raps né e são
+próprio ros wiki e do ros reps, que são
 
 252
 00:11:34,350 --> 00:11:39,270
-as referências que a gente tem negócio
+as referências que a gente tem no ros.
 
 253
 00:11:36,660 --> 00:11:43,830
-acredito que sejam válidas também para
+Acredito que sejam válidas também para
 
 254
 00:11:39,270 --> 00:11:45,450
-os dois então no brasil por exemplo os
+os ros2. Então no ros wiki, por exemplo os
 
 255
 00:11:43,830 --> 00:11:47,700
@@ -1020,7 +1020,7 @@ nomes desempenha um papel importante no
 
 256
 00:11:45,450 --> 00:11:49,110
-raça e as convenções de nomenclatura a
+ros e as convenções de nomenclatura a
 
 257
 00:11:47,700 --> 00:11:50,760
@@ -1032,7 +1032,7 @@ aprendizado e entendimento de grande
 
 259
 00:11:50,760 --> 00:11:56,370
-sistema então acho que o papel vai ser
+sistema. Então acho que o papel
 
 260
 00:11:53,460 --> 00:11:58,530
@@ -1040,7 +1040,7 @@ mais importante de uma boa nomenclatura
 
 261
 00:11:56,370 --> 00:12:00,180
-quando você como eu já falei mas quando
+é quando você, como eu já falei, mas quando
 
 262
 00:11:58,530 --> 00:12:02,490
@@ -1052,7 +1052,7 @@ mais complexo que você tem vários
 
 264
 00:12:02,490 --> 00:12:07,260
-componentes então o com mais eficiente
+componentes. Então o com mais eficiente
 
 265
 00:12:05,610 --> 00:12:09,900
@@ -1060,7 +1060,7 @@ você consegue ser na hora do batismo
 
 266
 00:12:07,260 --> 00:12:12,000
-melhor na hora de você vou voltar daqui
+melhor na hora de você ou voltar daqui
 
 267
 00:12:09,900 --> 00:12:14,520
@@ -1072,59 +1072,59 @@ quando uma pessoa que nunca viu seu
 
 269
 00:12:14,520 --> 00:12:20,560
-código for mexer conseguir entender né
+código for mexer conseguir entender.
 
 270
 00:12:17,100 --> 00:12:23,529
-então essa
+Então essa
 
 271
 00:12:20,560 --> 00:12:25,939
-e essa segunda estação aqui eu tirei do
+segunda citação aqui eu tirei do
 
 272
 00:12:23,529 --> 00:12:30,559
-orós ce
+ros
 
 273
 00:12:25,939 --> 00:12:34,579
-os raps né kiel você lembra a sigla fmi
+REPS que significa 
 
 274
 00:12:30,559 --> 00:12:36,649
-propose repouso me corrijam se estiver
+ROS Enhancement Proposal, me corrijam se estiver
 
 275
 00:12:34,579 --> 00:12:39,109
-errado mas é uma página que você tenha
+errado. É uma página que você tem
 
 276
 00:12:36,649 --> 00:12:42,559
-de boas práticas desde o batismo de
+boas práticas desde o batismo de
 
 277
 00:12:39,109 --> 00:12:46,759
-pacotes e como você usar por exemplo uma
+pacotes, de como você usar por exemplo uma
 
 278
 00:12:42,559 --> 00:12:49,009
-referência um creme de referência em uma
+referência um frame de referência em uma
 
 279
 00:12:46,759 --> 00:12:51,229
-câmera né google qual qual o eixo deve
+câmera, qual o eixo deve
 
 280
 00:12:49,009 --> 00:12:53,329
-apontar para onde para onde qual o
+apontar para onde, qual o
 
 281
 00:12:51,229 --> 00:12:56,059
-sistema de coordenadas você utilizar
+sistema de coordenadas você utilizar,
 
 282
 00:12:53,329 --> 00:12:57,470
-como seu robô vai se comportar eu
+como seu robô vai se comportar. Eu
 
 283
 00:12:56,059 --> 00:13:01,279
@@ -1132,11 +1132,11 @@ confesso que quando eu comecei a
 
 284
 00:12:57,470 --> 00:13:06,589
-programar desenvolver né pros não tinha
+desenvolver para ros, não tinha
 
 285
 00:13:01,279 --> 00:13:09,949
-ciência dos raps e assim no as questions
+ciência dos REPS e assim no ros questions
 
 286
 00:13:06,589 --> 00:13:12,979
@@ -1144,11 +1144,11 @@ eu vi a bastante gente referenciando o
 
 287
 00:13:09,949 --> 00:13:16,579
-raps e desde então eu sempre passei a
+REPS e desde então eu sempre passei a
 
 288
 00:13:12,979 --> 00:13:17,989
-consultar-se minhas dúvidas por lá e às
+consultar minhas dúvidas por lá e às
 
 289
 00:13:16,579 --> 00:13:20,510
@@ -1156,63 +1156,63 @@ vezes conseguia fazer algumas
 
 290
 00:13:17,989 --> 00:13:22,850
-atualizações né
+atualizações
 
 291
 00:13:20,510 --> 00:13:24,830
-em algumas coisas que ia ficar com tempo
+em algumas coisas que
 
 292
 00:13:22,850 --> 00:13:27,860
-acabam às vezes até que um pouco
+com o tempo às vezes ficando um pouco
 
 293
 00:13:24,830 --> 00:13:29,330
-obsoleto e eu deixei as referências lá
+obsoleto e eu deixei as referências
 
 294
 00:13:27,860 --> 00:13:32,930
-no final dos slides então se vocês
+no final dos slides, então se vocês
 
 295
 00:13:29,330 --> 00:13:34,460
-quiserem dar uma olhada vale a pena
+quiserem dar uma olhada, vale a pena.
 
 296
 00:13:32,930 --> 00:13:36,050
-então as cassar a medida aqui número de
+Então a medida aqui número de
 
 297
 00:13:34,460 --> 00:13:37,700
-pacotes mais aumenta fica difícil
+pacotes ros aumenta, fica difícil
 
 298
 00:13:36,050 --> 00:13:40,100
-encontrar rapidamente um pacote a dever
+encontrar rapidamente um pacote e adivinhar
 
 299
 00:13:37,700 --> 00:13:42,140
-a sua função funcionalidade com base no
+a sua funcionalidade com base no
 
 300
 00:13:40,100 --> 00:13:45,830
-nome
+nome.
 
 301
 00:13:42,140 --> 00:13:48,830
-é uma forma de você é meio-dia aí outras
+Uma forma de você medir.
 
 302
 00:13:45,830 --> 00:13:52,160
-chardy aí na forma de você beijinho uma
+Outra charge. Na forma de você medir a
 
 303
 00:13:48,830 --> 00:13:53,840
-qualidade de um código varia desde a
+qualidade de um código, varia desde a
 
 304
 00:13:52,160 --> 00:13:58,130
-conta desde a cobertura de testes
+cobertura de testes
 
 305
 00:13:53,840 --> 00:14:01,070
@@ -1220,31 +1220,31 @@ unitários até quantidade de wtf por
 
 306
 00:13:58,130 --> 00:14:04,820
-minuto reza a lenda que esse wtf aí
+minuto. Reza a lenda que esse wtf aí
 
 307
 00:14:01,070 --> 00:14:08,110
-significa o óleo inferior tanto que você
+significa "what is the failure" tanto que você
 
 308
 00:14:04,820 --> 00:14:10,730
-tenta mesmo comando no rosto queiroz wtf
+tenta mesmo comando no ros que é ros wtf.
 
 309
 00:14:08,110 --> 00:14:12,710
-algumas dizem que significa outra coisa
+Algumas dizem que significa outra coisa
 
 310
 00:14:10,730 --> 00:14:17,990
-né mas eu acredito que seja horas de
+mas eu acredito que seja "what is the
 
 311
 00:14:12,710 --> 00:14:22,030
-fila então como expliquei geralmente a
+failure". Então como expliquei geralmente é
 
 312
 00:14:17,990 --> 00:14:25,370
-comum você ter projetos complexos então
+comum você ter projetos complexos. Então
 
 313
 00:14:22,030 --> 00:14:29,350
